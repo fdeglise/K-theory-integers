@@ -161,6 +161,17 @@ class FormatTests(unittest.TestCase):
             with self.assertRaises(Invalid):
                 read_json(p)
 
+    def test_earlier_generated_evidence_is_preserved(self):
+        with tempfile.TemporaryDirectory() as td:
+            p=Path(td)/"evidence.json"
+            write_json(p,{"run":1});previous=p.read_bytes()
+            write_json(p,{"run":2})
+            history=list((p.parent/"history").glob("evidence-*.json"))
+            self.assertEqual(len(history),1)
+            self.assertEqual(history[0].read_bytes(),previous)
+            write_json(p,{"run":2})
+            self.assertEqual(len(list((p.parent/"history").glob("evidence-*.json"))),1)
+
 
 class CertificateTests(unittest.TestCase):
     def setUp(self):

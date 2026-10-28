@@ -95,6 +95,9 @@ and discovery statistics live in result files, never in certificate content.
 Linux RSS is reported in KiB for the process; address-space limits and RSS
 are different quantities. Timing/resource limits use floating-point clocks;
 certification arithmetic exclusively uses Python integers and `Fraction`.
+JSON writes are atomic. Different earlier generated content is preserved in
+an adjacent `history/` directory named by its original byte hash, including
+earlier certificate bundles. Identical deterministic content is left in place.
 
 ## Mathematical dependency handling
 

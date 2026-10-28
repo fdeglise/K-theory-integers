@@ -1488,12 +1488,12 @@
   },
   "measurements": {
     "cpu_count": 16,
-    "elapsed_seconds": 0.8855474030133337,
+    "elapsed_seconds": 0.8027112719137222,
     "jobs": 1,
     "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
-    "process_peak_rss_kib": 19264,
-    "process_system_seconds": 0.009002,
-    "process_user_seconds": 0.9173009999999999,
+    "process_peak_rss_kib": 19364,
+    "process_system_seconds": 0.013982,
+    "process_user_seconds": 0.8229679999999999,
     "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
     "software_version": "1.0.0"
   },
@@ -1504,5 +1504,5 @@
   "source_sha256": "d0b58f52da26e64b20649dffe4e317efd31a9d6b0c5e4d5b1407dbf5d636359d",
   "status": "SUCCESS",
   "unresolved_checks": [],
-  "verification_seconds": 0.815793722984381
+  "verification_seconds": 0.741224079974927
 }

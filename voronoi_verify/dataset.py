@@ -3,6 +3,8 @@
 import hashlib
 import json
 import math
+import os
+import tempfile
 from pathlib import Path
 
 from .exact import integer, rank, require, symmetric_coords, outer, transpose
@@ -30,9 +32,33 @@ def digest(x):
 
 
 def write_json(path, obj):
+    """Save atomically, retaining any different earlier generated evidence.
+
+    Histories are named by their original byte hash, so repeated saves of the
+    same earlier content create no extra copies. Source originals are handled
+    separately by acquisition and are never overwritten.
+    """
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(obj, sort_keys=True, indent=2) + "\n", encoding="utf-8")
+    raw = (json.dumps(obj, sort_keys=True, indent=2) + "\n").encode("utf-8")
+    if path.exists():
+        previous = path.read_bytes()
+        if previous == raw:
+            return
+        h = hashlib.sha256(previous).hexdigest()
+        history = path.parent / "history" / f"{path.stem}-{h}{path.suffix}"
+        history.parent.mkdir(parents=True, exist_ok=True)
+        if history.exists():
+            require(history.read_bytes() == previous, "conflicting evidence history")
+        else:
+            history.write_bytes(previous)
+    with tempfile.NamedTemporaryFile(dir=path.parent, prefix=f".{path.name}.", delete=False) as f:
+        temporary = Path(f.name)
+        f.write(raw)
+    try:
+        os.replace(temporary, path)
+    finally:
+        temporary.unlink(missing_ok=True)
 
 
 def read_json(path):

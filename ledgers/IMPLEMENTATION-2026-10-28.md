@@ -52,13 +52,20 @@ and updated ledgers. The specification agrees with the implementation.
 The Smith-form correction affects only an unimplemented extension. No
 report or original historical ledger was edited by this implementation task.
 
-Validation: all 25 focused unittest tests passed in ordinary mode and under
+Validation: the initial 25 focused unittest tests passed in ordinary mode and under
 `python3 -O`. This includes the real dataset, every saved witness, explicit
 rational induced coordinates, an even ray permutation with negative cone
 orientation, input/certificate tampering, missing records, forced limits,
 offline checking, and distinct CLI exit statuses. A separate saved-certificate
 run took 0.886 seconds with peak RSS 19,264 KiB. Rechecked available RAM, disk,
 CPU count and absent Sage/GAP/PARI; details are in `results/environment.json`.
+Added a further evidence-retention test and atomic JSON saving with adjacent
+content-addressed history, honoring the new instruction to preserve earlier
+saved evidence across different runs.
+Final validation: all 26 tests passed under `python3 -O` in 4.540 seconds.
+The final offline recheck accepted 106/106 saved certificates in 0.854 seconds
+with peak RSS 19,528 KiB (`results/final-verification.json`). The original
+target and saved-certificate byte hashes remained unchanged.
 
 The resulting K-theory statement is conditional on the complete explicit
 external dependency list. This is exact software verification, not an

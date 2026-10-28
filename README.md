@@ -57,8 +57,10 @@ python3 -m voronoi_verify full
 embedded SHA-256 values before saving. It refuses to overwrite conflicting
 existing originals. `import` deterministically rebuilds the default normalized
 file. `full` validates an existing normalized file; it does not repair altered
-input silently. Output paths are relative to the working directory; commands
-overwrite their requested generated outputs. Original ledgers are preserved.
+input silently. Output paths are relative to the working directory. When a
+JSON output changes, its earlier bytes are retained under the adjacent
+`history/` directory with a SHA-256 filename before replacement. Text summaries
+are regenerated from the JSON evidence. Original ledgers are preserved.
 
 The actual full run recorded in `results/full.json` checked **106/106** cells,
 with **3.004 seconds** elapsed, including **2.168 seconds** of discovery and
