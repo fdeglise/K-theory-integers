@@ -1,0 +1,532 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern,microtype}
+\usepackage[margin=28mm]{geometry}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{booktabs,tabularx,array,enumitem}
+\usepackage{xcolor,xurl}
+\usepackage[colorlinks=true,linkcolor=blue!45!black,citecolor=blue!45!black,urlcolor=blue!45!black]{hyperref}
+\usepackage{bookmark}
+\setlength{\parindent}{1.1em}
+\setlength{\parskip}{2pt}
+\setlength{\emergencystretch}{2em}
+\setlist[enumerate]{itemsep=3pt,topsep=5pt}
+\setlist[itemize]{itemsep=2pt,topsep=4pt}
+\numberwithin{equation}{section}
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{lemma}[proposition]{Lemma}
+\newtheorem{theorem}[proposition]{Theorem}
+\newtheorem{corollary}[proposition]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[proposition]{Definition}
+\newtheorem{notation}[proposition]{Notation}
+\theoremstyle{remark}
+\newtheorem{remark}[proposition]{Remark}
+\newtheorem{example}[proposition]{Example}
+\newcommand{\Z}{\mathbf Z}
+\newcommand{\Q}{\mathbf Q}
+\newcommand{\R}{\mathbf R}
+\newcommand{\GL}{\operatorname{GL}}
+\newcommand{\St}{\operatorname{St}}
+\newcommand{\Vor}{\operatorname{Vor}}
+\newcommand{\Sym}{\operatorname{Sym}}
+\newcommand{\sgn}{\operatorname{sgn}}
+\newcommand{\rank}{\operatorname{rank}}
+\newcommand{\im}{\operatorname{im}}
+\newcommand{\coker}{\operatorname{coker}}
+\newcommand{\Span}{\operatorname{span}}
+\newcommand{\tr}{\operatorname{tr}}
+\newcommand{\BQ}{BQ\Z}
+\title{\vspace{-1.2em}Verifying the computation of \(K_8(\Z)\):\\
+finite certificates and admitted inputs}
+\author{Project synthesis}
+\date{28 October 2026}
+\begin{document}
+\maketitle
+\vspace{-1.3em}
+\begin{abstract}
+We describe a local verification of the rank-eight Voronoi calculation
+used in the proof that \(K_8(\Z)=0\).
+The finite task is to exhibit an orientation-reversing integral symmetry
+for each of 106 published vector configurations.
+We specify a finite search, an independent exact checker, and the
+mathematical implication of a successful run.
+Completeness of the cell list, lower-rank computations, and the
+comparison and arithmetic theorems remain explicit inputs.
+The result is a reproducible verification relative to these inputs;
+the document does not assume that a successful run has already occurred.
+\end{abstract}
+
+\section{The question and the strategy}\label{sec:intro}
+
+The difficulty in computing \(K_8(\Z)\) is the possible torsion.
+Calculations with rational coefficients alone cannot exclude it.
+Dutour Sikirić, Elbaz-Vincent, Kupers and Martinet proved that
+\(K_8(\Z)=0\) by combining low-dimensional Voronoi cells,
+earlier arithmetic-group homology calculations, and arithmetic
+information at small primes \cite[Theorem~6.4]{DEKM}.
+Our purpose is to make a specific finite ingredient of this proof
+independently checkable on an ordinary computer.
+
+Throughout the report let
+\[
+ R=\Z[1/7!]=\Z[1/210].
+\]
+The Voronoi comparison turns the required rank-eight calculation into
+\(H_8(\Vor_8;R)=0\). In this case there is a particularly economical
+certificate: every generator in chain degree eight disappears because
+its stabilizer reverses its orientation. The task therefore consists
+of finding and checking finitely many integral matrices. No boundary
+matrix or Smith reduction is needed for this step.
+
+There are two distinct questions about the input. First, does the
+published list contain a representative of every relevant cell?
+Second, does each listed representative possess the asserted symmetry?
+We admit the published classification for the first question and
+compute witnesses for the second. Keeping these questions separate
+is essential: checking a finite file cannot by itself prove that
+no orbit was omitted from its construction.
+
+Section~\ref{sec:data} identifies the geometric input and fixes the
+degree convention. Proposition~\ref{prop:orientation} gives the exact
+orientation test, while Proposition~\ref{prop:search} proves that the
+specified finite search finds a reversing symmetry whenever one exists.
+Section~\ref{sec:bridge} records the published inputs that pass from
+Voronoi homology to \(K\)-theory.
+The final Theorem~\ref{thm:certificate} states precisely what a complete
+successful run certifies, and under which premises it recovers
+\(K_8(\Z)=0\).
+
+\section{The cells and the admitted data}\label{sec:data}
+
+Let \(L=\Z^N\), and regard lattice vectors as columns. For a positive
+definite quadratic form on \(L\), choose one vector from each pair
+of opposite minimal vectors. Their rank-one matrices generate a cone
+in \(\Sym_N(\R)\). The cones arising in this way form the relevant
+faces of the perfect-cone decomposition; passage to positive scaling
+gives the projective cells of the Voronoi complex
+\cite[\S1.2]{DEKM}.
+
+\begin{notation}\label{not:configuration}
+For a finite configuration \(V=(v_1,\ldots,v_s)\) of nonzero integral
+vectors, let us write
+\[
+ A_i=v_i v_i^{\,t},\qquad
+ W_V=\Span_{\Q}\{A_1,\ldots,A_s\},\qquad
+ \sigma_V=\sum_{i=1}^s\R_{\geq0}A_i.
+\]
+We write \(c=\dim_{\Q}W_V\). The cone has dimension \(c\), and its
+projectivization has dimension \(c-1\).
+\end{notation}
+
+The ambient rank \(N\), the number \(s\) of vector pairs, and the cone
+dimension \(c\) have different meanings. In particular, the target
+\(H_8(\Vor_8;R)\) concerns \(N=8\) and \(c=9\), not \(c=8\).
+The program will calculate both the rank of the vectors and the rank
+of their rank-one matrices over \(\Q\).
+
+The proposed input is the file
+\[
+ \text{\small\path{DATA_gap/ListSHV_n8_rnk9}}
+\]
+in the authors' database \cite{Data}. A preliminary inspection of the
+file gives 106 records. Each record contains nine primitive vectors
+of \(\Z^8\), spanning \(\Q^8\), whose rank-one matrices are linearly
+independent. Thus \(N=8\), \(s=c=9\), and the projective dimension is
+eight. These elementary properties will be recomputed by the verifier;
+this inspection is not a symmetry calculation.
+
+The file labels require care. The neighboring file with label
+\texttt{rnk8}, and the standalone \texttt{cells\_GL8\_dim8.gp}, concern
+the preceding cone dimension. One must use the computed rank \(c\)
+to identify the homological degree. This also avoids transferring
+a dimension label from a table without checking its convention.
+
+\begin{definition}\label{def:admission}
+Let us define the \emph{classification input} to be the assertion that
+the chosen list consists of realizable Voronoi cells and contains a
+representative of every \(\GL_8(\Z)\)-orbit of projective eight-cells
+meeting the positive definite locus.
+\end{definition}
+
+Version one admits Definition~\ref{def:admission} from the published
+classification \cite[\S\S3--4]{DEKM} and the accompanying database
+\cite{Data}. This includes the identification of the retained file
+with the published classification. It does not enumerate all perfect forms,
+test realizability by shortest-vector searches, or independently prove
+that every orbit occurs. Pairwise inequivalence of the representatives
+is unnecessary for the vanishing argument: coverage is what matters.
+
+The input must nevertheless have a reproducible identity.
+The implementation will retain the original file, its repository
+revision and checksum, and a deterministic conversion to column
+vectors. It will check integrality, primitivity, absence of zero or
+duplicate rays, full ambient rank, and cone dimension.
+The checksum fixes which bytes were checked; the classification input
+supplies the mathematical completeness assertion.
+
+\section{An exact orientation certificate}\label{sec:orientation}
+
+Let \(V\) span \(\Q^N\), and suppose its vectors represent distinct
+primitive lattice lines. An integral symmetry is a matrix
+\(g\in\GL_N(\Z)\) for which
+\begin{equation}\label{eq:signed}
+ g v_i=\epsilon_i v_{p(i)}
+ \qquad(1\leq i\leq s),
+ \qquad \epsilon_i\in\{1,-1\},\quad p\in\mathfrak S_s.
+\end{equation}
+It acts on \(W_V\) by \(T_g(A)=gAg^t\).
+This convention corresponds to the right action
+\(A\mapsto\gamma^tA\gamma\) in the source by taking \(\gamma=g^t\).
+
+The sign of \(\det(g)\) on the lattice is not the orientation sign
+of the cell. The latter concerns the action on symmetric matrices.
+
+\begin{definition}\label{def:certificate}
+Let us define an \emph{orientation certificate} for \(V\) to be an
+integer matrix \(g\), a permutation \(p\), and signs \(\epsilon_i\)
+satisfying \eqref{eq:signed}, together with the conditions
+\[
+ \det(g)\in\{1,-1\},
+ \qquad
+ \det\!\left(T_g|_{W_V}\right)<0.
+\]
+A saved certificate also records the source configuration and the
+exact coordinate calculation of the second determinant.
+\end{definition}
+
+To compute this determinant, choose the first linearly independent
+\(A_i\)'s in a fixed ordering, obtaining a basis
+\(B_1,\ldots,B_c\) of \(W_V\). Exact elimination gives the matrix
+\(M_g\) determined by
+\begin{equation}\label{eq:action}
+ gB_k g^t=\sum_{\ell=1}^{c}(M_g)_{\ell k}B_\ell.
+\end{equation}
+One may flatten a symmetric matrix into its upper-triangular entries;
+this is simply a coordinate isomorphism and requires no approximation.
+The checker verifies the equalities in \eqref{eq:action} and computes
+\(\det M_g\) over \(\Q\).
+
+\begin{proposition}\label{prop:orientation}
+An orientation certificate reverses the orientation of the projective
+cell associated with \(V\). If the matrices \(A_1,\ldots,A_s\) are
+linearly independent, its orientation sign is \(\sgn(p)\).
+\end{proposition}
+
+\begin{proof}
+Put \(C=\sum_i A_i\). Equation~\eqref{eq:signed} gives
+\(gCg^t=C\). The matrix \(C\) lies in the relative interior of
+\(\sigma_V\), and the tangent space of its projectivization at
+\([C]\) is \(W_V\otimes\R\) modulo the fixed line \(\R C\).
+The action on that line is the identity. Its removal therefore does
+not change the determinant sign.
+
+If the \(A_i\)'s are independent, they form a basis and
+\(T_g(A_i)=A_{p(i)}\). Thus \(M_g\) is the permutation matrix of \(p\).
+The signs \(\epsilon_i\) disappear on passing to rank-one matrices.
+\end{proof}
+
+For the proposed 106 configurations, the independence check makes the
+second statement applicable: an odd permutation of the nine rays
+suffices. Computing \eqref{eq:action} as well provides a direct check
+of the degree and orientation conventions. For a more general
+configuration with relations between its rank-one generators, the
+action on their span remains the correct test.
+
+\begin{example}\label{ex:orientation}
+Take \(V=(e_1,e_2)\) in \(\Z^2\). The matrix exchanging \(e_1\) and
+\(e_2\) exchanges the two generators of the cone of nonnegative
+diagonal matrices, and reverses its projective interval.
+By contrast, \(g=\operatorname{diag}(-1,1)\) has lattice determinant
+\(-1\) but fixes both rank-one generators. It preserves the cell's
+orientation. This example separates the two determinants.
+\end{example}
+
+\section{The finite search and the independent checker}\label{sec:algorithm}
+
+We now specify a complete finite search. It supplies a precise
+baseline algorithm; an implementation may use a faster symmetry
+routine to produce the same kind of witnesses.
+
+For each configuration let \(C=\sum_i v_i v_i^t\) and \(Q=C^{-1}\).
+Full ambient span makes \(C\) positive definite.
+Any solution of \eqref{eq:signed} satisfies
+\begin{equation}\label{eq:isometry}
+ gCg^t=C,\qquad g^tQg=Q.
+\end{equation}
+The rational scalar products defined by \(Q\) therefore constrain
+the possible images of a basis.
+
+Choose deterministically \(N\) independent vectors
+\(u_1,\ldots,u_N\) from \(V\), and put \(U=(u_1\ \cdots\ u_N)\).
+Run the following procedure, with exact integer and rational arithmetic.
+\begin{enumerate}
+\item Choose the images \(w_a\) successively from
+      \(\{\pm v_1,\ldots,\pm v_s\}\), without repeating a lattice line.
+      Keep a partial choice only if
+      \[
+       w_a^tQw_b=u_a^tQu_b
+      \]
+      for every pair of indices already chosen, including \(a=b\).
+\item For each surviving complete choice, put
+      \(U'=(w_1\ \cdots\ w_N)\) and \(g=U'U^{-1}\).
+      Reject it unless all entries of \(g\) are integers and
+      \(\det g=\pm1\).
+\item Check the image of every vector in \(V\), recovering and
+      verifying a bijection \(p\) and the signs in \eqref{eq:signed}.
+      Compute the induced action \eqref{eq:action}.
+\item Save the first candidate with negative orientation sign.
+      If the entire finite search has no such candidate, report that
+      fact for this configuration. If a resource limit interrupts
+      the search, report it as incomplete.
+\end{enumerate}
+Using a basis of the rational span does not mean that \(U\) is a
+unimodular matrix. The integrality and determinant checks in the
+second step are indispensable.
+
+\begin{proposition}\label{prop:search}
+Without a resource cutoff, this procedure terminates and finds an
+orientation certificate whenever one exists.
+\end{proposition}
+
+\begin{proof}
+There are at most
+\(2^N s!/(s-N)!\) choices of signed images of the independent vectors.
+Every integral symmetry gives one of these choices, and
+\eqref{eq:isometry} shows that none of its partial choices is removed
+by the scalar-product tests. The images of a basis determine the
+linear map uniquely, so the second step recovers that symmetry.
+The remaining tests are exactly its defining conditions.
+\end{proof}
+
+This finite bound is not a practical runtime estimate.
+The scalar-product constraints can remove most branches early;
+their effectiveness must be measured on the actual data.
+For a successful proof by witnesses, the search need not exhaust
+the stabilizer: one reversing element per cell is enough.
+
+The independent checker takes the original normalized configurations
+and the saved witnesses. For each record it recomputes the ranks,
+the unimodularity of \(g\), every equality in \eqref{eq:signed},
+and the induced determinant. It does not trust dimensions, signs,
+or action matrices merely because the search saved them.
+It also verifies that every required input record has a certificate
+and that the dataset identity agrees.
+
+A faster search may therefore use group packages or heuristics without
+enlarging the mathematical claim accepted by the checker. An incorrect
+candidate is rejected. A search timeout leaves an unfinished cell.
+Only explicit exact witnesses contribute to the successful coverage
+count. The remaining computational trust consists of the checker,
+its arithmetic libraries, and their execution; this is not a
+formal proof-assistant verification.
+
+\section{The admitted passage to \texorpdfstring{\(K\)}{K}-theory}\label{sec:bridge}
+
+We record the published inputs in the order in which the conclusion
+uses them. They are mathematical premises of the local verification,
+not theorems that the program proves.
+
+Let \(\St_N\) be the Steinberg module: the top reduced integral homology
+of the rational Tits building for \(N\geq2\), with the customary
+rank-one convention. The equivariant cell spectral sequence for the
+Voronoi decomposition gives
+\begin{equation}\label{eq:comparison}
+ H_j(\Vor_N;R)\simeq
+ H_{j-N+1}\bigl(\GL_N(\Z);\St_N\otimes R\bigr)
+\end{equation}
+when the finite cell-stabilizer orders are invertible in \(R\)
+\cite[Proposition~1.5]{DEKM}. In rank eight their prime divisors
+are at most nine, hence lie in \(\{2,3,5,7\}\).
+The chosen ring \(R\) therefore suffices.
+
+More explicitly, the contribution of a cell to the degree-zero
+stabilizer row is the module of coinvariants of its orientation line.
+A reversing stabilizer identifies a generator \(x\) with \(-x\);
+since \(2\) is invertible, this module is zero.
+Positive stabilizer homology also vanishes over \(R\).
+Thus certificates for every projective eight-cell imply
+\begin{equation}\label{eq:rank8}
+ V_8(\Vor_8;R)=0,\qquad
+ H_8(\Vor_8;R)=0,\qquad
+ H_1(\GL_8(\Z);\St_8\otimes R)=0.
+\end{equation}
+The first equality needs only completeness of the cell list and
+the checked symmetries; the comparison theorem supplies the last.
+
+Quillen's rank filtration gives the first-quadrant spectral sequence
+\begin{equation}\label{eq:rankfiltration}
+ E^1_{N,q}=H_q(\GL_N(\Z);\St_N\otimes R)
+ \ \Longrightarrow\ H_{N+q}(\BQ;R),
+\end{equation}
+with the rank-zero starting space a point
+\cite[Theorem~3]{Quillen}; see also
+\cite[\S6, proof of Proposition~6.1]{DEKM}.
+The complete diagonal needed in total degree nine is as follows.
+\begin{center}
+\small
+\begin{tabularx}{\linewidth}{@{}c c X@{}}
+\toprule
+Rank \(N\)&Degree \(q\)&Input giving \(E^1_{N,q}=0\) over \(R\)\\
+\midrule
+\(1\)&\(8\)&
+\(\GL_1(\Z)=\{1,-1\}\), whose positive homology vanishes after
+inverting \(2\).\\
+\(2,3,4\)&\(7,6,5\)&
+The classical lower-rank results recorded in
+\cite[Table~5]{DEKM}.\\
+\(5,6,7\)&\(4,3,2\)&
+The vanishing of degree-eight Voronoi homology in
+\cite[Theorem~4.3]{EVGS}, with the comparison \eqref{eq:comparison}.\\
+\(8\)&\(1\)&
+The checked orientation certificates, the classification input,
+and \eqref{eq:rank8}.\\
+\(9\)&\(0\)&
+Steinberg coinvariant vanishing
+\cite[Theorem~1.3]{LS}; see \cite[Remark~6.2]{DEKM}.\\
+\bottomrule
+\end{tabularx}
+\end{center}
+Version one admits the entries outside rank eight.
+Ranks above nine cannot contribute because they would require
+\(q<0\). Every entry on the diagonal is already zero on the first
+page, so there is no differential or extension to determine there.
+Consequently,
+\begin{equation}\label{eq:H9}
+ H_9(\BQ;R)=0.
+\end{equation}
+
+By definition \(K_8(\Z)=\pi_9(\BQ)\).
+The degree-nine Hurewicz homomorphism
+\[
+ \pi_9(\BQ)\longrightarrow H_9(\BQ;\Z)
+\]
+has kernel supported at \(2,3,5\)
+\cite[Proposition~6.3]{DEKM}, by the infinite-loop-space
+Hurewicz bound of \cite[Theorem~1.5]{Arlettaz}.
+It becomes injective after tensoring with \(R\).
+Equation~\eqref{eq:H9} therefore implies
+\begin{equation}\label{eq:localizedK}
+ K_8(\Z)\otimes R=0.
+\end{equation}
+
+Finally, the arithmetic inputs remove the four inverted primes.
+The group \(K_8(\Z)\) has no \(2\)-primary torsion
+\cite[VI, Corollary~9.8]{Weibel}.
+For an odd regular prime \(\ell\), the positive even \(K\)-groups of
+\(\Z\) have no \(\ell\)-torsion
+\cite[VI, Proposition~10.5]{Weibel}; this applies to \(3,5,7\).
+These are substantive external theorems. Their role is not replaced
+by reducing the cell matrices modulo these primes.
+
+\section{The precise certification claim}\label{sec:claim}
+
+A run should produce a witness for each input record and enough exact
+data to recheck it independently: the integral matrix, the signed
+permutation, a basis of \(W_V\), and its induced action.
+The summary should give the input revision, the number of records
+checked, their computed dimensions, any unfinished records, and the
+admitted premises. Elapsed time and resource measurements describe
+that run; they are not mathematical evidence of completeness.
+
+The logical distinction is between three levels. A checked witness
+certifies an exact symmetry of one supplied configuration.
+Checking all records certifies the corresponding finite conjunction.
+The classification and comparison inputs then give a statement
+about the whole Voronoi complex, and the remaining published inputs
+give the statement about \(K\)-theory.
+
+\begin{theorem}\label{thm:certificate}
+Suppose that the independent checker accepts an orientation certificate
+for every record of a list of rank-eight configurations with
+projective dimension eight.
+
+For each record, its output certifies an orientation-reversing element
+of \(\GL_8(\Z)\) stabilizing the associated cone.
+If the classification input of Definition~\ref{def:admission} holds,
+then
+\[
+ H_8(\Vor_8;R)=0.
+\]
+Under the comparison, lower-rank, rank-filtration, Hurewicz, and
+arithmetic inputs specified in Section~\ref{sec:bridge}, it follows
+that
+\[
+ \boxed{K_8(\Z)=0.}
+\]
+\end{theorem}
+
+\begin{proof}
+The exact witness checks and Proposition~\ref{prop:orientation} prove
+the assertion for each configuration. Completeness of the list makes
+every cell contribution in degree eight zero, giving
+\eqref{eq:rank8}. The zero diagonal of \eqref{eq:rankfiltration}
+and Hurewicz injectivity give \eqref{eq:localizedK}.
+
+For the last step, localization zero means that each element of
+\(K_8(\Z)\) is annihilated by a power of \(210\).
+A nonzero such element would have a nonzero component of prime-power
+order for one of \(2,3,5,7\), contrary to the cited arithmetic
+vanishing. This implication does not require a separate rank
+calculation or finite-generation argument.
+\end{proof}
+
+The initial program will thus check a concrete finite part of an
+established proof while retaining an explicit list of its mathematical
+premises. It will not certify that the 106 configurations exhaust all
+orbits by reconstructing their enumeration. Removing that admission
+would require a further completeness certificate for the classification.
+Likewise, extending the program to higher \(K\)-groups requires new
+mathematical input whenever the relevant chain groups or spectral
+sequence diagonal no longer vanish.
+
+\clearpage
+\begin{thebibliography}{9}\small
+\bibitem{DEKM}
+M.~Dutour Sikirić, P.~Elbaz-Vincent, A.~Kupers and J.~Martinet,
+\emph{Voronoi complexes in higher dimensions, cohomology of
+\(\GL_N(\Z)\) for \(N\geq8\) and the triviality of \(K_8(\Z)\)}.
+The theorem numbering used here follows the
+\href{https://jamartin.perso.math.cnrs.fr/Publications/DEKM.pdf}{authors' manuscript};
+see also \href{https://arxiv.org/abs/1910.11598}{arXiv:1910.11598}.
+
+\bibitem{Data}
+P.~Elbaz-Vincent, \emph{Voronoi complexes database},
+\href{https://github.com/elbazvip/Voronoi-complexes-database}{public repository}.
+The input inspected for this report is
+\path{DATA_gap/ListSHV_n8_rnk9}, revision
+\path{d4c7b40ad2c95850d16160b347953dbaa9241486}.
+Its SHA-256 checksum is
+\path{d0b58f52da26e64b20649dffe4e317efd31a9d6b0c5e4d5b1407dbf5d636359d}.
+The implementation must retain and check the source bytes.
+
+\bibitem{EVGS}
+P.~Elbaz-Vincent, H.~Gangl and C.~Soulé,
+\emph{Perfect forms, \(K\)-theory and the cohomology of modular groups},
+Advances in Mathematics \textbf{245} (2013), 587--624.
+\href{https://www.ihes.fr/~soule/documents/YAIMA4438.pdf}{Author PDF}.
+
+\bibitem{Quillen}
+D.~Quillen,
+\emph{Finite generation of the groups \(K_i\) of rings of algebraic integers},
+in \emph{Algebraic \(K\)-Theory I}, Lecture Notes in Mathematics
+\textbf{341}, Springer, 1973, 179--198.
+
+\bibitem{LS}
+R.~Lee and R.~H.~Szczarba,
+\emph{On the homology and cohomology of congruence subgroups},
+Inventiones Mathematicae \textbf{33} (1976), 15--53.
+
+\bibitem{Arlettaz}
+D.~Arlettaz,
+\emph{The Hurewicz homomorphism in algebraic \(K\)-theory},
+Journal of Pure and Applied Algebra \textbf{71} (1991), 1--12.
+
+\bibitem{Weibel}
+C.~A.~Weibel, \emph{The \(K\)-book: An introduction to algebraic
+\(K\)-theory}, Graduate Studies in Mathematics \textbf{145},
+American Mathematical Society, 2013.
+\href{https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf}{Chapter VI}.
+\end{thebibliography}
+\end{document}

@@ -1,0 +1,9 @@
+* text=auto
+*.pdf binary
+*.png binary
+*.jpg binary
+*.zip binary
+
+# Preserve upstream bytes and the original historical ledger verbatim.
+data/original/** -text -whitespace
+"ledgers/Computing K of the Integers.md" -text -whitespace

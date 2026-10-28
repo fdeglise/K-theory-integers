@@ -1,0 +1,47 @@
+{
+  "certificates": [
+    {
+      "ambient_determinant": "-1",
+      "basis_indices": [
+        0,
+        1
+      ],
+      "cell_id": "coordinate-rays#0001",
+      "dataset_sha256": "4df3ad7ec582ed0fdaec495d36ca4c96b3e97c725fe1373673b448be0d697378",
+      "g": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "induced_action": [
+        [
+          "0",
+          "1"
+        ],
+        [
+          "1",
+          "0"
+        ]
+      ],
+      "orientation_determinant": "-1",
+      "signed_permutation": {
+        "permutation": [
+          1,
+          0
+        ],
+        "signs": [
+          1,
+          1
+        ]
+      },
+      "source_record": 1
+    }
+  ],
+  "dataset_sha256": "4df3ad7ec582ed0fdaec495d36ca4c96b3e97c725fe1373673b448be0d697378",
+  "schema": "voronoi-certificates-v1"
+}

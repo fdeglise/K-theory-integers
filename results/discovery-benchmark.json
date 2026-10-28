@@ -1,0 +1,748 @@
+{
+  "cells": [
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0001",
+      "elapsed_seconds": 0.016977809951640666,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0002",
+      "elapsed_seconds": 0.01853860600385815,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0003",
+      "elapsed_seconds": 0.016354450955986977,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0004",
+      "elapsed_seconds": 0.016191105009056628,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0005",
+      "elapsed_seconds": 0.01605255506001413,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0006",
+      "elapsed_seconds": 0.017632365925237536,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0007",
+      "elapsed_seconds": 0.016667888034135103,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0008",
+      "elapsed_seconds": 0.01678228296805173,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0009",
+      "elapsed_seconds": 0.01608962402679026,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0010",
+      "elapsed_seconds": 0.015392618020996451,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0011",
+      "elapsed_seconds": 0.02996481698937714,
+      "nodes": 53,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0012",
+      "elapsed_seconds": 0.043179310974664986,
+      "nodes": 67,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0013",
+      "elapsed_seconds": 0.018858445109799504,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0014",
+      "elapsed_seconds": 0.017041407991200686,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0015",
+      "elapsed_seconds": 0.01652975904289633,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0016",
+      "elapsed_seconds": 0.01697159791365266,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0017",
+      "elapsed_seconds": 0.01861138199456036,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0018",
+      "elapsed_seconds": 0.017490069032646716,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0019",
+      "elapsed_seconds": 0.016425644978880882,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0020",
+      "elapsed_seconds": 0.016178390942513943,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0021",
+      "elapsed_seconds": 0.019485741038806736,
+      "nodes": 19,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0022",
+      "elapsed_seconds": 0.01857252896297723,
+      "nodes": 19,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0023",
+      "elapsed_seconds": 0.01764613203704357,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0024",
+      "elapsed_seconds": 0.015156064066104591,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0025",
+      "elapsed_seconds": 0.0191346030915156,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0026",
+      "elapsed_seconds": 0.018590844003483653,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0027",
+      "elapsed_seconds": 0.02002495201304555,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0028",
+      "elapsed_seconds": 0.01875528204254806,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0029",
+      "elapsed_seconds": 0.016183900996111333,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0030",
+      "elapsed_seconds": 0.017170000006444752,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0031",
+      "elapsed_seconds": 0.016604720032773912,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0032",
+      "elapsed_seconds": 0.01776099798735231,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0033",
+      "elapsed_seconds": 0.01917317498009652,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0034",
+      "elapsed_seconds": 0.01865618594456464,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0035",
+      "elapsed_seconds": 0.0167788959806785,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0036",
+      "elapsed_seconds": 0.016932855010963976,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0037",
+      "elapsed_seconds": 0.01686015899758786,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0038",
+      "elapsed_seconds": 0.016275863046757877,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0039",
+      "elapsed_seconds": 0.016855741036124527,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0040",
+      "elapsed_seconds": 0.01816769002471119,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0041",
+      "elapsed_seconds": 0.022519518970511854,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0042",
+      "elapsed_seconds": 0.017882706015370786,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0043",
+      "elapsed_seconds": 0.016011166968382895,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0044",
+      "elapsed_seconds": 0.015686549013480544,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0045",
+      "elapsed_seconds": 0.018158121965825558,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0046",
+      "elapsed_seconds": 0.03754202299751341,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0047",
+      "elapsed_seconds": 0.016420314903371036,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0048",
+      "elapsed_seconds": 0.01640039694029838,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0049",
+      "elapsed_seconds": 0.037216702941805124,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0050",
+      "elapsed_seconds": 0.01624550693668425,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0051",
+      "elapsed_seconds": 0.02252313494682312,
+      "nodes": 32,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0052",
+      "elapsed_seconds": 0.023811612045392394,
+      "nodes": 32,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0053",
+      "elapsed_seconds": 0.01727490604389459,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0054",
+      "elapsed_seconds": 0.017422623001039028,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0055",
+      "elapsed_seconds": 0.01938717602752149,
+      "nodes": 19,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0056",
+      "elapsed_seconds": 0.018320095958188176,
+      "nodes": 19,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0057",
+      "elapsed_seconds": 0.01705506502185017,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0058",
+      "elapsed_seconds": 0.016337237902916968,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0059",
+      "elapsed_seconds": 0.015856486978009343,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0060",
+      "elapsed_seconds": 0.016210090019740164,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0061",
+      "elapsed_seconds": 0.015524614951573312,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0062",
+      "elapsed_seconds": 0.015824907924979925,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0063",
+      "elapsed_seconds": 0.015297598903998733,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0064",
+      "elapsed_seconds": 0.015288381953723729,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0065",
+      "elapsed_seconds": 0.015834845951758325,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0066",
+      "elapsed_seconds": 0.020580773940309882,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0067",
+      "elapsed_seconds": 0.015902262995950878,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0068",
+      "elapsed_seconds": 0.018551198998466134,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0069",
+      "elapsed_seconds": 0.01884257502388209,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0070",
+      "elapsed_seconds": 0.015936957905068994,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0071",
+      "elapsed_seconds": 0.016347737982869148,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0072",
+      "elapsed_seconds": 0.018909370992332697,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0073",
+      "elapsed_seconds": 0.015834816033020616,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0074",
+      "elapsed_seconds": 0.01581969892140478,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0075",
+      "elapsed_seconds": 0.015675186994485557,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0076",
+      "elapsed_seconds": 0.03384821699000895,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0077",
+      "elapsed_seconds": 0.015575351077131927,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0078",
+      "elapsed_seconds": 0.015662683988921344,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0079",
+      "elapsed_seconds": 0.014791821013204753,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0080",
+      "elapsed_seconds": 0.014716378995217383,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0081",
+      "elapsed_seconds": 0.017358092009089887,
+      "nodes": 16,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0082",
+      "elapsed_seconds": 0.03563953598495573,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0083",
+      "elapsed_seconds": 0.03391758701764047,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0084",
+      "elapsed_seconds": 0.032827374059706926,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0085",
+      "elapsed_seconds": 0.03379538794979453,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0086",
+      "elapsed_seconds": 0.015098255011253059,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0087",
+      "elapsed_seconds": 0.016533225891180336,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0088",
+      "elapsed_seconds": 0.016151499934494495,
+      "nodes": 12,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0089",
+      "elapsed_seconds": 0.03608313703443855,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0090",
+      "elapsed_seconds": 0.017698640935122967,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0091",
+      "elapsed_seconds": 0.014981796965003014,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0092",
+      "elapsed_seconds": 0.0381629669573158,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0093",
+      "elapsed_seconds": 0.035757577046751976,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0094",
+      "elapsed_seconds": 0.03431172692216933,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0095",
+      "elapsed_seconds": 0.01572765503078699,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0096",
+      "elapsed_seconds": 0.036381818004883826,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0097",
+      "elapsed_seconds": 0.016924359020777047,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0098",
+      "elapsed_seconds": 0.0349444430321455,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0099",
+      "elapsed_seconds": 0.01598569902125746,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0100",
+      "elapsed_seconds": 0.015968878054991364,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0101",
+      "elapsed_seconds": 0.01581347710452974,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0102",
+      "elapsed_seconds": 0.015910608926787972,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0103",
+      "elapsed_seconds": 0.014700991101562977,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0104",
+      "elapsed_seconds": 0.014822790049947798,
+      "nodes": 10,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0105",
+      "elapsed_seconds": 0.03382998297456652,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    },
+    {
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0106",
+      "elapsed_seconds": 0.03496124397497624,
+      "nodes": 15,
+      "reason": null,
+      "status": "FOUND"
+    }
+  ],
+  "elapsed_seconds": 2.1295706850942224,
+  "max_rss_kib": 19912
+}

@@ -1,0 +1,11035 @@
+{
+  "anomalies": [],
+  "cells": [
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "da8ce568dfdec0f949a337479e350578ca7f485211d68ceba214e640e3a89cde",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0001",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 1,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          2,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "9c450e20cf0bdb8f2a206ebeb36bb6168cc1d835803dbce1781d60d6c46cf27b",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0002",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 2,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "5ddfb2b43de47e2db8dfc925372a118e0d0f81cb1ab5ca2647bd48225c475b01",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0003",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 3,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          -1,
+          -1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "d93a235b9c739bfc4334fcedc19dec192e5e79995b06400785057ea782461c4a",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0004",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 4,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "5a67622313803c4d01a419454e6c6123e84b78a0eb6bf1d418b1adb6672ddc78",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0005",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 5,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "29bbac84344c16cf6977b4c0bcca71eccc2499ea45cc4a9576bc6c0baaf31c72",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0006",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 6,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "027aff0d7229a23106c9ea246192211359f4ad71431f30e044387e9363284248",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0007",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 7,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          -1,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "20eb2c3854c15551bb1e91232438fa0bb6a793462b5db1f09c36c86c847320d2",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0008",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 8,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          -1,
+          1,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "30c4a3cfac06f8c0cf1a5d134dcd6b53d20bc1a904c8f2575088a04adc89c379",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0009",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 9,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "6d27882c29f28dfea5404e7847abb97d427e9c870ae449c394d34e29153164db",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0010",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 10,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "82445f075be411fc96e7e83fce34f754920f477958565bcb9b784f819d72c7d1",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0011",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 11,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "a5e1885c667f167bb81b2d273b8e453baba0ae1f3efbec2b5efb2749cc67c7f6",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0012",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 12,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "33c01f86fe94bfd6036a7dd3f0ddb35ca56f5dc0cb33c4e20159465332dde747",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0013",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 13,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "1c2bf0b56de3300a131ccd292d59b9bcf24e6a005db7d20938f99b1d97b3d94d",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0014",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 14,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "b5bc9b62dc9ce1ec587737c865005b6086108680251ba8961bd50c57e1df26e9",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0015",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 15,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "a875bd656369ccc2e9363f855d4c8e3a239d933e6efef83cc7c44f4505d1e99e",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0016",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 16,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          -1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "302025ce0688026060db10a36be3ded36375bd4963485f4b23b4550eea8ff5e7",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0017",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 17,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "7afb3b3689a8ebc1b86dc5e8c88139b4633e96c173b170480eb2fb325db17b8f",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0018",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 18,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "166fec943764b050fd684be600048669f89c386988373de8396f658a6318d320",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0019",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 19,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "1744a3c0bfa5bb06e1aff2f11885059434ea09a676bff343d231b1ec6a7a0cad",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0020",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 20,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "26ad1e3df46a36092ec8484183a960fe33cf60c44b5623501f57aa46856882b3",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0021",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 21,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          2,
+          -1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "bacc67c9f0a8a89de2be65eb9716ee85d47986f7b020a46ebff2a6d6f9449623",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0022",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 22,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "cf58b224af06d5b63aed89e7c4cf30f038bcfce14890a19d2bf2f865d78f6a9d",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0023",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 23,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          -1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "fa715b141be074c48497fc3433b2ddd68686e200a4f4e6c1b6dd08d37f13923f",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0024",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 24,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "bf06e18293c90a2204bd24306cb50464dfca60d838f3eb503914429717388e7b",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0025",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 25,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          2,
+          1,
+          -1,
+          1,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "e315bab624a6fd055709965111cac14a366016e9bbbf3b5c650dea5ee09c1276",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0026",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 26,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          1,
+          -1,
+          1,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "391318ad6154fb34cc75f72bd3e38379c7bc505c8b9193cf82ebc211c1a82306",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0027",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 27,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          0,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "d9eaa49ea7bebdf51abe471d8d0e21d6d4c0e6276fed05b3fdefaeaa603d516b",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0028",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 28,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          0,
+          -1,
+          1,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "f704619e5b5ed8345a414e71e147a486846d0f5df2e6f6f7ccac623f9df51456",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0029",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 29,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "98b39d35871da5f82cff7e1c9b8c9f6b4199b70849bc51e4eed2ee07917bd8b7",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0030",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 30,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "d18b2c51f42810a3b99b1ba8748a6326bc8c08cb6ab1d025cfe3c85939bc0590",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0031",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 31,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "afa7a92a404de21ce362f5c67958ffd2d23e81fe3039e87f7b1b841caeca90c2",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0032",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 32,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "5bb6a07c7c94b5e2a81ecec06d35e395f84bbd9f63567e110a0f18bee25011cc",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0033",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 33,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "cd881abd79417c4b95a8065c356715c5da221c469a8708a0234aa6441c43c92d",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0034",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 34,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "bd063e125a2e6f111ed4c6c975d7c84f8469f2135870f306b84a39858eb2d982",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0035",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 35,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "9e7597cd8da3901d66aa3cabc3e569f67de020b2bec7c1a39fee203f286cbb99",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0036",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 36,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "48b72f827eee76b1d506e87f81b66df149a4e67653bf30c6b4f0902ca0f67c98",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0037",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 37,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "034fe5af00bbc1a965cabf9be4882ea61fa7d1760bbdb6d14147f6f7a8d91a0e",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0038",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 38,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "552de5190e3238c1c607691404bd5f31900655179532b7e898785fb25effb81e",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0039",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 39,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "d49e01ef54d2280f011fa232764ed23dcc9baeb7f77b86f535754a8e95bcf7f2",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0040",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 40,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "95d10d1a4729ba625b46cf61bb0e55f0cc69d23f09a1c307a94b84da3552565c",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0041",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 41,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ],
+        [
+          3,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -2
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "47411b4ab5e75664425c73ae76d2fe9513383310658f459c43173d57e37894df",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0042",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 42,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ],
+        [
+          2,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "7b19de8af7c7688aed1973af0c261d006929fad53140f14b8c64656e0f9b2f63",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0043",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 43,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ],
+        [
+          2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "42c248b91608c8552c9a889f03f5b9d778115b47983db2531c031417a787045a",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0044",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 44,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "dc006db135798087eb216f68d76d598a9fe694785960544e658be14b220cbbf9",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0045",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 45,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          0,
+          -1,
+          -1,
+          -1
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "04ea33f99eddbb3f42e5211a52cf837486f1d4a173ea5264bb35b88b5298f0ac",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0046",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 46,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -1,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "36a171b66019c621145b5d627dcf2ac262bf33f873786f2f3c2e1dcdd36d5fbb",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0047",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 47,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -1,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "f8293aaa940b2c5dc56c9c822dd43bd2e115f33bcf1cc998e6e220e38203ef31",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0048",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 48,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -1,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "8763b1a498a2aed0ed1b7615e7cf780c6009f2a10f5357aea7497d96e60ac51a",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0049",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 49,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          1,
+          1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -1,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          -1,
+          1,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "8dd5ed56834df410b72a64cfbbcc8814fedd4b9da5749a5478e2f2a2c84632c6",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0050",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 50,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          -2,
+          1,
+          0,
+          1,
+          0,
+          1,
+          -1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "c57a421ce483134dbd9cec33ce81832ecff003de77ad9006c2a5aef2a625132e",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0051",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 51,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -3,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "64a4b081c5063f8d8ecfea0dd789f3fdeef52205ddd83951a2c75afc575187b8",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0052",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 52,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -3,
+          2,
+          1,
+          1,
+          1,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "fba460e6d2772d5aefaaec7e30213d513eb9ffbcc9615d3093aa4c80b6f0b9ca",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0053",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 53,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "bdc754d4fa25c01540757939eef1a75899ac34b26c08a6daf2ad6f08b1958cde",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0054",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 54,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "8ce6453ecfd65d64bbe0ee4da02fe8641d548c6666581b4ef79e0ecd50c0ef01",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0055",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 55,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "0b2e4e974c217f65ea86165ca70cd6d48cfd2a0486a637d15e2da8671cf0e875",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0056",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 56,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "8f90cc53f04060abca83434400ee816d8868312710dc50b76d3d37d5c19632d9",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0057",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 57,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "5fedc5aa5667ca6347c6ee232e20696f699c66d816f364151ccee3b8109f5256",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0058",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 58,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "cf9c59e17b1624da1fb1e661fa19c62cc6ba234e301f26ee62dc772cefbddde6",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0059",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 59,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "65b9725e384d42e3cc5cf0269f6caaabac700a374bb5bc5118eef3396537f6aa",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0060",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 60,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "ba3839fbcbbf24fbb4c5a3fb80cc76fd4e72c50853c6a48a911e41c3ad73872e",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0061",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 61,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "11d5519a99d144613892dd7a3e4e779e51833fa4035b05813afbe09352c28eec",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0062",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 62,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "41a9e0f43f2e5cea634af18e09f96ea538eb9c8f0241ea0a99ed295e72d85b65",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0063",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 63,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "4e68d9ee05e9f7b62fe25a6cf0a4e127c2cd1862af7ca82fcfb332cf0f40e13b",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0064",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 64,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "a402b9a0e825484428d63922e60d32e7769b2ffcbb642d32c6246cd62c28ab03",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0065",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 65,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          -1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "0ad33623531c2f1cfe002bbc2e03db15747680bc9f5ec62faaf6acbbd1b0b1a3",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0066",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 66,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "af359849bb45d06367f4c15716a81d3b0dcd3a0f65891bac1b0ddfeb4e166d28",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0067",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 67,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "57e987e29e2a8279a7574cbbb6b776fe40061bceee4a6d4ce7dfbae063caf30a",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0068",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 68,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "0109b2da06fc312dba1e6e92d9109cbb6daddeeb9d8fc787d6bb2c4ab429d580",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0069",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 69,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          -2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "e99442011e3c5a9aa08cf6981ce170c87fa4aa016278b660eec35f5d6c69c9e6",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0070",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 70,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -3,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "47a21eda89853a67d4b7de3482861fe959f187355cdbd53415cadf7875942f00",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0071",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 71,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          2,
+          -1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "f150d6320696c27388f20ddf1935221992bc7ac0dbd13714e77b4bd61826fb55",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0072",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 72,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          1,
+          -1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "75f988fe0350561a6a1be88301acbd0a28a94189aa78722a573ee3db4b397ca7",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0073",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 73,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          1,
+          -1,
+          1,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "14cb58a1081f5c0a660edeccee45436cd4ec630d028465bd8a2145adeebe4a82",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0074",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 74,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "56586beb0d17935fab9e1be44e6b5bea5806090db4e107ca480b217d7a235a3b",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0075",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 75,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "3ceb0497cef0a73ddeb1f9ed3b34349bfdd68b9cb5e1431dc0a164236577a053",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0076",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 76,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "9ad6f419c5341fb13aeddf65d632c0af1bc6fada5708bb539afb784babefbc99",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0077",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 77,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "867049d33d7e9ab8f32398fb708c827f7035848b676fd1f6a28b87cbd4731e4f",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0078",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 78,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "98e8476d11a493bb72d077fd510e15acd56429c09e439bb5afee131a4c9b872e",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0079",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 79,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "ea67721f0e080948466f40fc1c1537dee269a7ce18f1cee95bbda20c8c7c6b3e",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0080",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 80,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "31bff3cc356f295b4824491695162f7cec944bf01fc0150848e09dcff2752c10",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0081",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 81,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "37bca5acfced5a50d68de348eed63a1e504f0b5ae7d2aeca8f427b2762e75325",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0082",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 82,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "4f77b67e88d15cfe80501d6179742d10aab133b9477ebfbdfca9614c56b59dcf",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0083",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 83,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "a7b9e3d44504391b25cece46fa4caedc402ba9fc195c8d884efcd06539cc014c",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0084",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 84,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "1e5a666c68c1bedbfcba320bb7b1557a7c29e52b86cbfd5bab3b5e5219de3c74",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0085",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 85,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "548be44ae13859c38812ccc4e8be0f9e2a1e3cd5794824b6ea6af0d4847794ba",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0086",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 86,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "0777834d091d090a05e70aa524b75289df3fc3184c536f7ec59b3bf31a659fc9",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0087",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 87,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "469fd5d7a78015b4a43997db150f564167e16da9315aca32a6443000bb08273e",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0088",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 88,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "96a44f0de10e748936d02e778a9a31a968095547ba7e52bc1aca4eafadf6f62a",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0089",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 89,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "b0d9618b69407af710c5c854ef7fcaaf0fc80d4eb7e0517844b78c9aa56d9458",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0090",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 90,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "77af2cb676f64abeb47cbc11d75864731b20437c1d03fa6c8fa87665c17bee3c",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0091",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 91,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "6a855352b4429881bfb0ee0b75b6400c7127da68bb39e7ce7b9ccb59a90f4277",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0092",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 92,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "df7b9baa3398106832234046fb4f0d6b5d7c2af584996d1020c732d525e0956c",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0093",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 93,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "ad2044a0031f17a9f4b45f326324aab459258e9e0845725fb185c6f63e6cbb11",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0094",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 94,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "1c8000999ce6b0a98bfc30ef9bd6a45272961e4bbc7fc34ce61969a2cb4adfb3",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0095",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 95,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "374873a3d58f97decbb7f55df576fa61826200e0e8f8a17806ced214b58022c9",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0096",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 96,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "b11a4eb1b48835e7498128dbd92793659f56d8736a2af287deab0ab736f09076",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0097",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 97,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "1811fb94efb5f4a3bb732096e38bf7527c43c0fbd6020f384d86eb1a27aa04d5",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0098",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 98,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "76d0275956e01a1a1e7ff81da6e6b90c0fb9cfb2774ded1fa0ff3517de613e15",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0099",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 99,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          -1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          -1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "634eb8dbadd32e8a66cae26573f642182805f0754a5818b62b9f351303c18c56",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0100",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 100,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          -1,
+          1,
+          -1,
+          1,
+          -1,
+          1
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "f1300dd1b9cda93688e2345c4df4635a04dc399ee3889ff96422838ce1353131",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0101",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 101,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "f281337f42c2419372b39d4f1bccd968b5360d8b7a3e7f8de4c41d55b0c771e6",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0102",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 102,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "57da30f8c320e20ef155f9fb48724b332627937240464431e7822021c447bea9",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0103",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 103,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "45063ff5f59f435a2f9caabd507776651f82f0a5832a09bacc4f2cd18a5d2459",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0104",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 104,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "d19c2cd6f60bfa6da7ec5bde548746e9cd52abc6fa7907c34373dfad81007119",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0105",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 105,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "ambient_rank": 8,
+      "cone_dimension": 9,
+      "configuration_sha256": "c3936f8066e31ae9a778a33aaa8dadf025d7d0a0f4e17ec355dfd097d1065207",
+      "id": "DATA_gap/ListSHV_n8_rnk9#0106",
+      "primitive": true,
+      "projective_dimension": 8,
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_record": 106,
+      "vector_pairs": 9,
+      "vector_rank": 8,
+      "vectors": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    }
+  ],
+  "convention": "integer column vectors; g*v",
+  "dataset_sha256": "72eca61c28a61bda8b3b0c5d7d12d35a9352751dd9253fa331d34f125f543a02",
+  "external_vector_storage": "rows",
+  "schema": "voronoi-dataset-v1",
+  "source": "DATA_gap/ListSHV_n8_rnk9",
+  "source_sha256": "d0b58f52da26e64b20649dffe4e317efd31a9d6b0c5e4d5b1407dbf5d636359d"
+}

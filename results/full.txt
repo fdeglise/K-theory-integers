@@ -1,0 +1,3 @@
+SUCCESS: 106/106 certificates checked; CHECKED_ALL_PINNED_PUBLISHED_RECORDS.
+H_8(Vor_GL_8; Z[1/7!])=0 and K_8(Z)=0 conditional on the listed external mathematical premises.
+Elapsed 3.004 s; peak RSS 21844 KiB.

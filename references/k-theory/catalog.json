@@ -1,0 +1,166 @@
+{
+  "schema": "k-theory-reference-corpus-v1",
+  "scope": "K_8 verification and its admitted mathematical inputs",
+  "rights_note": "Author, institutional, archive, or publisher copies retained for scholarly reference. Original rights remain with their holders; no project license is asserted for these PDFs.",
+  "entries": [
+    {
+      "authors": "Dutour Sikiric, Elbaz-Vincent, Kupers, Martinet",
+      "title": "Voronoi complexes in higher dimensions and the triviality of K_8(Z)",
+      "role": "Main computation; §§1,4–6, degree conventions, comparison and Hurewicz.",
+      "source_url": "https://jamartin.perso.math.cnrs.fr/Publications/DEKM.pdf",
+      "retrieved_utc": "2026-10-28T21:44:16.594587+00:00",
+      "status": "downloaded",
+      "file": "pdfs/01_DEKM_Voronoi-K8.pdf",
+      "resolved_url": "https://jamartin.perso.math.cnrs.fr/Publications/DEKM.pdf",
+      "bytes": 239179,
+      "sha256": "eb49d991c6509ccb7432a5e85955a735534885d0a4250c92044c2d1cab35cda4",
+      "pages": 23,
+      "first_page_excerpt": "VORONOI COMPLEXES IN HIGHER DIMENSIONS, COHOMOLOGY\nOF GLN (Z) FOR N ⩾ 8 AND THE TRIVIALITY OF K8 (Z)\nMATHIEU DUTOUR SIKIRIĆ, PHILIPPE ELBAZ-VINCENT, ALEXANDER KUPERS,\nAND JACQUES MARTINET\nAbstract. We enumerate the low dimensional cells in the Voronoi cell complexes\nattached to the modular groups SLN (Z) and GLN (Z) for N = 8, 9, 10, 11, using\nquotient sublattice techniques for N = 8, 9 and linear programming methods for\nhigher dimensions. These"
+    },
+    {
+      "authors": "Elbaz-Vincent, Gangl, Soule",
+      "title": "Perfect forms, K-theory and the cohomology of modular groups",
+      "role": "Earlier ranks; Theorem 4.3 and exact homology methods.",
+      "source_url": "https://www.ihes.fr/~soule/documents/YAIMA4438.pdf",
+      "retrieved_utc": "2026-10-28T21:44:16.595304+00:00",
+      "status": "downloaded",
+      "file": "pdfs/02_EVGS_Perfect-forms.pdf",
+      "resolved_url": "https://www.ihes.fr/~soule/documents/YAIMA4438.pdf",
+      "bytes": 706640,
+      "sha256": "f82731a182988e1b190bf1c46d8f8b54d24bfbaf165eda01733ccfbc752f4f0b",
+      "pages": 39,
+      "first_page_excerpt": "This article appeared in a journal published by Elsevier. The attached\ncopy is furnished to the author for internal non-commercial research\nand education use, including for instruction at the authors institution\nand sharing with colleagues.\nOther uses, including reproduction and distribution, or selling or\nlicensing copies, or posting to personal, institutional or third party\nwebsites are prohibited.\nIn most cases authors are permitted to post th"
+    },
+    {
+      "authors": "Charles A. Weibel",
+      "title": "The K-book, Chapter VI: The higher K-theory of fields",
+      "role": "Arithmetic inputs; Corollary 9.8 and Proposition 10.5.",
+      "source_url": "https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf",
+      "retrieved_utc": "2026-10-28T21:44:16.595745+00:00",
+      "status": "downloaded",
+      "file": "pdfs/03_Weibel_Kbook-VI.pdf",
+      "resolved_url": "https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf",
+      "bytes": 673944,
+      "sha256": "efca16d77ed598735aa4e819be48d10d35bec0cf1b4138548f94f67922d40cd1",
+      "pages": 66,
+      "first_page_excerpt": "CHAPTER VI\n\nTHE HIGHER K-THEORY OF FIELDS\n\nThe problem of computing the higher K-groups of fields has a rich history, beginning with Quillen’s calculation for finite fields (IV.1.13), and Borel’s calculation\nof K∗ (F ) ⊗ Q for number fields (IV.1.18), Tate’s calculations of the Milnor Kgroups of number fields (III.7.2) and Quillen’s observation that the image of the\nstable homotopy groups π∗s in K∗ (Z) contained the image of the J-homomorphism,\nw"
+    },
+    {
+      "authors": "Daniel Quillen",
+      "title": "Finite generation of the groups K_i of rings of algebraic integers",
+      "role": "Original rank filtration; Theorem 3.",
+      "source_url": "https://www.sas.rochester.edu/mth/sites/doug-ravenel/otherpapers/bass-seattle.pdf",
+      "retrieved_utc": "2026-10-28T21:44:16.596204+00:00",
+      "status": "downloaded",
+      "file": "pdfs/04_Quillen_Finite-generation.pdf",
+      "resolved_url": "https://www.sas.rochester.edu/mth/sites/doug-ravenel/otherpapers/bass-seattle.pdf",
+      "bytes": 809213,
+      "sha256": "b919fdf98122a4ee7e136439cf7ce50168fa044714d59e5b447b9fdd35dfcb1c",
+      "pages": 20,
+      "first_page_excerpt": "Scanned paper: title and Theorem 1 on printed p.179 through references on printed p.198.",
+      "source_document_sha256": "9e10948869fcaf64251261294efddf3f4c13ec31838d9a89a7b5b96a4f0c933b",
+      "source_document_pages": 343,
+      "source_document_bytes": 17533301,
+      "extraction": {
+        "source_physical_pages_1_based": [
+          187,
+          206
+        ],
+        "printed_pages": [
+          179,
+          198
+        ],
+        "method": "pypdf page extraction; first and last pages visually verified"
+      }
+    },
+    {
+      "authors": "John Rognes, Charles A. Weibel",
+      "title": "Two-primary algebraic K-theory of rings of integers in number fields",
+      "role": "Underlying 2-primary computations.",
+      "source_url": "https://sites.math.rutgers.edu/~weibel/archive/papers-dir/RognesWeibel.pdf",
+      "retrieved_utc": "2026-10-28T21:44:16.596610+00:00",
+      "status": "downloaded",
+      "file": "pdfs/05_Rognes-Weibel_Two-primary.pdf",
+      "resolved_url": "https://sites.math.rutgers.edu/~weibel/archive/papers-dir/RognesWeibel.pdf",
+      "bytes": 748888,
+      "sha256": "9d770c079313ccc26f29da641d301269edf12985f122fd107ab201f086e8f446",
+      "pages": 54,
+      "first_page_excerpt": "JOURNAL OF THE\nAMERICAN MATHEMATICAL SOCIETY\nVolume 13, Number 1, Pages 1–54\nS 0894-0347(99)00317-3\nArticle electronically published on August 23, 1999\n\nTWO-PRIMARY ALGEBRAIC K-THEORY\nOF RINGS OF INTEGERS IN NUMBER FIELDS\nJ. ROGNES AND C. WEIBEL\nWITH AN APPENDIX BY M. KOLSTER\n\nIntroduction\nIn the early 1970’s, Lichtenbaum [L1, L2] made several distinct conjectures about\nthe relation between the algebraic K-theory, étale cohomology and zeta funct"
+    },
+    {
+      "authors": "Achill Schuermann",
+      "title": "Enumerating perfect forms",
+      "role": "Background on full Voronoi enumeration, outside the first verifier.",
+      "source_url": "https://arxiv.org/pdf/0901.1587",
+      "retrieved_utc": "2026-10-28T21:44:18.151606+00:00",
+      "status": "downloaded",
+      "file": "pdfs/06_Schuermann_Enumerating-perfect-forms.pdf",
+      "resolved_url": "https://arxiv.org/pdf/0901.1587",
+      "bytes": 279036,
+      "sha256": "bc8659109c8627a7e4e67bceea89d7ad5598bd4ef3f677b5dc718ceab040660e",
+      "pages": 22,
+      "first_page_excerpt": "arXiv:0901.1587v1 [math.NT] 12 Jan 2009\n\nENUMERATING PERFECT FORMS\nACHILL SCHÜRMANN\nAbstract. A positive definite quadratic form is called perfect, if it is\nuniquely determined by its arithmetical minimum and the integral vectors attaining it. In this self-contained survey we explain how to enumerate perfect forms in d variables up to arithmetical equivalence and\nscaling. We put an emphasis on practical issues concerning computer\nassisted enumer"
+    },
+    {
+      "authors": "Keller, Martinet, Schuermann",
+      "title": "On classifying Minkowskian sublattices",
+      "role": "Classification and sublattice methods underlying admitted input.",
+      "source_url": "https://arxiv.org/pdf/0904.3110",
+      "retrieved_utc": "2026-10-28T21:44:18.154032+00:00",
+      "status": "downloaded",
+      "file": "pdfs/07_Keller-Martinet-Schuermann_Minkowskian-sublattices.pdf",
+      "resolved_url": "https://arxiv.org/pdf/0904.3110",
+      "bytes": 376072,
+      "sha256": "f31628dda22e44d033ef9d28cdb1bc338a1c612d404aeb1f37051cc27e603f10",
+      "pages": 35,
+      "first_page_excerpt": "arXiv:0904.3110v3 [math.NT] 2 Feb 2011\n\nON CLASSIFYING MINKOWSKIAN SUBLATTICES\nWOLFGANG KELLER, JACQUES MARTINET AND ACHILL SCHÜRMANN\n(WITH AN APPENDIX BY MATHIEU DUTOUR SIKIRIĆ)\n\nAbstract. Let Λ be a lattice in an n-dimensional Euclidean space E\nand let Λ′ be a Minkowskian sublattice of Λ, that is, a sublattice having\na basis made of representatives for the Minkowski successive minima of\nΛ. We extend the classification of possible Z/dZ-codes o"
+    },
+    {
+      "authors": "Dominique Arlettaz",
+      "title": "Algebraic K-theory of rings from a topological viewpoint",
+      "role": "Author survey; §6 treats Hurewicz maps. Not the cited 1991 original.",
+      "source_url": "https://mat.uab.es/pubmat/fitxers/download/FileType%3Apdf/FolderName%3Av44%281%29/FileName%3A44100_01.pdf",
+      "retrieved_utc": "2026-10-28T21:44:18.238606+00:00",
+      "status": "downloaded",
+      "file": "pdfs/08_Arlettaz_Topological-viewpoint.pdf",
+      "bytes": 502528,
+      "sha256": "fcbc16ea40571b910533f5678187f061924d6dac5955e824ebb4642ff53fbb69",
+      "pages": 82,
+      "first_page_excerpt": "Publicacions Matemàtiques, Vol. 44 (2000), 3–84\n\nALGEBRAIC K-THEORY OF RINGS FROM A\nTOPOLOGICAL VIEWPOINT\nDominique Arlettaz\nAbstract\nBecause of its strong interaction with almost every part of pure\nmathematics, algebraic K-theory has had a spectacular development since its origin in the late ﬁfties. The objective of this paper\nis to provide the basic deﬁnitions of the algebraic K-theory of\nrings"
+    },
+    {
+      "authors": "Alexander Kupers",
+      "title": "A short proof that K_8(Z) is trivial",
+      "role": "Alternative proof for comparison; not a replacement for certificates.",
+      "source_url": "https://www.utsc.utoronto.ca/people/kupers/wp-content/uploads/sites/50/2021/01/k8zshorter.pdf",
+      "retrieved_utc": "2026-10-28T21:44:18.308730+00:00",
+      "status": "downloaded",
+      "file": "pdfs/09_Kupers_Short-proof-K8.pdf",
+      "resolved_url": "https://www.utsc.utoronto.ca/people/kupers/wp-content/uploads/sites/50/2021/01/k8zshorter.pdf",
+      "bytes": 360175,
+      "sha256": "2ceb04c2aa64fdb2530591adc96b7575bb64d238ef55e9b239acf454da5b92b5",
+      "pages": 4,
+      "first_page_excerpt": "A SHORT PROOF THAT K8 (Z) ∼\n= 0.\nALEXANDER KUPERS\n\nAbstract. We give a short proof of the result announced by Dutour-Sikirić–Elbaz–\nVincent-Martinet that K8 (Z) ∼\n= 0, by combining results of Lee-Szczarba, Elbaz-Vincent–\nGangl–Soulé and Church–Putman.\n\n1. Introduction\nThe orders of the algebraic K-theory groups of the integers have been determined to a large\nextent. The remaining open cases are K4i (Z), with the exception of K0 (Z) ∼\n= Z, K4 (Z"
+    },
+    {
+      "authors": "Ronnie Lee, Robert H. Szczarba",
+      "title": "On the homology and cohomology of congruence subgroups",
+      "role": "Steinberg coinvariant vanishing; Theorem 1.3.",
+      "status": "downloaded",
+      "file": "pdfs/10_Lee-Szczarba_Congruence-subgroups.pdf",
+      "source_url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN356556735_0033/LOG_0008.pdf",
+      "bytes": 2661279,
+      "sha256": "beca44bb4bc380a03959354972df5bce5ffb840e29eb5dcf94613d3a204b17a5",
+      "pages": 41,
+      "first_page_excerpt": "Werk\nTitel: Inventiones Mathematicae\nVerlag: Springer\nJahr: 1976\nKollektion: Mathematica\nDigitalisiert: Niedersächsische Staats- und Universitätsbibliothek Göttingen\nWerk Id: PPN356556735_0033\nPURL: http://resolver.sub.uni-goettingen.de/purl?PPN356556735_0033\nLOG Id: LOG_0008\nLOG Titel: On the Homology and Cohomology of Congruence Subgroups.\nLOG Typ: article\n\nÜbergeordnetes Werk\nWerk Id: PPN356556"
+    },
+    {
+      "authors": "Dominique Arlettaz",
+      "title": "The Hurewicz homomorphism in algebraic K-theory (1991)",
+      "role": "Original cited Hurewicz theorem; DEKM Proposition 6.3 records the needed application; the 2000 survey is a separate reference.",
+      "status": "not_acquired",
+      "source_url": "https://doi.org/10.1016/0022-4049(91)90036-2",
+      "reason": "No downloadable original PDF was located in the checked author/institutional sources."
+    }
+  ]
+}

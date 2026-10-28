@@ -1,0 +1,48 @@
+{
+  "measurements": {
+    "cpu_count": 16,
+    "elapsed_seconds": 0.09015635401010513,
+    "jobs": 1,
+    "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+    "process_peak_rss_kib": 17824,
+    "process_system_seconds": 0.013007,
+    "process_user_seconds": 0.10905999999999999,
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "software_version": "1.0.0"
+  },
+  "notation_discrepancy": "DEKM v1 Table 4 labels cone dimensions as Sigma subscripts, although section 1.2 uses projective dimensions. The 13 records have j=7, the 106 records j=8.",
+  "schema": "voronoi-dimension-audit-v1",
+  "sources": [
+    {
+      "anomalies": [],
+      "count": 13,
+      "dimensions_N_s_c_j": {
+        "(8, 8, 8, 7)": 13
+      },
+      "external_vector_storage": "rows",
+      "source": "DATA_gap/ListSHV_n8_rnk8",
+      "source_sha256": "465c7d170f7a3ef2733327319c4155dce4f531dddd2d9a8b538b170f648a51e9"
+    },
+    {
+      "anomalies": [],
+      "count": 106,
+      "dimensions_N_s_c_j": {
+        "(8, 9, 9, 8)": 106
+      },
+      "external_vector_storage": "rows",
+      "source": "DATA_gap/ListSHV_n8_rnk9",
+      "source_sha256": "d0b58f52da26e64b20649dffe4e317efd31a9d6b0c5e4d5b1407dbf5d636359d"
+    },
+    {
+      "anomalies": [],
+      "count": 13,
+      "dimensions_N_s_c_j": {
+        "(8, 8, 8, 7)": 13
+      },
+      "external_vector_storage": "columns",
+      "source": "cells_GL8_dim8.gp",
+      "source_sha256": "b1900f5eb598afd08ef40c5290955683c3563fd407aa452a8c7261cf7bebd8e9"
+    }
+  ],
+  "standalone_storage_qualification": "Columns chosen for the standalone square matrices as a lattice-basis convention. Either transpose has rank 8 and cone dimension 8, so its exclusion from projective degree 8 does not depend on that choice. No equivalence to GAP records is claimed."
+}

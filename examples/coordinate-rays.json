@@ -1,0 +1,33 @@
+{
+  "anomalies": [],
+  "cells": [
+    {
+      "ambient_rank": 2,
+      "cone_dimension": 2,
+      "configuration_sha256": "ac320b742751f8f0aaa45b6bff6a15e60453540c875cc4deba6b4bb30e673fcf",
+      "id": "coordinate-rays#0001",
+      "primitive": true,
+      "projective_dimension": 1,
+      "source": "coordinate-rays",
+      "source_record": 1,
+      "vector_pairs": 2,
+      "vector_rank": 2,
+      "vectors": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ]
+    }
+  ],
+  "convention": "integer column vectors; g*v",
+  "dataset_sha256": "4df3ad7ec582ed0fdaec495d36ca4c96b3e97c725fe1373673b448be0d697378",
+  "external_vector_storage": "rows",
+  "schema": "voronoi-dataset-v1",
+  "source": "coordinate-rays",
+  "source_sha256": "be555edbfc39d6a4327eb8ec81b88dbceedfec1812445ad8f0b7dfb80ea39d11"
+}

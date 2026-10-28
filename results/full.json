@@ -1,0 +1,2260 @@
+{
+  "cells": [
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0001",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0002",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0003",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0004",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0005",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0006",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0007",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0008",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0009",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0010",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0011",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0012",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0013",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0014",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0015",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0016",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0017",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0018",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0019",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0020",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0021",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0022",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0023",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0024",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0025",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0026",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0027",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0028",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0029",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0030",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0031",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0032",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0033",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0034",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0035",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0036",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0037",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0038",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0039",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0040",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0041",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0042",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0043",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0044",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0045",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0046",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0047",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0048",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0049",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0050",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0051",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0052",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0053",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0054",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0055",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0056",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0057",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0058",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0059",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0060",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0061",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0062",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0063",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0064",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0065",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0066",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0067",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0068",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0069",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0070",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0071",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0072",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0073",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0074",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0075",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0076",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0077",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0078",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0079",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0080",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0081",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0082",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0083",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0084",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0085",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0086",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0087",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0088",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0089",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0090",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0091",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0092",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0093",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0094",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0095",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0096",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0097",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0098",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0099",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0100",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0101",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0102",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0103",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0104",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0105",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    },
+    {
+      "ambient_rank": 8,
+      "cell_id": "DATA_gap/ListSHV_n8_rnk9#0106",
+      "check": "orientation_reversing",
+      "cone_dimension": 9,
+      "orientation_determinant": "-1",
+      "projective_dimension": 8,
+      "status": "COMPUTED",
+      "vector_pairs": 9,
+      "vector_rank": 8
+    }
+  ],
+  "coverage": {
+    "checked": 106,
+    "complete_published_coverage": true,
+    "matches_pinned_published_list": true,
+    "missing_cell_ids": [],
+    "source_records": 106
+  },
+  "dataset_sha256": "72eca61c28a61bda8b3b0c5d7d12d35a9352751dd9253fa331d34f125f543a02",
+  "mathematical_dependencies": {
+    "admitted": [
+      {
+        "id": "classification",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "cone_dimension": 9,
+          "projective_dimension": 8,
+          "rank": 8
+        },
+        "location": "v1 (25 October 2019), sections 2-3, Proposition 3.1/Table 3, Proposition 4.3/Table 4 and data link following Table 4",
+        "qualification": "Catalogue-to-classification identification is admitted. Table 4's indices are shifted relative to section 1.2; dimensions are recomputed from data. No orbit-inequivalence or realization proof is implemented.",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "The pinned cone-rank-9 catalogue represents all GL_8(Z) orbits of full-span Voronoi cones of dimension 9 and each listed configuration is realizable with exactly the stated minimal-vector pairs.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "comparison",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "rank": 8,
+          "steinberg_degree": 1,
+          "voronoi_degree": 8
+        },
+        "localization": "For N=8 the primes <=9 are exactly 2,3,5,7. The GL_N(R) wording in Lemma 4.1 is erroneous if read literally; use the integral-matrix restriction in Remark 4.2.",
+        "location": "sections 1.2.2-1.2.3, equations (3)-(4), Proposition 1.5; section 4.1, Remark 4.2",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "Finite stabilizers of cells meeting the positive-definite locus have prime divisors at most N+1. After these primes are inverted, the orientation coinvariant complex computes Steinberg homology with shift j-N+1; reversing stabilizers kill their degree-j coinvariants when 2 is inverted.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "lower_rank_1",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "rank": 1,
+          "steinberg_degree": 8,
+          "total_degree": 9
+        },
+        "location": "Table 5 (N=1,k=8), section 6.1; finite-group homology after inverting the order",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "H_8(GL_1(Z); St_1) tensor R = 0; St_1=Z with trivial action and GL_1(Z)=C_2.",
+        "status": "ADMITTED"
+      },
+      {
+        "explanation": "N=2,3: projective symmetric-space dimensions 2,5 are below 8; N=4: the small-rank complex in section 6.3 has only the degree-6 surviving cell. All relevant stabilizer primes <=5 are inverted.",
+        "id": "lower_ranks_2_4",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "steinberg_degrees": [
+            7,
+            6,
+            5
+          ],
+          "voronoi_degree": 8
+        },
+        "location": "section 6.3 (small-rank complexes), sections 3.3-3.4 (comparison); also DEKM v1 Table 5, entries (N,k)=(2,7),(3,6),(4,5); Kupers (21 October 2019), p.2, refers to Lee-Szczarba (1978), p.104",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://www.ihes.fr/~soule/documents/YAIMA4438.pdf",
+        "statement": "For N=2,3,4, H_{9-N}(GL_N(Z);St_N) tensor R=0. Equivalently H_8(Vor_GL_N) tensor R=0.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "lower_ranks_5_7",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "steinberg_degrees": [
+            4,
+            3,
+            2
+          ],
+          "voronoi_degree": 8
+        },
+        "localization": "The N=5,6 calculations are modulo S_5, N=7 modulo S_7; comparison for N<=7 requires primes <=8, all inverted in R.",
+        "location": "Theorem 4.3, p.597 (PDF p.12), with comparison in section 3.4; cross-check DEKM v1 Table 5",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://www.ihes.fr/~soule/documents/YAIMA4438.pdf",
+        "statement": "H_8(Vor_GL_N) tensor R=0 for N=5,6,7, hence H_{9-N}(GL_N;St_N) tensor R=0.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "rank_9",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "rank": 9,
+          "steinberg_degree": 0,
+          "total_degree": 9
+        },
+        "location": "Remark 6.2, citing Lee-Szczarba, On the homology and cohomology of congruence subgroups (1976), Theorem 1.3",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "H_0(GL_9(Z); St_9)=0 integrally, hence also after tensoring with R.",
+        "status": "ADMITTED",
+        "verification_scope": "Checked in DEKM's primary application and Kupers (21 October 2019), Lemma 2.1; the original 1976 theorem remains an external dependency, not a software computation."
+      },
+      {
+        "diagonal": [
+          {
+            "input": "lower_rank_1",
+            "q": 8,
+            "rank": 1
+          },
+          {
+            "input": "lower_ranks_2_4",
+            "q": 7,
+            "rank": 2
+          },
+          {
+            "input": "lower_ranks_2_4",
+            "q": 6,
+            "rank": 3
+          },
+          {
+            "input": "lower_ranks_2_4",
+            "q": 5,
+            "rank": 4
+          },
+          {
+            "input": "lower_ranks_5_7",
+            "q": 4,
+            "rank": 5
+          },
+          {
+            "input": "lower_ranks_5_7",
+            "q": 3,
+            "rank": 6
+          },
+          {
+            "input": "lower_ranks_5_7",
+            "q": 2,
+            "rank": 7
+          },
+          {
+            "input": "computed_rank_8",
+            "q": 1,
+            "rank": 8
+          },
+          {
+            "input": "rank_9",
+            "q": 0,
+            "rank": 9
+          }
+        ],
+        "higher_ranks": "N>=10 would require q<0, hence do not contribute; rank 0 has H_9(point)=0.",
+        "id": "rank_filtration",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "total_degree": 9
+        },
+        "location": "section 6, Quillen exact sequence (8); proof of Proposition 6.1",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "The first-quadrant rank filtration has E^1_{N,q}=H_q(GL_N(Z);St_N), converging in total degree N+q to H_*(BQZ;Z). BQ_0 is a point. A zero total-degree-9 diagonal gives H_9(BQZ;R)=0.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "hurewicz",
+        "instance": {
+          "K_degree": 8,
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "homotopy_degree": 9
+        },
+        "location": "section 6.2, Proposition 6.3 and its proof citing Arlettaz, Theorem 1.5",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "K_8(Z)=pi_9(BQZ). The Hurewicz kernel in degree 9 is killed by an integer with prime divisors only 2,3,5; it vanishes after tensoring with R.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "arithmetic_2",
+        "instance": {
+          "K_degree": 8,
+          "coefficient_ring": "Z",
+          "prime": 2
+        },
+        "location": "Chapter VI, Corollary 9.8, p.55 (PDF p.55); separate real-place/2-primary calculation",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf",
+        "statement": "The 2-primary subgroup of K_8(Z) is zero (n=8 mod 8, n>=2).",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "arithmetic_odd",
+        "instance": {
+          "K_degree": 8,
+          "coefficient_ring": "Z",
+          "primes": [
+            3,
+            5,
+            7
+          ]
+        },
+        "location": "Chapter VI, Proposition 10.5, p.63 (PDF p.63)",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf",
+        "statement": "For every odd regular prime ell, K_{2i}(Z) has no ell-torsion. Apply at ell=3,5,7, i=4.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "regularity",
+        "instance": {
+          "coefficient_ring": "Z",
+          "primes": [
+            3,
+            5,
+            7
+          ]
+        },
+        "location": "Chapter VI, section 2, Irregular Primes 2.4.1 and preceding Bernoulli table, p.9",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf",
+        "statement": "Kummer's criterion identifies regular odd primes via Bernoulli numerators. The primes 3,5,7 are regular: the relevant topologists' Bernoulli numbers B_1=1/6 and B_2=1/30 have numerator 1; for 3 the list is empty.",
+        "status": "ADMITTED"
+      }
+    ],
+    "certification_scope": "Ordinary exact software verification conditional on external mathematics; not independent classification, realization, or formal proof-assistant verification.",
+    "coefficient_ring": "Z[1/7!] = Z[1/210]",
+    "computed": [
+      {
+        "id": "checked_orientation_certificates",
+        "statement": "Exact integral signed vector maps and determinant -1 on the rational rank-one span for each reported checked cell.",
+        "status": "COMPUTED"
+      }
+    ],
+    "inferences": [
+      {
+        "depends_on": [
+          "checked_orientation_certificates",
+          "classification"
+        ],
+        "id": "voronoi_vanishing",
+        "requires": "all 106 records in the pinned target list independently checked",
+        "statement": "H_8(Vor_GL_8;R)=0 because its orientation-preserving free chain group V_8 is zero.",
+        "status": "CONDITIONAL"
+      },
+      {
+        "depends_on": [
+          "voronoi_vanishing",
+          "comparison"
+        ],
+        "id": "computed_rank_8",
+        "statement": "H_1(GL_8(Z);St_8 tensor R)=0",
+        "status": "CONDITIONAL"
+      },
+      {
+        "depends_on": [
+          "computed_rank_8",
+          "lower_rank_1",
+          "lower_ranks_2_4",
+          "lower_ranks_5_7",
+          "rank_9",
+          "rank_filtration"
+        ],
+        "id": "BQ_vanishing",
+        "statement": "H_9(BQZ;R)=0",
+        "status": "CONDITIONAL"
+      },
+      {
+        "depends_on": [
+          "BQ_vanishing",
+          "hurewicz"
+        ],
+        "id": "K8_localized",
+        "statement": "K_8(Z) tensor R=0",
+        "status": "CONDITIONAL"
+      },
+      {
+        "depends_on": [
+          "K8_localized",
+          "arithmetic_2",
+          "arithmetic_odd",
+          "regularity"
+        ],
+        "id": "K8_integral",
+        "reason": "Localization zero makes each element annihilated by a power of 7!; the four torsion exclusions remove it.",
+        "statement": "K_8(Z)=0 under the listed external mathematical premises",
+        "status": "CONDITIONAL"
+      }
+    ],
+    "schema": "voronoi-dependencies-v1",
+    "source_cross_checks": [
+      {
+        "access_note": "Direct web retrieval returned 403, but a local reference copy appeared later in the shared workspace and was read.",
+        "checked": "Equation (1), p.1; lower-rank references and Lemma 2.1, p.2; Lemma 2.5 and Remark 2.4, p.3. These agree with the degree-nine diagonal and the computational route. Lemma 2.2 and the alternate fiber-sequence proof are not used to replace the rank-eight calculation.",
+        "local_file": "references/k-theory/pdfs/09_Kupers_Short-proof-K8.pdf",
+        "sha256": "2ceb04c2aa64fdb2530591adc96b7575bb64d238ef55e9b239acf454da5b92b5",
+        "source": "https://www.utsc.utoronto.ca/people/kupers/wp-content/uploads/sites/50/2021/01/k8zshorter.pdf",
+        "version": "21 October 2019, 4 pages"
+      }
+    ],
+    "source_limitations": [
+      "PARI counterpart text inspected through GitHub; original bytes were not acquired after shell network access became unavailable. They are not proof inputs."
+    ],
+    "specification_reconciliation": {
+      "file": "reports/k8-verification-synthesis/main.tex",
+      "finding": "The later synthesis appeared during implementation and was read. Its conventions, orientation criterion, search, and conditional theorem agree with this program. Its Smith-form correction concerns an unused extension; no boundary/homology engine is implemented."
+    },
+    "unresolved_required": []
+  },
+  "measurements": {
+    "cpu_count": 16,
+    "elapsed_seconds": 3.004172030952759,
+    "jobs": 1,
+    "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+    "process_peak_rss_kib": 21844,
+    "process_system_seconds": 0.018005,
+    "process_user_seconds": 3.02195,
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "software_version": "1.0.0"
+  },
+  "repository_revision": "d4c7b40ad2c95850d16160b347953dbaa9241486",
+  "result_level": "CHECKED_ALL_PINNED_PUBLISHED_RECORDS",
+  "schema": "voronoi-result-v1",
+  "search": {
+    "cells": [
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0001",
+        "elapsed_seconds": 0.017169474973343313,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0002",
+        "elapsed_seconds": 0.016706968075595796,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0003",
+        "elapsed_seconds": 0.016393359983339906,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0004",
+        "elapsed_seconds": 0.016112082987092435,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0005",
+        "elapsed_seconds": 0.015532255987636745,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0006",
+        "elapsed_seconds": 0.016739930026233196,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0007",
+        "elapsed_seconds": 0.01625644403975457,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0008",
+        "elapsed_seconds": 0.016430109040811658,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0009",
+        "elapsed_seconds": 0.016413598088547587,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0010",
+        "elapsed_seconds": 0.018675377941690385,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0011",
+        "elapsed_seconds": 0.03188308700919151,
+        "nodes": 53,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0012",
+        "elapsed_seconds": 0.04141045699361712,
+        "nodes": 67,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0013",
+        "elapsed_seconds": 0.017878894926980138,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0014",
+        "elapsed_seconds": 0.01725027698557824,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0015",
+        "elapsed_seconds": 0.01637362304609269,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0016",
+        "elapsed_seconds": 0.01791293895803392,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0017",
+        "elapsed_seconds": 0.015999302035197616,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0018",
+        "elapsed_seconds": 0.01746249501593411,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0019",
+        "elapsed_seconds": 0.01700197090394795,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0020",
+        "elapsed_seconds": 0.016585421049967408,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0021",
+        "elapsed_seconds": 0.021934446995146573,
+        "nodes": 19,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0022",
+        "elapsed_seconds": 0.023349119001068175,
+        "nodes": 19,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0023",
+        "elapsed_seconds": 0.016262194025330245,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0024",
+        "elapsed_seconds": 0.01928720495197922,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0025",
+        "elapsed_seconds": 0.021138555952347815,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0026",
+        "elapsed_seconds": 0.022934022010304034,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0027",
+        "elapsed_seconds": 0.018284936086274683,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0028",
+        "elapsed_seconds": 0.01966050500050187,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0029",
+        "elapsed_seconds": 0.01614755904302001,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0030",
+        "elapsed_seconds": 0.017081200028769672,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0031",
+        "elapsed_seconds": 0.0174988730577752,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0032",
+        "elapsed_seconds": 0.016585128963924944,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0033",
+        "elapsed_seconds": 0.018511591013520956,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0034",
+        "elapsed_seconds": 0.01896907901391387,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0035",
+        "elapsed_seconds": 0.01794429705478251,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0036",
+        "elapsed_seconds": 0.01836127892602235,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0037",
+        "elapsed_seconds": 0.016256132978014648,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0038",
+        "elapsed_seconds": 0.016384763992391527,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0039",
+        "elapsed_seconds": 0.01693609799258411,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0040",
+        "elapsed_seconds": 0.017161599942483008,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0041",
+        "elapsed_seconds": 0.01845000497996807,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0042",
+        "elapsed_seconds": 0.017168733989819884,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0043",
+        "elapsed_seconds": 0.01637339300941676,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0044",
+        "elapsed_seconds": 0.015356956981122494,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0045",
+        "elapsed_seconds": 0.017126565100625157,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0046",
+        "elapsed_seconds": 0.037713155965320766,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0047",
+        "elapsed_seconds": 0.016882588039152324,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0048",
+        "elapsed_seconds": 0.01635039900429547,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0049",
+        "elapsed_seconds": 0.0374771929346025,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0050",
+        "elapsed_seconds": 0.016493497998453677,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0051",
+        "elapsed_seconds": 0.02404218807350844,
+        "nodes": 32,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0052",
+        "elapsed_seconds": 0.023557950975373387,
+        "nodes": 32,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0053",
+        "elapsed_seconds": 0.017836424987763166,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0054",
+        "elapsed_seconds": 0.01793345797341317,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0055",
+        "elapsed_seconds": 0.018893386935815215,
+        "nodes": 19,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0056",
+        "elapsed_seconds": 0.01875295303761959,
+        "nodes": 19,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0057",
+        "elapsed_seconds": 0.01715892506763339,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0058",
+        "elapsed_seconds": 0.016217560041695833,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0059",
+        "elapsed_seconds": 0.015982851036824286,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0060",
+        "elapsed_seconds": 0.01627328502945602,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0061",
+        "elapsed_seconds": 0.01626624201890081,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0062",
+        "elapsed_seconds": 0.015161450952291489,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0063",
+        "elapsed_seconds": 0.015519300941377878,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0064",
+        "elapsed_seconds": 0.020497563993558288,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0065",
+        "elapsed_seconds": 0.015964486985467374,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0066",
+        "elapsed_seconds": 0.017472323030233383,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0067",
+        "elapsed_seconds": 0.015948256012052298,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0068",
+        "elapsed_seconds": 0.0159189710393548,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0069",
+        "elapsed_seconds": 0.01590510504320264,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0070",
+        "elapsed_seconds": 0.01517290307674557,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0071",
+        "elapsed_seconds": 0.016694295103661716,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0072",
+        "elapsed_seconds": 0.01904237607959658,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0073",
+        "elapsed_seconds": 0.01743980194441974,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0074",
+        "elapsed_seconds": 0.01595329598058015,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0075",
+        "elapsed_seconds": 0.015871191979385912,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0076",
+        "elapsed_seconds": 0.03491290600504726,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0077",
+        "elapsed_seconds": 0.015857946942560375,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0078",
+        "elapsed_seconds": 0.016171785071492195,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0079",
+        "elapsed_seconds": 0.014932350954040885,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0080",
+        "elapsed_seconds": 0.014987715985625982,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0081",
+        "elapsed_seconds": 0.017998828901909292,
+        "nodes": 16,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0082",
+        "elapsed_seconds": 0.0353856619913131,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0083",
+        "elapsed_seconds": 0.03612518799491227,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0084",
+        "elapsed_seconds": 0.03378254803828895,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0085",
+        "elapsed_seconds": 0.03369827999267727,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0086",
+        "elapsed_seconds": 0.01694387197494507,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0087",
+        "elapsed_seconds": 0.016332756029441953,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0088",
+        "elapsed_seconds": 0.016357814078219235,
+        "nodes": 12,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0089",
+        "elapsed_seconds": 0.03543204895686358,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0090",
+        "elapsed_seconds": 0.016257927054539323,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0091",
+        "elapsed_seconds": 0.015447917976416647,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0092",
+        "elapsed_seconds": 0.036706007085740566,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0093",
+        "elapsed_seconds": 0.03792817902285606,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0094",
+        "elapsed_seconds": 0.034325805958360434,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0095",
+        "elapsed_seconds": 0.016938682994805276,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0096",
+        "elapsed_seconds": 0.03762885695323348,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0097",
+        "elapsed_seconds": 0.020596889895386994,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0098",
+        "elapsed_seconds": 0.03717107907868922,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0099",
+        "elapsed_seconds": 0.019016166916117072,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0100",
+        "elapsed_seconds": 0.0186918789986521,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0101",
+        "elapsed_seconds": 0.016317237983457744,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0102",
+        "elapsed_seconds": 0.015387334977276623,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0103",
+        "elapsed_seconds": 0.015237121959216893,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0104",
+        "elapsed_seconds": 0.015101509052328765,
+        "nodes": 10,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0105",
+        "elapsed_seconds": 0.03582073806319386,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      },
+      {
+        "cell_id": "DATA_gap/ListSHV_n8_rnk9#0106",
+        "elapsed_seconds": 0.03818497993052006,
+        "nodes": 15,
+        "reason": null,
+        "status": "FOUND"
+      }
+    ],
+    "elapsed_seconds": 2.1680414979346097,
+    "limits": {
+      "address_space_mib": 512,
+      "nodes_per_cell": 200000,
+      "seconds_per_cell": 30
+    }
+  },
+  "source": "DATA_gap/ListSHV_n8_rnk9",
+  "source_sha256": "d0b58f52da26e64b20649dffe4e317efd31a9d6b0c5e4d5b1407dbf5d636359d",
+  "status": "SUCCESS",
+  "unresolved_checks": [],
+  "verification_seconds": 0.7769562579924241
+}

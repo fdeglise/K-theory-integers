@@ -1,0 +1,61 @@
+{
+  "attribution": "Mathieu Dutour Sikiric, Philippe Elbaz-Vincent, Alexander Kupers, Jacques Martinet; repository owner elbazvip",
+  "classification_completeness": "ADMITTED, not established by hashes",
+  "files": [
+    {
+      "bytes": 30025,
+      "local_path": "data/original/DATA_gap__ListSHV_n8_rnk9",
+      "origin_url": "https://raw.githubusercontent.com/elbazvip/Voronoi-complexes-database/d4c7b40ad2c95850d16160b347953dbaa9241486/DATA_gap/ListSHV_n8_rnk9",
+      "sha256": "d0b58f52da26e64b20649dffe4e317efd31a9d6b0c5e4d5b1407dbf5d636359d",
+      "source_path": "DATA_gap/ListSHV_n8_rnk9"
+    },
+    {
+      "bytes": 3367,
+      "local_path": "data/original/DATA_gap__ListSHV_n8_rnk8",
+      "origin_url": "https://raw.githubusercontent.com/elbazvip/Voronoi-complexes-database/d4c7b40ad2c95850d16160b347953dbaa9241486/DATA_gap/ListSHV_n8_rnk8",
+      "sha256": "465c7d170f7a3ef2733327319c4155dce4f531dddd2d9a8b538b170f648a51e9",
+      "source_path": "DATA_gap/ListSHV_n8_rnk8"
+    },
+    {
+      "bytes": 2748,
+      "local_path": "data/original/cells_GL8_dim8.gp",
+      "origin_url": "https://raw.githubusercontent.com/elbazvip/Voronoi-complexes-database/d4c7b40ad2c95850d16160b347953dbaa9241486/cells_GL8_dim8.gp",
+      "sha256": "b1900f5eb598afd08ef40c5290955683c3563fd407aa452a8c7261cf7bebd8e9",
+      "source_path": "cells_GL8_dim8.gp"
+    },
+    {
+      "bytes": 35149,
+      "local_path": "data/original/LICENSE",
+      "origin_url": "https://raw.githubusercontent.com/elbazvip/Voronoi-complexes-database/d4c7b40ad2c95850d16160b347953dbaa9241486/LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "source_path": "LICENSE"
+    },
+    {
+      "bytes": 529,
+      "local_path": "data/original/README.md",
+      "origin_url": "https://raw.githubusercontent.com/elbazvip/Voronoi-complexes-database/d4c7b40ad2c95850d16160b347953dbaa9241486/README.md",
+      "sha256": "e007d4b81c2ef7e368d887684fdc05528f25996587994c35e48c3fae9949da0a",
+      "source_path": "README.md"
+    }
+  ],
+  "optional_inspections": [
+    {
+      "observed_syntax": "U1= nested list, U2= nested list, ...; row vectors, not PARI semicolon matrices; no final semicolon observed",
+      "source_path": "DATA_pari/ListSHV_n8_rank8",
+      "status": "web inspection only; original bytes not acquired; NOT a verification input",
+      "url": "https://github.com/elbazvip/Voronoi-complexes-database/blob/master/DATA_pari/ListSHV_n8_rank8"
+    },
+    {
+      "observed_syntax": "U1= nested list, U2= nested list, ...; row vectors, not PARI semicolon matrices; no final semicolon observed",
+      "source_path": "DATA_pari/ListSHV_n8_rank9",
+      "status": "web inspection only; original bytes not acquired; NOT a verification input",
+      "url": "https://github.com/elbazvip/Voronoi-complexes-database/blob/master/DATA_pari/ListSHV_n8_rank9"
+    }
+  ],
+  "repository": "https://github.com/elbazvip/Voronoi-complexes-database",
+  "retrieval_date_utc": "2026-10-28",
+  "revision": "d4c7b40ad2c95850d16160b347953dbaa9241486",
+  "revision_committed_at": "2022-06-30T22:28:39Z",
+  "schema": "voronoi-provenance-v1",
+  "source_license": "GPL-3.0 (verbatim upstream LICENSE preserved)"
+}
