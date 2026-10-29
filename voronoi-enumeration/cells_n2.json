@@ -1,0 +1,64 @@
+{
+  "n": 2,
+  "complete": true,
+  "index_bound": 1,
+  "max_cone_dimension": 3,
+  "cells": [
+    {
+      "cone_dimension": 2,
+      "projective_dimension": 1,
+      "rays": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "form": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "stabilizer_order": 8,
+      "orientation_reversing": true
+    },
+    {
+      "cone_dimension": 3,
+      "projective_dimension": 2,
+      "rays": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "form": [
+        [
+          "1",
+          "1/2"
+        ],
+        [
+          "1/2",
+          "1"
+        ]
+      ],
+      "stabilizer_order": 12,
+      "orientation_reversing": true
+    }
+  ]
+}
