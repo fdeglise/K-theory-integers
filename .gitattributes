@@ -7,3 +7,7 @@
 # Preserve upstream bytes and the original historical ledger verbatim.
 data/original/** -text -whitespace
 "ledgers/Computing K of the Integers.md" -text -whitespace
+
+# Retain the attachment's matrix/data export bytes and original formatting.
+completeness/matrices/** -text
+completeness/enumerate_cyclic.js -whitespace

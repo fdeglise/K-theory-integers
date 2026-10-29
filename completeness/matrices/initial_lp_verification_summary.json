@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "checks": {
+    "problems": 964,
+    "inequality_rows": 665214,
+    "equality_rows": 647,
+    "saved_certificate_rows_from_later_cuts": 109
+  },
+  "whole_problems_compared_with_original_builders": [
+    "cyclic_n8_0001",
+    "cyclic_n8_0016",
+    "noncyclic_n8_0000",
+    "cyclic_n9_0001",
+    "cyclic_n9_0291",
+    "noncyclic_n9_0004",
+    "noncyclic_n9_0008",
+    "extension_n8_0000",
+    "extension_n8_0007",
+    "extension_n8_0010",
+    "extension_n8_0235",
+    "extension_n8_0513",
+    "extension_n8_0646"
+  ],
+  "seconds": 18.716,
+  "scope": "Every exported initial constraint checked exactly; optional whole-problem comparisons check original row order, deduplication, and representative vectors on the listed examples."
+}

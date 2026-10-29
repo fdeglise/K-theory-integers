@@ -1,0 +1,11 @@
+{
+  "statistics": {
+    "problems": 964,
+    "inequality_rows": 665214,
+    "equality_rows": 647,
+    "saved_certificate_rows_from_later_cuts": 109
+  },
+  "compressed_bytes": 9094347,
+  "seconds": 51.995,
+  "provenance": "Reconstruction from the original builder rules, not a solver-state log."
+}

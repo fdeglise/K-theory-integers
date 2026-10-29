@@ -1,0 +1,492 @@
+{
+  "K8_conclusion": "CONDITIONAL_ON_REPORTED_EXTERNAL_THEOREMS_AND_WRITTEN_REDUCTIONS",
+  "certificates": "results/completeness-witnesses.json",
+  "independent_checker": {
+    "bundle_sha256": "d5edb53376abb4eef08bce07be8e730f146cd9b6e147b15513102f70d2c6bf65",
+    "checked": 178,
+    "counts_by_rank": {
+      "8": 134,
+      "9": 44
+    },
+    "result_level": "CHECKED_SUPPLIED_COMPLETENESS_PRESENTATIONS",
+    "scope": "Independent orientation certificates only; replay alone establishes neither complete enumeration nor K-theory vanishing.",
+    "status": "SUCCESS"
+  },
+  "input_provenance": {
+    "archive_sha256": "081623227c1b2cf1a9829078c7afb5c3fa6a4a023b641807c1365ffe0b089fc4",
+    "integration_changes": [
+      "Python assert statements replaced by explicit non-optimizable validation, preserving lazy failure messages.",
+      "Verifier summary outputs can be redirected via VORONOI_OUTPUT_DIR.",
+      "See INTEGRATION.md for later coverage and validation strengthening."
+    ],
+    "original_files": {
+      "README.md": {
+        "bytes": 3749,
+        "sha256": "54dc973e2c26b2aaa45b1f22dcd6f6754a268553a4dd01dc69e5e0fecde64612"
+      },
+      "check_code.py": {
+        "bytes": 5612,
+        "sha256": "924775f3262d10b59295d111ff271e2c1269de1d072b932159d267bbe3d95163"
+      },
+      "check_cyclic.py": {
+        "bytes": 6621,
+        "sha256": "1f7a4368a7b5cc831cf10fd1eec38ca94f1ee0c2fb5a9e79f56898d1aff76a59"
+      },
+      "compare_published.py": {
+        "bytes": 3347,
+        "sha256": "44852fe9d5b10b48f27691e8cac71b663779a58c806497a4baf0829ef8021ed0"
+      },
+      "comparison_summary.json": {
+        "bytes": 532,
+        "sha256": "2195a116460fbf69d528d67c4bd229897bb2b17d6130cc6c7ab0b0e7b3ed4312"
+      },
+      "cyclic_accepted.json": {
+        "bytes": 28958,
+        "sha256": "b3ee3f3b1b3b768fdf9983afca47699044a22a27ceae0c33a8730952e0a128c7"
+      },
+      "cyclic_candidates.json": {
+        "bytes": 8801,
+        "sha256": "c008e52e588ede0f621dec189809ae617bb8f5fd0d32e89b6423b254defc7cc9"
+      },
+      "cyclic_results_8.json": {
+        "bytes": 10307,
+        "sha256": "558e2405b3de1cd073314cd89bf92c2c67b52035c408a52a1bfe1fd75ca4aaf9"
+      },
+      "cyclic_results_9.json": {
+        "bytes": 644748,
+        "sha256": "1e6460b96d1ab62f75b7f538820412b503d9114877652fbb76b63d819eae51a3"
+      },
+      "enumerate_cyclic.js": {
+        "bytes": 1375,
+        "sha256": "357d37ee598c2489305b9995d7ba25bb35a3b1ff6c3672456921e5498bda79d6"
+      },
+      "export_all_matrices.py": {
+        "bytes": 16270,
+        "sha256": "6be45a8ef9614b77199cdf7d327807302d07ef9329db9e39f838a808d163511b"
+      },
+      "export_initial_lp.py": {
+        "bytes": 6126,
+        "sha256": "d1300fb1b45b2d82e2927850c5e9d2cfc09f15fead624add14504458d97293cc"
+      },
+      "extend_rank8.py": {
+        "bytes": 5448,
+        "sha256": "1fb1c59cb60e10ae1de9011a39827cec1c7d0fc34105adc48bc08aac1843978a"
+      },
+      "extension_candidates_8.json": {
+        "bytes": 58033,
+        "sha256": "27f58d999d2c3915fa2a7bec0a8cb5dc8eb172400279ff302490d003483b6b17"
+      },
+      "extension_results_8.json": {
+        "bytes": 520286,
+        "sha256": "015fa4e4b1d6e027ee686bfb10c8e8d893e0a4560dc2a0314260c2869e0e532a"
+      },
+      "matrices/README.md": {
+        "bytes": 8225,
+        "sha256": "3a78c09df158764edc35335c26c49ed1ede40fa2a6fe6a0e93a016cc5d1a2cbb"
+      },
+      "matrices/all_matrices.json": {
+        "bytes": 12793101,
+        "sha256": "55879a91b93a955f80a540578f0ac775f12896cfb64648fdb1e8a9502d65cf06"
+      },
+      "matrices/all_matrices.txt": {
+        "bytes": 2894283,
+        "sha256": "66bf252f7491e01b9008618ece2ec25a248069443887ed63e5e75f9353c53b9d"
+      },
+      "matrices/cell_index.csv": {
+        "bytes": 7991,
+        "sha256": "9633b5393fdd967cbba991a36fe5c35fbfe54ac2ddb524c76662934ba81e2ddb"
+      },
+      "matrices/export_summary.json": {
+        "bytes": 387,
+        "sha256": "a691f6f2f19cad64e5be2f46675f9a137d5d15d7777d65250a7d213f91f76075"
+      },
+      "matrices/initial_lp_index.csv": {
+        "bytes": 28713,
+        "sha256": "aaa0d962acdf9ddbf8844f307dd05711cd2d88386a32199623e68484b639d84c"
+      },
+      "matrices/initial_lp_matrices.jsonl.gz": {
+        "bytes": 9094347,
+        "sha256": "05af52e2a25d38f82ff95762152d46acb991193896c8990fb7cde7f34d56ffd4"
+      },
+      "matrices/initial_lp_summary.json": {
+        "bytes": 297,
+        "sha256": "f6dc411cc270a67c013aaa17728efd486b01897f04127502bd646e834eed99ce"
+      },
+      "matrices/initial_lp_verification_summary.json": {
+        "bytes": 756,
+        "sha256": "53172de6c21c5bd870198239efc3908e01402804065f77fb8d307bb6149bdace"
+      },
+      "matrices/matrix_index.csv": {
+        "bytes": 88850,
+        "sha256": "c93b0233c62455c4fe5eee41a48fc4ad0065017f04425edce90f94596608a7e3"
+      },
+      "matrices/matrix_verification_summary.json": {
+        "bytes": 431,
+        "sha256": "a6d09a01e1b0ef4bbc805bcf5d68c074092b4129c40de1c272711c23dfbf5cb6"
+      },
+      "matrix_examples.py": {
+        "bytes": 7561,
+        "sha256": "3897bd7cbf5c82c1514084d18dcdaaecd3504ff84011fcc6abd4af0b5b92f863"
+      },
+      "matrix_examples.txt": {
+        "bytes": 4420,
+        "sha256": "91e1c8b576d4d1a86d882ddf7406df24f38f229f020b7cde6b185e4f5d70b757"
+      },
+      "noncyclic.py": {
+        "bytes": 4074,
+        "sha256": "d33b7d930edb20aa0c2c9c9bc3c9b8fbde1830af34bd9f3414d005dc21c803c9"
+      },
+      "noncyclic_candidates_8.json": {
+        "bytes": 545,
+        "sha256": "1eb8cc5e5d55dea05ab86bbbf6ba80f2145475f22559e3d6e5ec35504646588d"
+      },
+      "noncyclic_candidates_9.json": {
+        "bytes": 3077,
+        "sha256": "abe978b47c744d42ddf323378600f87e2c4d2009de1f789b8d5007f5c014ff84"
+      },
+      "noncyclic_results_8.json": {
+        "bytes": 605,
+        "sha256": "677da9a22eee3fe8b021e54b095be2c25c54145a98d3a58d64faef49d69854ce"
+      },
+      "noncyclic_results_9.json": {
+        "bytes": 7209,
+        "sha256": "9ac867a79d6a8be6c7d9e9e2e78efd0d575468f6dea8f8626661338731da7e6f"
+      },
+      "verification_summary.json": {
+        "bytes": 468,
+        "sha256": "e51c25b7c862c8405823d5ec3f60b1269e0402fcfac67f9a25fad5d041b83344"
+      },
+      "verify_completeness.py": {
+        "bytes": 11184,
+        "sha256": "0a492bd340259e1cf92e40646fa71d7821e0f9bd102d92391beed1ca1f081c05"
+      },
+      "verify_initial_lp_export.py": {
+        "bytes": 7120,
+        "sha256": "28d6fd1fbd95b347c1f13d941835b6d4c04178ad2b3d3b7a1a68f4e94ac97d2d"
+      },
+      "verify_matrix_export.py": {
+        "bytes": 7926,
+        "sha256": "3a9335e7baae0ea078dc92fb77d9886038047e73a023dfa7fd1de6dcc4d64505"
+      }
+    },
+    "schema": "attached-completeness-provenance-v1",
+    "source": "user attachment voronoi-verification.zip"
+  },
+  "mathematical_dependencies": {
+    "admitted": [
+      {
+        "id": "comparison",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "ranks": [
+            8,
+            9
+          ],
+          "steinberg_degrees": [
+            1,
+            0
+          ],
+          "voronoi_degree": 8
+        },
+        "localization": "Stabilizer primes <= N+1 <= 10 are 2,3,5,7.",
+        "location": "sections 1.2.2-1.2.3, equations (3)-(4), Proposition 1.5; section 4.1, Remark 4.2",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "Finite stabilizers of cells meeting the positive-definite locus have prime divisors at most N+1. After these primes are inverted, the orientation coinvariant complex computes Steinberg homology with shift j-N+1; reversing stabilizers kill their degree-j coinvariants when 2 is inverted.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "lower_rank_1",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "rank": 1,
+          "steinberg_degree": 8,
+          "total_degree": 9
+        },
+        "location": "Table 5 (N=1,k=8), section 6.1; finite-group homology after inverting the order",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "H_8(GL_1(Z); St_1) tensor R = 0; St_1=Z with trivial action and GL_1(Z)=C_2.",
+        "status": "ADMITTED"
+      },
+      {
+        "explanation": "N=2,3: projective symmetric-space dimensions 2,5 are below 8; N=4: the small-rank complex in section 6.3 has only the degree-6 surviving cell. All relevant stabilizer primes <=5 are inverted.",
+        "id": "lower_ranks_2_4",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "steinberg_degrees": [
+            7,
+            6,
+            5
+          ],
+          "voronoi_degree": 8
+        },
+        "location": "section 6.3 (small-rank complexes), sections 3.3-3.4 (comparison); also DEKM v1 Table 5, entries (N,k)=(2,7),(3,6),(4,5); Kupers (21 October 2019), p.2, refers to Lee-Szczarba (1978), p.104",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://www.ihes.fr/~soule/documents/YAIMA4438.pdf",
+        "statement": "For N=2,3,4, H_{9-N}(GL_N(Z);St_N) tensor R=0. Equivalently H_8(Vor_GL_N) tensor R=0.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "lower_ranks_5_7",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "steinberg_degrees": [
+            4,
+            3,
+            2
+          ],
+          "voronoi_degree": 8
+        },
+        "localization": "The N=5,6 calculations are modulo S_5, N=7 modulo S_7; comparison for N<=7 requires primes <=8, all inverted in R.",
+        "location": "Theorem 4.3, p.597 (PDF p.12), with comparison in section 3.4; cross-check DEKM v1 Table 5",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://www.ihes.fr/~soule/documents/YAIMA4438.pdf",
+        "statement": "H_8(Vor_GL_N) tensor R=0 for N=5,6,7, hence H_{9-N}(GL_N;St_N) tensor R=0.",
+        "status": "ADMITTED"
+      },
+      {
+        "diagonal": [
+          {
+            "input": "lower_rank_1",
+            "q": 8,
+            "rank": 1
+          },
+          {
+            "input": "lower_ranks_2_4",
+            "q": 7,
+            "rank": 2
+          },
+          {
+            "input": "lower_ranks_2_4",
+            "q": 6,
+            "rank": 3
+          },
+          {
+            "input": "lower_ranks_2_4",
+            "q": 5,
+            "rank": 4
+          },
+          {
+            "input": "lower_ranks_5_7",
+            "q": 4,
+            "rank": 5
+          },
+          {
+            "input": "lower_ranks_5_7",
+            "q": 3,
+            "rank": 6
+          },
+          {
+            "input": "lower_ranks_5_7",
+            "q": 2,
+            "rank": 7
+          },
+          {
+            "input": "computed_rank_8",
+            "q": 1,
+            "rank": 8
+          },
+          {
+            "input": "computed_rank_9",
+            "q": 0,
+            "rank": 9
+          }
+        ],
+        "higher_ranks": "N>=10 would require q<0, hence do not contribute; rank 0 has H_9(point)=0.",
+        "id": "rank_filtration",
+        "instance": {
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "total_degree": 9
+        },
+        "location": "section 6, Quillen exact sequence (8); proof of Proposition 6.1",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "The first-quadrant rank filtration has E^1_{N,q}=H_q(GL_N(Z);St_N), converging in total degree N+q to H_*(BQZ;Z). BQ_0 is a point. A zero total-degree-9 diagonal gives H_9(BQZ;R)=0.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "hurewicz",
+        "instance": {
+          "K_degree": 8,
+          "coefficient_ring": "Z[1/7!] = Z[1/210]",
+          "homotopy_degree": 9
+        },
+        "location": "section 6.2, Proposition 6.3 and its proof citing Arlettaz, Theorem 1.5",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://arxiv.org/html/1910.11598v1",
+        "statement": "K_8(Z)=pi_9(BQZ). The Hurewicz kernel in degree 9 is killed by an integer with prime divisors only 2,3,5; it vanishes after tensoring with R.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "arithmetic_2",
+        "instance": {
+          "K_degree": 8,
+          "coefficient_ring": "Z",
+          "prime": 2
+        },
+        "location": "Chapter VI, Corollary 9.8, p.55 (PDF p.55); separate real-place/2-primary calculation",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf",
+        "statement": "The 2-primary subgroup of K_8(Z) is zero (n=8 mod 8, n>=2).",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "arithmetic_odd",
+        "instance": {
+          "K_degree": 8,
+          "coefficient_ring": "Z",
+          "primes": [
+            3,
+            5,
+            7
+          ]
+        },
+        "location": "Chapter VI, Proposition 10.5, p.63 (PDF p.63)",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf",
+        "statement": "For every odd regular prime ell, K_{2i}(Z) has no ell-torsion. Apply at ell=3,5,7, i=4.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "regularity",
+        "instance": {
+          "coefficient_ring": "Z",
+          "primes": [
+            3,
+            5,
+            7
+          ]
+        },
+        "location": "Chapter VI, section 2, Irregular Primes 2.4.1 and preceding Bernoulli table, p.9",
+        "role": "external mathematical premise; not machine checked",
+        "source": "https://sites.math.rutgers.edu/~weibel/Kbook/Kbook.VI.pdf",
+        "statement": "Kummer's criterion identifies regular odd primes via Bernoulli numerators. The primes 3,5,7 are regular: the relevant topologists' Bernoulli numbers B_1=1/6 and B_2=1/30 have numerator 1; for 3 the list is empty.",
+        "status": "ADMITTED"
+      },
+      {
+        "id": "simpliciality",
+        "instance": {
+          "cone_dimension": 9,
+          "ranks": [
+            8,
+            9
+          ]
+        },
+        "location": "Dutour Sikiric\u2013Hulek\u2013Schuermann (2015), Lemma 3.1, pp.647\u2013649; not the classification-dependent Theorem 1.1.",
+        "source": "https://doi.org/10.14231/AG-2015-027",
+        "statement": "A full-span perfect cone of dimension N or N+1 is simplicial.",
+        "status": "ADMITTED"
+      }
+    ],
+    "classification_assumption": "No use of completeness/realizability of the published 106-cell list. No use of exact orbit counts for vanishing.",
+    "coefficient_ring": "Z[1/7!] = Z[1/210]",
+    "computed": [
+      "Cyclic and noncyclic candidate regeneration and exact realization/exclusion checks.",
+      "Every bounded rank8 extension regenerated; its coordinate transposition checked.",
+      "All relevant accepted presentations converted to integral bases and checked by voronoi_verify.checker."
+    ],
+    "inferences": [
+      {
+        "id": "computed_rank_8",
+        "statement": "H_1(GL_8(Z);St_8 tensor R)=0 from complete geometric coverage and independent orientation checks.",
+        "status": "CONDITIONAL"
+      },
+      {
+        "id": "computed_rank_9",
+        "statement": "H_0(GL_9(Z);St_9 tensor R)=0 from the analogous geometric calculation; integral vanishing is not asserted by this route.",
+        "status": "CONDITIONAL"
+      },
+      {
+        "id": "K8_integral",
+        "statement": "K_8(Z)=0 under the cited external theorems, reductions proved in the report, and correctness of the exact software execution.",
+        "status": "CONDITIONAL"
+      }
+    ],
+    "proved_in_report_not_formalized": [
+      "Blichfeldt index bound: index <=19 in rank8 and <=37 in rank9.",
+      "Strict Watson filter for a lattice with exactly its coordinate minimal pairs.",
+      "Finite abelian quotient coverage, including lifts of C4 x C4 and exclusion of C2^3, C3^2, C5^2.",
+      "A full-span facet can be realized with only its prescribed minimal pairs.",
+      "Maximal-determinant basis implies |x_i|<=1 for the extra vector.",
+      "Averaging preserves realizability and justifies the restricted Gram parameters.",
+      "Exact LDL enumeration and rational inequality combinations certify realization/exclusion."
+    ],
+    "remaining_trust": "Published theorems and the written mathematical reductions are not formalized; Python, its integer/rational arithmetic, the checkers, and their correspondence to the reductions remain trusted.",
+    "report": "reports/k8-verification-synthesis/main.tex",
+    "schema": "voronoi-integrated-dependencies-v1"
+  },
+  "measurements": {
+    "cpu_count": 16,
+    "elapsed_seconds": 20.410448098089546,
+    "jobs": 1,
+    "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+    "process_peak_rss_kib": 68052,
+    "process_system_seconds": 0.047928,
+    "process_user_seconds": 3.656521,
+    "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+    "software_version": "1.0.0"
+  },
+  "phases": {
+    "enumeration": {
+      "8": {
+        "accepted_cyclic": 11,
+        "accepted_noncyclic": 1,
+        "basis_classes": 13,
+        "cyclic_candidates": 16
+      },
+      "9": {
+        "accepted_cyclic": 36,
+        "accepted_noncyclic": 7,
+        "basis_classes": 44,
+        "cyclic_candidates": 291
+      },
+      "rank8_extensions": {
+        "accepted_presentations": 134,
+        "candidates": 647,
+        "classes": 106,
+        "excluded": 513,
+        "orientation_reversing": 647
+      },
+      "seconds": 6.146,
+      "sphere_enumeration_nodes": 36893
+    },
+    "initial_constraints": {
+      "checks": {
+        "equality_rows": 647,
+        "inequality_rows": 665214,
+        "problems": 964,
+        "saved_certificate_rows_from_later_cuts": 109
+      },
+      "scope": "Every exported initial constraint checked exactly; optional whole-problem comparisons check original row order, deduplication, and representative vectors on the listed examples.",
+      "seconds": 6.635,
+      "status": "passed",
+      "whole_problems_compared_with_original_builders": []
+    },
+    "matrices": {
+      "checks": {
+        "Gram_matrices_and_derived_geometry_checked": 191,
+        "configuration_symmetries_checked": 704,
+        "exclusion_certificates_checked": 775,
+        "final_cell_classes_indexed": 150,
+        "legacy_Smith_identity_checked": 1
+      },
+      "scope": "Exact source fidelity and exported matrix identities; run verify_completeness.py for enumeration and shortest-vector verification.",
+      "seconds": 3.825,
+      "status": "passed"
+    }
+  },
+  "result_level": "CHECKED_ENUMERATION_AND_INDEPENDENT_ORIENTATION_CERTIFICATES",
+  "schema": "voronoi-integrated-result-v1",
+  "status": "SUCCESS"
+}

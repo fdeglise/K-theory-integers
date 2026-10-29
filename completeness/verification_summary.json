@@ -1,0 +1,23 @@
+{
+  "8": {
+    "cyclic_candidates": 16,
+    "accepted_cyclic": 11,
+    "accepted_noncyclic": 1,
+    "basis_classes": 13
+  },
+  "9": {
+    "cyclic_candidates": 291,
+    "accepted_cyclic": 36,
+    "accepted_noncyclic": 7,
+    "basis_classes": 44
+  },
+  "rank8_extensions": {
+    "candidates": 647,
+    "accepted_presentations": 134,
+    "excluded": 513,
+    "classes": 106,
+    "orientation_reversing": 647
+  },
+  "sphere_enumeration_nodes": 36893,
+  "seconds": 17.865
+}

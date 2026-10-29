@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "checks": {
+    "Gram_matrices_and_derived_geometry_checked": 191,
+    "configuration_symmetries_checked": 704,
+    "exclusion_certificates_checked": 775,
+    "final_cell_classes_indexed": 150,
+    "legacy_Smith_identity_checked": 1
+  },
+  "seconds": 22.142,
+  "scope": "Exact source fidelity and exported matrix identities; run verify_completeness.py for enumeration and shortest-vector verification."
+}

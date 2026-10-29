@@ -1,0 +1,13 @@
+{
+  "statistics": {
+    "retained_result_records": 964,
+    "retained_Gram_matrices": 189,
+    "supplemental_identity_Gram_matrices": 2,
+    "retained_exclusion_certificates": 775,
+    "explicit_configuration_symmetries": 704,
+    "accepted_presentations_with_integral_coordinates": 191,
+    "rank8_final_cell_classes": 106,
+    "rank9_final_cell_classes": 44
+  },
+  "seconds": 16.149
+}

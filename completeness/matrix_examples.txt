@@ -1,0 +1,127 @@
+RANK EIGHT: accepted extension entry 10
+Original lattice: L = Z^8 + Z*(e4+e5+e6+e7+e8)/2.
+Saved Gram matrix Q:
+[    1     0     0     0     0     0     0     0]
+[    0     1     0     0     0     0     0     0]
+[    0     0     1     0     0     0     0     0]
+[    0     0     0     1 -1/20 -1/20 -1/20 -1/20]
+[    0     0     0 -1/20     1 -1/20 -1/20 -1/20]
+[    0     0     0 -1/20 -1/20     1 -1/20 -1/20]
+[    0     0     0 -1/20 -1/20 -1/20     1 -1/20]
+[    0     0     0 -1/20 -1/20 -1/20 -1/20     1]
+
+Integral lattice basis B = [e1,...,e7,f], expressed in the original coordinates:
+[  1   0   0   0   0   0   0   0]
+[  0   1   0   0   0   0   0   0]
+[  0   0   1   0   0   0   0   0]
+[  0   0   0   1   0   0   0 1/2]
+[  0   0   0   0   1   0   0 1/2]
+[  0   0   0   0   0   1   0 1/2]
+[  0   0   0   0   0   0   1 1/2]
+[  0   0   0   0   0   0   0 1/2]
+
+det(B) = 1/2
+Since e8 = 2*f-e4-e5-e6-e7, the columns of B generate exactly L.
+Integer Gram matrix A = 20 * transpose(B) * Q * B:
+[20  0  0  0  0  0  0  0]
+[ 0 20  0  0  0  0  0  0]
+[ 0  0 20  0  0  0  0  0]
+[ 0  0  0 20 -1 -1 -1  8]
+[ 0  0  0 -1 20 -1 -1  8]
+[ 0  0  0 -1 -1 20 -1  8]
+[ 0  0  0 -1 -1 -1 20  8]
+[ 0  0  0  8  8  8  8 20]
+
+Positive LDL diagonal for A: ['20', '20', '20', '20', '399/20', '378/19', '119/6', '84/17']
+det(A) = 6223392000
+Nine minimal-vector representatives in the integral lattice basis:
+[ 1  0  0  0  0  0  0  0]
+[ 0  1  0  0  0  0  0  0]
+[ 0  0  1  0  0  0  0  0]
+[ 0  0  0  1  0  0  0  0]
+[ 0  0  0  0  1  0  0  0]
+[ 0  0  0  0  0  1  0  0]
+[ 0  0  0  0  0  0  1  0]
+[ 0  0  0  0  0  0  0  1]
+[ 0  0  0 -1 -1 -1 -1  2]
+
+Their squared lengths for A: [20, 20, 20, 20, 20, 20, 20, 20, 20]
+Exact enumeration: these 18 signed vectors are all nonzero vectors with A[x] <= 20.
+Enumeration nodes: 113
+Rows of the tensor matrix (upper-triangular entries of v*v^t):
+[ 1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+[ 0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1]
+[ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  1  1  1 -2  1  1  1 -2  1  1 -2  1 -2  4]
+
+Tensor-matrix rank: 9
+Orientation-reversing integral automorphism P, swapping coordinates 4 and 5:
+[1 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0]
+[0 0 0 0 1 0 0 0]
+[0 0 0 1 0 0 0 0]
+[0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 1]
+
+Checked: transpose(P)*A*P = A; P*P = I; det(P) = -1.
+Action on the nine rays: swap rays 4 and 5, fix the other seven.
+
+EXCLUSION: extension entry 7, in variables (q, delta)
+Candidate extra vector: e7+e8 in the same original lattice L.
+First row is an inequality; second row is an equality.
+Coefficient rows C:
+[-2  4]
+[ 2  0]
+
+Right-hand sides b:
+[ 1]
+[-1]
+
+Certificate weights:
+[1/4 1/4]
+
+weights * C:
+[0 1]
+
+weights * b:
+[0]
+
+Therefore delta <= 0, contradicting the positive gap required by this candidate.
+
+RANK NINE: cyclic code (0,0,0,0,1,1,1,1,1) modulo 2
+L = Z^9 + Z*(e5+e6+e7+e8+e9)/2.
+Saved Gram matrix Q9:
+[1 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0]
+[0 0 0 0 1 0 0 0 0]
+[0 0 0 0 0 1 0 0 0]
+[0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 1]
+
+Exact enumeration: the minimal vectors are precisely +/- e1,...,+/- e9.
+The fractional coset has squared length at least 5/4.
+Enumeration nodes: 131
+Checked integral coordinate permutation P9:
+[1 0 0 0 0 0 0 0 0]
+[0 1 0 0 0 0 0 0 0]
+[0 0 1 0 0 0 0 0 0]
+[0 0 0 1 0 0 0 0 0]
+[0 0 0 0 0 1 0 0 0]
+[0 0 0 0 1 0 0 0 0]
+[0 0 0 0 0 0 1 0 0]
+[0 0 0 0 0 0 0 1 0]
+[0 0 0 0 0 0 0 0 1]
+
+Swapping coordinates 5 and 6 preserves L and Q9 and transposes two of the nine rays.
+
+All displayed calculations use exact fractions. No Lean proof is claimed.

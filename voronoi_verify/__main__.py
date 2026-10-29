@@ -101,6 +101,13 @@ def parser():
     im.add_argument("--output", default="data/rank8-projective8.json")
     au = sub.add_parser("audit", help="recompute dimensions in neighboring pinned sources")
     au.add_argument("--output", default="results/dimension-audit.json")
+    co = sub.add_parser("completeness", help="check the attached enumeration and replay its integral witnesses independently")
+    co.add_argument("--certificates", default="results/completeness-witnesses.json")
+    co.add_argument("--output", default="results/completeness.json")
+    co.add_argument("--phase-timeout", type=int, default=120)
+    cc = sub.add_parser("completeness-check", help="replay saved presentation witnesses without enumeration or downloads")
+    cc.add_argument("--certificates", default="results/completeness-witnesses.json")
+    cc.add_argument("--output", default="results/completeness-replay.json")
     for name in ("discover", "verify", "full"):
         s = sub.add_parser(name)
         s.add_argument("--dataset", default="data/rank8-projective8.json")
@@ -119,7 +126,13 @@ def parser():
 
 def execute(args, start):
     command = args.command
-    if command == "acquire":
+    if command == "completeness":
+        from .completeness import run_integrated
+        report = run_integrated(args.certificates, args.phase_timeout)
+    elif command == "completeness-check":
+        from .completeness import replay_witnesses
+        report = replay_witnesses(read_json(args.certificates))
+    elif command == "acquire":
         report = acquire()
     elif command == "import":
         if args.source is None:

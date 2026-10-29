@@ -161,6 +161,19 @@
       "status": "not_acquired",
       "source_url": "https://doi.org/10.1016/0022-4049(91)90036-2",
       "reason": "No downloadable original PDF was located in the checked author/institutional sources."
+    },
+    {
+      "authors": "Mathieu Dutour Sikiric, Klaus Hulek, Achill Schuermann",
+      "title": "Smoothness and singularities of the perfect form and the second Voronoi compactification of A_g",
+      "role": "Lemma 3.1, pp.647–649: simpliciality in cone dimensions N, N+1, N+2. The lemma is used independently of the classification-dependent Theorem 1.1.",
+      "source_url": "https://fulir.irb.hr/4379/1/DutourSikiricM_Smoothness_Algebraic%20Geometry2_2015_642.pdf",
+      "retrieved_utc": "2026-10-28T23:34:08.638227+00:00",
+      "file": "pdfs/11_Dutour-Hulek-Schuermann_Simpliciality.pdf",
+      "status": "downloaded",
+      "bytes": 367063,
+      "pages": 12,
+      "sha256": "b9157858cf505e08e21c3327e6703cca85b4fc21f9fa9ba3780f99c1dfd0b191",
+      "doi": "10.14231/AG-2015-027"
     }
   ]
 }

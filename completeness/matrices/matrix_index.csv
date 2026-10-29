@@ -1,0 +1,967 @@
+id,rank,phase,status,cell_class_id,source_file,source_entry,lattice_index,lattice_modulus,saved_search_iterations,gram_rows,certificate_inequalities,certificate_equalities
+cyclic_n8_0001,8,cyclic,accepted,,cyclic_results_8.json,"(2, (0, 0, 0, 1, 1, 1, 1, 1))",2,2,1,8,0,0
+cyclic_n8_0002,8,cyclic,accepted,,cyclic_results_8.json,"(2, (0, 0, 1, 1, 1, 1, 1, 1))",2,2,1,8,0,0
+cyclic_n8_0003,8,cyclic,accepted,,cyclic_results_8.json,"(2, (0, 1, 1, 1, 1, 1, 1, 1))",2,2,1,8,0,0
+cyclic_n8_0004,8,cyclic,accepted,,cyclic_results_8.json,"(2, (1, 1, 1, 1, 1, 1, 1, 1))",2,2,1,8,0,0
+cyclic_n8_0005,8,cyclic,accepted,,cyclic_results_8.json,"(3, (0, 1, 1, 1, 1, 1, 1, 1))",3,3,1,8,0,0
+cyclic_n8_0006,8,cyclic,accepted,,cyclic_results_8.json,"(3, (1, 1, 1, 1, 1, 1, 1, 1))",3,3,1,8,0,0
+cyclic_n8_0007,8,cyclic,accepted,,cyclic_results_8.json,"(4, (0, 1, 1, 1, 1, 1, 2, 2))",4,4,1,8,0,0
+cyclic_n8_0008,8,cyclic,accepted,,cyclic_results_8.json,"(4, (1, 1, 1, 1, 1, 1, 1, 2))",4,4,1,8,0,0
+cyclic_n8_0009,8,cyclic,accepted,,cyclic_results_8.json,"(4, (1, 1, 1, 1, 1, 1, 2, 2))",4,4,1,8,0,0
+cyclic_n8_0010,8,cyclic,accepted,,cyclic_results_8.json,"(4, (1, 1, 1, 1, 1, 2, 2, 2))",4,4,1,8,0,0
+cyclic_n8_0011,8,cyclic,accepted,,cyclic_results_8.json,"(5, (1, 1, 1, 1, 1, 2, 2, 2))",5,5,1,8,0,0
+cyclic_n8_0012,8,cyclic,excluded,,cyclic_results_8.json,"(5, (1, 1, 1, 1, 2, 2, 2, 2))",5,5,1,0,2,0
+cyclic_n8_0013,8,cyclic,excluded,,cyclic_results_8.json,"(6, (1, 1, 1, 1, 2, 2, 2, 3))",6,6,1,0,3,0
+cyclic_n8_0014,8,cyclic,excluded,,cyclic_results_8.json,"(7, (1, 1, 1, 2, 2, 2, 3, 3))",7,7,1,0,4,0
+cyclic_n8_0015,8,cyclic,excluded,,cyclic_results_8.json,"(8, (1, 1, 1, 2, 2, 3, 3, 4))",8,8,1,0,5,0
+cyclic_n8_0016,8,cyclic,excluded,,cyclic_results_8.json,"(17, (1, 2, 3, 4, 5, 6, 7, 8))",17,17,1,0,10,0
+noncyclic_n8_0000,8,noncyclic,accepted,,noncyclic_results_8.json,0,4,2,1,8,0,0
+cyclic_n9_0001,9,cyclic,accepted,n9_cell_001,cyclic_results_9.json,"(2, (0, 0, 0, 0, 1, 1, 1, 1, 1))",2,2,1,9,0,0
+cyclic_n9_0002,9,cyclic,accepted,n9_cell_002,cyclic_results_9.json,"(2, (0, 0, 0, 1, 1, 1, 1, 1, 1))",2,2,1,9,0,0
+cyclic_n9_0003,9,cyclic,accepted,n9_cell_003,cyclic_results_9.json,"(2, (0, 0, 1, 1, 1, 1, 1, 1, 1))",2,2,1,9,0,0
+cyclic_n9_0004,9,cyclic,accepted,n9_cell_004,cyclic_results_9.json,"(2, (0, 1, 1, 1, 1, 1, 1, 1, 1))",2,2,1,9,0,0
+cyclic_n9_0005,9,cyclic,accepted,n9_cell_005,cyclic_results_9.json,"(2, (1, 1, 1, 1, 1, 1, 1, 1, 1))",2,2,1,9,0,0
+cyclic_n9_0006,9,cyclic,accepted,n9_cell_006,cyclic_results_9.json,"(3, (0, 0, 1, 1, 1, 1, 1, 1, 1))",3,3,1,9,0,0
+cyclic_n9_0007,9,cyclic,accepted,n9_cell_007,cyclic_results_9.json,"(3, (0, 1, 1, 1, 1, 1, 1, 1, 1))",3,3,1,9,0,0
+cyclic_n9_0008,9,cyclic,accepted,n9_cell_008,cyclic_results_9.json,"(3, (1, 1, 1, 1, 1, 1, 1, 1, 1))",3,3,1,9,0,0
+cyclic_n9_0009,9,cyclic,accepted,n9_cell_009,cyclic_results_9.json,"(4, (0, 0, 1, 1, 1, 1, 1, 2, 2))",4,4,1,9,0,0
+cyclic_n9_0010,9,cyclic,accepted,n9_cell_010,cyclic_results_9.json,"(4, (0, 1, 1, 1, 1, 1, 1, 1, 2))",4,4,1,9,0,0
+cyclic_n9_0011,9,cyclic,accepted,n9_cell_011,cyclic_results_9.json,"(4, (0, 1, 1, 1, 1, 1, 1, 2, 2))",4,4,1,9,0,0
+cyclic_n9_0012,9,cyclic,accepted,n9_cell_012,cyclic_results_9.json,"(4, (0, 1, 1, 1, 1, 1, 2, 2, 2))",4,4,1,9,0,0
+cyclic_n9_0013,9,cyclic,accepted,n9_cell_013,cyclic_results_9.json,"(4, (1, 1, 1, 1, 1, 1, 1, 1, 1))",4,4,1,9,0,0
+cyclic_n9_0014,9,cyclic,accepted,n9_cell_014,cyclic_results_9.json,"(4, (1, 1, 1, 1, 1, 1, 1, 1, 2))",4,4,1,9,0,0
+cyclic_n9_0015,9,cyclic,accepted,n9_cell_015,cyclic_results_9.json,"(4, (1, 1, 1, 1, 1, 1, 1, 2, 2))",4,4,1,9,0,0
+cyclic_n9_0016,9,cyclic,accepted,n9_cell_016,cyclic_results_9.json,"(4, (1, 1, 1, 1, 1, 1, 2, 2, 2))",4,4,1,9,0,0
+cyclic_n9_0017,9,cyclic,accepted,n9_cell_017,cyclic_results_9.json,"(4, (1, 1, 1, 1, 1, 2, 2, 2, 2))",4,4,1,9,0,0
+cyclic_n9_0018,9,cyclic,accepted,n9_cell_018,cyclic_results_9.json,"(5, (0, 1, 1, 1, 1, 1, 2, 2, 2))",5,5,1,9,0,0
+cyclic_n9_0019,9,cyclic,excluded,,cyclic_results_9.json,"(5, (0, 1, 1, 1, 1, 2, 2, 2, 2))",5,5,1,0,2,0
+cyclic_n9_0020,9,cyclic,accepted,n9_cell_019,cyclic_results_9.json,"(5, (1, 1, 1, 1, 1, 1, 1, 2, 2))",5,5,1,9,0,0
+cyclic_n9_0021,9,cyclic,accepted,n9_cell_020,cyclic_results_9.json,"(5, (1, 1, 1, 1, 1, 1, 2, 2, 2))",5,5,1,9,0,0
+cyclic_n9_0022,9,cyclic,accepted,n9_cell_021,cyclic_results_9.json,"(5, (1, 1, 1, 1, 1, 2, 2, 2, 2))",5,5,1,9,0,0
+cyclic_n9_0023,9,cyclic,excluded,,cyclic_results_9.json,"(6, (0, 1, 1, 1, 1, 2, 2, 2, 3))",6,6,1,0,3,0
+cyclic_n9_0024,9,cyclic,accepted,n9_cell_022,cyclic_results_9.json,"(6, (1, 1, 1, 1, 1, 1, 1, 3, 3))",6,6,1,9,0,0
+cyclic_n9_0025,9,cyclic,accepted,n9_cell_023,cyclic_results_9.json,"(6, (1, 1, 1, 1, 1, 1, 2, 2, 3))",6,6,1,9,0,0
+cyclic_n9_0026,9,cyclic,accepted,n9_cell_024,cyclic_results_9.json,"(6, (1, 1, 1, 1, 1, 1, 2, 3, 3))",6,6,1,9,0,0
+cyclic_n9_0027,9,cyclic,accepted,n9_cell_025,cyclic_results_9.json,"(6, (1, 1, 1, 1, 1, 2, 2, 2, 2))",6,6,1,9,0,0
+cyclic_n9_0028,9,cyclic,accepted,n9_cell_026,cyclic_results_9.json,"(6, (1, 1, 1, 1, 1, 2, 2, 2, 3))",6,6,1,9,0,0
+cyclic_n9_0029,9,cyclic,accepted,n9_cell_027,cyclic_results_9.json,"(6, (1, 1, 1, 1, 1, 2, 2, 3, 3))",6,6,1,9,0,0
+cyclic_n9_0030,9,cyclic,accepted,n9_cell_028,cyclic_results_9.json,"(6, (1, 1, 1, 1, 2, 2, 2, 2, 3))",6,6,1,9,0,0
+cyclic_n9_0031,9,cyclic,accepted,n9_cell_029,cyclic_results_9.json,"(6, (1, 1, 1, 1, 2, 2, 2, 3, 3))",6,6,1,9,0,0
+cyclic_n9_0032,9,cyclic,accepted,n9_cell_030,cyclic_results_9.json,"(6, (1, 1, 1, 2, 2, 2, 2, 3, 3))",6,6,1,9,0,0
+cyclic_n9_0033,9,cyclic,excluded,,cyclic_results_9.json,"(7, (0, 1, 1, 1, 2, 2, 2, 3, 3))",7,7,1,0,4,0
+cyclic_n9_0034,9,cyclic,excluded,,cyclic_results_9.json,"(7, (1, 1, 1, 1, 1, 1, 3, 3, 3))",7,7,1,0,3,0
+cyclic_n9_0035,9,cyclic,accepted,n9_cell_031,cyclic_results_9.json,"(7, (1, 1, 1, 1, 1, 2, 2, 3, 3))",7,7,1,9,0,0
+cyclic_n9_0036,9,cyclic,excluded,,cyclic_results_9.json,"(7, (1, 1, 1, 1, 1, 2, 3, 3, 3))",7,7,1,0,6,0
+cyclic_n9_0037,9,cyclic,excluded,,cyclic_results_9.json,"(7, (1, 1, 1, 1, 2, 2, 2, 2, 3))",7,7,1,0,3,0
+cyclic_n9_0038,9,cyclic,accepted,n9_cell_032,cyclic_results_9.json,"(7, (1, 1, 1, 1, 2, 2, 2, 3, 3))",7,7,1,9,0,0
+cyclic_n9_0039,9,cyclic,accepted,n9_cell_033,cyclic_results_9.json,"(7, (1, 1, 1, 1, 2, 2, 3, 3, 3))",7,7,1,9,0,0
+cyclic_n9_0040,9,cyclic,excluded,,cyclic_results_9.json,"(7, (1, 1, 1, 2, 2, 2, 3, 3, 3))",7,7,1,0,3,0
+cyclic_n9_0041,9,cyclic,excluded,,cyclic_results_9.json,"(8, (0, 1, 1, 1, 2, 2, 3, 3, 4))",8,8,1,0,5,0
+cyclic_n9_0042,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 1, 2, 2, 4, 4))",8,8,1,0,4,0
+cyclic_n9_0043,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 1, 2, 3, 3, 4))",8,8,1,0,6,0
+cyclic_n9_0044,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 1, 3, 3, 3, 3))",8,8,1,0,3,0
+cyclic_n9_0045,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 2, 2, 2, 3, 4))",8,8,1,0,6,0
+cyclic_n9_0046,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 2, 2, 3, 3, 3))",8,8,1,0,4,0
+cyclic_n9_0047,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 2, 2, 3, 3, 4))",8,8,1,0,4,0
+cyclic_n9_0048,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 2, 2, 3, 4, 4))",8,8,1,0,6,0
+cyclic_n9_0049,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 2, 3, 3, 3, 3))",8,8,1,0,4,0
+cyclic_n9_0050,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 1, 2, 3, 3, 3, 4))",8,8,1,0,5,0
+cyclic_n9_0051,9,cyclic,accepted,n9_cell_034,cyclic_results_9.json,"(8, (1, 1, 1, 2, 2, 2, 2, 3, 3))",8,8,1,9,0,0
+cyclic_n9_0052,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 2, 2, 2, 3, 3, 3))",8,8,1,0,7,0
+cyclic_n9_0053,9,cyclic,accepted,n9_cell_035,cyclic_results_9.json,"(8, (1, 1, 1, 2, 2, 2, 3, 3, 4))",8,8,1,9,0,0
+cyclic_n9_0054,9,cyclic,excluded,,cyclic_results_9.json,"(8, (1, 1, 1, 2, 2, 3, 3, 3, 4))",8,8,1,0,5,0
+cyclic_n9_0055,9,cyclic,accepted,n9_cell_036,cyclic_results_9.json,"(8, (1, 1, 1, 2, 2, 3, 3, 4, 4))",8,8,1,9,0,0
+cyclic_n9_0056,9,cyclic,excluded,,cyclic_results_9.json,"(9, (1, 1, 1, 1, 2, 2, 3, 4, 4))",9,9,1,0,9,0
+cyclic_n9_0057,9,cyclic,excluded,,cyclic_results_9.json,"(9, (1, 1, 1, 1, 2, 2, 4, 4, 4))",9,9,1,0,4,0
+cyclic_n9_0058,9,cyclic,excluded,,cyclic_results_9.json,"(9, (1, 1, 1, 1, 2, 3, 3, 4, 4))",9,9,1,0,5,0
+cyclic_n9_0059,9,cyclic,excluded,,cyclic_results_9.json,"(9, (1, 1, 1, 2, 2, 2, 3, 3, 4))",9,9,1,0,10,0
+cyclic_n9_0060,9,cyclic,excluded,,cyclic_results_9.json,"(9, (1, 1, 1, 2, 2, 2, 3, 4, 4))",9,9,1,0,5,0
+cyclic_n9_0061,9,cyclic,excluded,,cyclic_results_9.json,"(9, (1, 1, 1, 2, 2, 2, 4, 4, 4))",9,9,1,0,4,0
+cyclic_n9_0062,9,cyclic,excluded,,cyclic_results_9.json,"(9, (1, 1, 1, 2, 2, 3, 3, 4, 4))",9,9,1,0,8,0
+cyclic_n9_0063,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 1, 2, 3, 3, 4, 5))",10,10,1,0,6,0
+cyclic_n9_0064,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 1, 2, 3, 4, 4, 4))",10,10,1,0,7,0
+cyclic_n9_0065,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 1, 3, 3, 3, 3, 5))",10,10,1,0,4,0
+cyclic_n9_0066,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 1, 3, 3, 3, 4, 5))",10,10,1,0,5,0
+cyclic_n9_0067,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 2, 2, 2, 3, 4, 5))",10,10,1,0,5,0
+cyclic_n9_0068,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 2, 2, 3, 3, 3, 5))",10,10,1,0,5,0
+cyclic_n9_0069,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 2, 2, 3, 3, 4, 4))",10,10,1,0,9,0
+cyclic_n9_0070,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 2, 2, 3, 3, 4, 5))",10,10,1,0,9,0
+cyclic_n9_0071,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 2, 2, 3, 4, 4, 5))",10,10,1,0,9,0
+cyclic_n9_0072,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 2, 3, 3, 3, 4, 5))",10,10,1,0,4,0
+cyclic_n9_0073,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 2, 3, 3, 4, 4, 4))",10,10,1,0,5,0
+cyclic_n9_0074,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 1, 2, 3, 3, 4, 4, 5))",10,10,1,0,10,0
+cyclic_n9_0075,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 2, 2, 2, 3, 3, 4, 5))",10,10,1,0,9,0
+cyclic_n9_0076,9,cyclic,excluded,,cyclic_results_9.json,"(10, (1, 1, 2, 2, 3, 3, 4, 4, 5))",10,10,1,0,6,0
+cyclic_n9_0077,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 1, 3, 3, 3, 5, 5))",11,11,1,0,5,0
+cyclic_n9_0078,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 1, 3, 3, 4, 5, 5))",11,11,1,0,7,0
+cyclic_n9_0079,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 2, 2, 4, 5, 5))",11,11,1,0,6,0
+cyclic_n9_0080,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 2, 3, 3, 5, 5))",11,11,1,0,7,0
+cyclic_n9_0081,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 2, 3, 4, 4, 5))",11,11,1,0,7,0
+cyclic_n9_0082,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 2, 3, 4, 5, 5))",11,11,1,0,7,0
+cyclic_n9_0083,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 2, 4, 4, 4, 5))",11,11,1,0,5,0
+cyclic_n9_0084,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 3, 3, 3, 4, 5))",11,11,1,0,7,0
+cyclic_n9_0085,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 3, 3, 4, 4, 5))",11,11,1,0,7,0
+cyclic_n9_0086,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 3, 3, 4, 5, 5))",11,11,1,0,7,0
+cyclic_n9_0087,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 2, 3, 4, 4, 5, 5))",11,11,1,0,11,0
+cyclic_n9_0088,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 1, 3, 3, 4, 4, 5, 5))",11,11,1,0,6,0
+cyclic_n9_0089,9,cyclic,excluded,,cyclic_results_9.json,"(11, (1, 1, 2, 2, 3, 3, 4, 4, 5))",11,11,1,0,6,0
+cyclic_n9_0090,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 1, 1, 3, 3, 5, 5, 5))",12,12,1,0,6,0
+cyclic_n9_0091,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 1, 2, 2, 3, 4, 5, 6))",12,12,1,0,9,0
+cyclic_n9_0092,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 1, 2, 2, 3, 5, 5, 5))",12,12,1,0,6,0
+cyclic_n9_0093,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 1, 2, 2, 4, 4, 5, 5))",12,12,1,0,7,0
+cyclic_n9_0094,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 1, 2, 3, 3, 4, 5, 5))",12,12,1,0,7,0
+cyclic_n9_0095,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 1, 2, 3, 3, 5, 5, 5))",12,12,1,0,6,0
+cyclic_n9_0096,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 1, 2, 3, 4, 4, 5, 6))",12,12,1,0,8,0
+cyclic_n9_0097,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 1, 2, 3, 4, 5, 5, 5))",12,12,1,0,7,0
+cyclic_n9_0098,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 2, 2, 2, 3, 4, 5, 5))",12,12,1,0,8,0
+cyclic_n9_0099,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 2, 2, 2, 3, 5, 5, 6))",12,12,1,0,10,0
+cyclic_n9_0100,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 2, 2, 3, 3, 4, 4, 5))",12,12,1,0,11,0
+cyclic_n9_0101,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 2, 2, 3, 3, 4, 5, 5))",12,12,1,0,7,0
+cyclic_n9_0102,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 2, 2, 3, 4, 4, 5, 5))",12,12,1,0,8,0
+cyclic_n9_0103,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 2, 2, 3, 4, 5, 5, 6))",12,12,1,0,8,0
+cyclic_n9_0104,9,cyclic,excluded,,cyclic_results_9.json,"(12, (1, 1, 2, 3, 4, 4, 5, 5, 6))",12,12,1,0,10,0
+cyclic_n9_0105,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 2, 3, 3, 5, 5, 6))",13,13,1,0,7,0
+cyclic_n9_0106,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 2, 3, 3, 5, 6, 6))",13,13,1,0,7,0
+cyclic_n9_0107,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 2, 3, 4, 4, 5, 6))",13,13,1,0,9,0
+cyclic_n9_0108,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 2, 3, 4, 4, 6, 6))",13,13,1,0,10,0
+cyclic_n9_0109,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 2, 3, 4, 5, 5, 6))",13,13,1,0,10,0
+cyclic_n9_0110,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 2, 4, 4, 4, 6, 6))",13,13,1,0,6,0
+cyclic_n9_0111,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 3, 3, 4, 5, 5, 6))",13,13,1,0,11,0
+cyclic_n9_0112,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 3, 3, 4, 5, 6, 6))",13,13,1,0,8,0
+cyclic_n9_0113,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 1, 3, 4, 4, 5, 6, 6))",13,13,1,0,9,0
+cyclic_n9_0114,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 2, 2, 3, 3, 4, 5, 6))",13,13,1,0,7,0
+cyclic_n9_0115,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 2, 2, 3, 3, 4, 6, 6))",13,13,1,0,7,0
+cyclic_n9_0116,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 2, 2, 3, 3, 5, 6, 6))",13,13,1,0,9,0
+cyclic_n9_0117,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 2, 2, 3, 4, 4, 5, 6))",13,13,1,0,8,0
+cyclic_n9_0118,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 2, 2, 3, 4, 5, 5, 6))",13,13,1,0,7,0
+cyclic_n9_0119,9,cyclic,excluded,,cyclic_results_9.json,"(13, (1, 1, 2, 3, 3, 4, 4, 5, 6))",13,13,1,0,15,0
+cyclic_n9_0120,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 1, 2, 3, 4, 5, 5, 7))",14,14,1,0,6,0
+cyclic_n9_0121,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 1, 2, 3, 4, 5, 6, 6))",14,14,1,0,9,0
+cyclic_n9_0122,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 1, 2, 4, 4, 4, 5, 7))",14,14,1,0,8,0
+cyclic_n9_0123,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 1, 3, 3, 3, 5, 5, 7))",14,14,1,0,6,0
+cyclic_n9_0124,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 1, 3, 3, 4, 5, 5, 7))",14,14,1,0,8,0
+cyclic_n9_0125,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 1, 3, 3, 4, 5, 6, 6))",14,14,1,0,7,0
+cyclic_n9_0126,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 1, 3, 3, 4, 6, 6, 6))",14,14,1,0,7,0
+cyclic_n9_0127,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 2, 3, 3, 4, 6, 7))",14,14,1,0,7,0
+cyclic_n9_0128,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 2, 3, 3, 5, 6, 7))",14,14,1,0,6,0
+cyclic_n9_0129,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 2, 3, 4, 4, 5, 7))",14,14,1,0,6,0
+cyclic_n9_0130,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 2, 3, 4, 5, 5, 6))",14,14,1,0,9,0
+cyclic_n9_0131,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 2, 3, 4, 5, 6, 7))",14,14,1,0,7,0
+cyclic_n9_0132,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 2, 3, 5, 5, 6, 6))",14,14,1,0,12,0
+cyclic_n9_0133,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 3, 3, 4, 4, 5, 6))",14,14,1,0,10,0
+cyclic_n9_0134,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 3, 3, 4, 5, 5, 6))",14,14,1,0,9,0
+cyclic_n9_0135,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 3, 3, 4, 5, 5, 7))",14,14,1,0,6,0
+cyclic_n9_0136,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 3, 3, 4, 5, 6, 7))",14,14,1,0,7,0
+cyclic_n9_0137,9,cyclic,excluded,,cyclic_results_9.json,"(14, (1, 1, 2, 3, 4, 4, 5, 6, 7))",14,14,1,0,7,0
+cyclic_n9_0138,9,cyclic,excluded,,cyclic_results_9.json,"(15, (1, 1, 1, 2, 4, 4, 6, 6, 7))",15,15,1,0,7,0
+cyclic_n9_0139,9,cyclic,excluded,,cyclic_results_9.json,"(15, (1, 1, 2, 2, 3, 4, 4, 7, 7))",15,15,1,0,7,0
+cyclic_n9_0140,9,cyclic,excluded,,cyclic_results_9.json,"(15, (1, 1, 2, 2, 3, 4, 5, 6, 7))",15,15,1,0,9,0
+cyclic_n9_0141,9,cyclic,excluded,,cyclic_results_9.json,"(15, (1, 1, 2, 2, 3, 4, 5, 7, 7))",15,15,1,0,8,0
+cyclic_n9_0142,9,cyclic,excluded,,cyclic_results_9.json,"(15, (1, 1, 2, 2, 4, 4, 5, 7, 7))",15,15,1,0,7,0
+cyclic_n9_0143,9,cyclic,excluded,,cyclic_results_9.json,"(15, (1, 1, 2, 2, 4, 5, 6, 6, 7))",15,15,1,0,9,0
+cyclic_n9_0144,9,cyclic,excluded,,cyclic_results_9.json,"(15, (1, 1, 2, 3, 4, 4, 5, 6, 7))",15,15,1,0,9,0
+cyclic_n9_0145,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 1, 2, 4, 4, 6, 7, 7))",16,16,1,0,10,0
+cyclic_n9_0146,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 1, 3, 3, 4, 6, 6, 8))",16,16,1,0,7,0
+cyclic_n9_0147,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 1, 3, 3, 5, 5, 7, 7))",16,16,1,0,10,0
+cyclic_n9_0148,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 1, 3, 4, 5, 6, 6, 8))",16,16,1,0,8,0
+cyclic_n9_0149,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 1, 3, 4, 5, 6, 7, 7))",16,16,1,0,12,0
+cyclic_n9_0150,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 2, 3, 4, 5, 7, 8))",16,16,1,0,9,0
+cyclic_n9_0151,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 2, 3, 4, 6, 7, 7))",16,16,1,0,9,0
+cyclic_n9_0152,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 2, 3, 5, 6, 6, 7))",16,16,1,0,13,0
+cyclic_n9_0153,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 2, 4, 5, 5, 7, 8))",16,16,1,0,12,0
+cyclic_n9_0154,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 3, 4, 5, 6, 8))",16,16,1,0,9,0
+cyclic_n9_0155,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 3, 4, 5, 7, 7))",16,16,1,0,8,0
+cyclic_n9_0156,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 3, 4, 6, 7, 8))",16,16,1,0,8,0
+cyclic_n9_0157,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 3, 5, 5, 6, 7))",16,16,1,0,8,0
+cyclic_n9_0158,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 3, 5, 5, 7, 7))",16,16,1,0,7,0
+cyclic_n9_0159,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 4, 4, 5, 6, 7))",16,16,1,0,10,0
+cyclic_n9_0160,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 4, 4, 6, 7, 7))",16,16,1,0,8,0
+cyclic_n9_0161,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 4, 5, 6, 6, 7))",16,16,1,0,12,0
+cyclic_n9_0162,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 4, 5, 6, 7, 7))",16,16,1,0,9,0
+cyclic_n9_0163,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 2, 3, 4, 5, 6, 7, 8))",16,16,1,0,11,0
+cyclic_n9_0164,9,cyclic,excluded,,cyclic_results_9.json,"(16, (1, 1, 3, 4, 5, 6, 6, 7, 8))",16,16,1,0,9,0
+cyclic_n9_0165,9,cyclic,excluded,,cyclic_results_9.json,"(17, (0, 1, 2, 3, 4, 5, 6, 7, 8))",17,17,1,0,10,0
+cyclic_n9_0166,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 1, 3, 4, 5, 6, 7, 8))",17,17,1,0,14,0
+cyclic_n9_0167,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 2, 4, 4, 7, 7, 8))",17,17,1,0,10,0
+cyclic_n9_0168,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 2, 4, 5, 5, 7, 8))",17,17,1,0,8,0
+cyclic_n9_0169,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 2, 4, 5, 6, 7, 8))",17,17,1,0,9,0
+cyclic_n9_0170,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 3, 4, 6, 7, 8))",17,17,1,0,17,0
+cyclic_n9_0171,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 3, 5, 6, 7, 8))",17,17,1,0,9,0
+cyclic_n9_0172,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 4, 4, 6, 6, 8))",17,17,1,0,8,0
+cyclic_n9_0173,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 4, 4, 6, 7, 8))",17,17,1,0,10,0
+cyclic_n9_0174,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 4, 5, 5, 6, 8))",17,17,1,0,11,0
+cyclic_n9_0175,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 4, 5, 5, 7, 8))",17,17,1,0,10,0
+cyclic_n9_0176,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 4, 5, 6, 7, 8))",17,17,1,0,14,0
+cyclic_n9_0177,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 4, 5, 7, 7, 8))",17,17,1,0,9,0
+cyclic_n9_0178,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 3, 4, 6, 6, 7, 8))",17,17,1,0,11,0
+cyclic_n9_0179,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 4, 4, 6, 6, 7, 8))",17,17,1,0,13,0
+cyclic_n9_0180,9,cyclic,excluded,,cyclic_results_9.json,"(17, (1, 1, 2, 4, 5, 6, 7, 7, 8))",17,17,1,0,16,0
+cyclic_n9_0181,9,cyclic,excluded,,cyclic_results_9.json,"(18, (1, 1, 2, 2, 4, 5, 7, 7, 8))",18,18,1,0,12,0
+cyclic_n9_0182,9,cyclic,excluded,,cyclic_results_9.json,"(18, (1, 1, 2, 3, 3, 5, 7, 7, 8))",18,18,1,0,11,0
+cyclic_n9_0183,9,cyclic,excluded,,cyclic_results_9.json,"(18, (1, 1, 2, 3, 4, 5, 6, 7, 8))",18,18,1,0,11,0
+cyclic_n9_0184,9,cyclic,excluded,,cyclic_results_9.json,"(18, (1, 1, 2, 3, 4, 5, 7, 8, 8))",18,18,1,0,10,0
+cyclic_n9_0185,9,cyclic,excluded,,cyclic_results_9.json,"(18, (1, 1, 3, 4, 5, 6, 7, 8, 8))",18,18,1,0,17,0
+cyclic_n9_0186,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 2, 5, 5, 6, 8, 9))",19,19,1,0,9,0
+cyclic_n9_0187,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 4, 5, 6, 8, 9))",19,19,1,0,18,0
+cyclic_n9_0188,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 4, 5, 7, 8, 9))",19,19,1,0,14,0
+cyclic_n9_0189,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 4, 6, 6, 8, 8))",19,19,1,0,8,0
+cyclic_n9_0190,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 4, 6, 6, 8, 9))",19,19,1,0,9,0
+cyclic_n9_0191,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 4, 6, 7, 8, 8))",19,19,1,0,9,0
+cyclic_n9_0192,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 5, 5, 6, 7, 9))",19,19,1,0,9,0
+cyclic_n9_0193,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 5, 5, 7, 8, 9))",19,19,1,0,9,0
+cyclic_n9_0194,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 5, 6, 6, 8, 9))",19,19,1,0,9,0
+cyclic_n9_0195,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 5, 6, 7, 8, 9))",19,19,1,0,10,0
+cyclic_n9_0196,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 3, 5, 7, 7, 8, 8))",19,19,1,0,9,0
+cyclic_n9_0197,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 4, 4, 5, 6, 7, 9))",19,19,1,0,13,0
+cyclic_n9_0198,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 4, 4, 6, 7, 7, 9))",19,19,1,0,8,0
+cyclic_n9_0199,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 4, 5, 5, 7, 8, 8))",19,19,1,0,10,0
+cyclic_n9_0200,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 4, 5, 6, 7, 8, 9))",19,19,1,0,10,0
+cyclic_n9_0201,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 2, 4, 5, 6, 8, 8, 9))",19,19,1,0,14,0
+cyclic_n9_0202,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 1, 3, 4, 5, 6, 7, 8, 9))",19,19,1,0,12,0
+cyclic_n9_0203,9,cyclic,excluded,,cyclic_results_9.json,"(19, (1, 2, 3, 4, 5, 6, 7, 8, 9))",19,19,1,0,24,0
+cyclic_n9_0204,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 1, 2, 3, 4, 5, 7, 9, 9))",20,20,1,0,10,0
+cyclic_n9_0205,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 1, 2, 3, 4, 6, 7, 8, 9))",20,20,1,0,18,0
+cyclic_n9_0206,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 1, 2, 3, 5, 6, 7, 9, 9))",20,20,1,0,13,0
+cyclic_n9_0207,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 1, 3, 3, 5, 7, 7, 9, 9))",20,20,1,0,14,0
+cyclic_n9_0208,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 1, 3, 5, 6, 7, 8, 9, 9))",20,20,1,0,13,0
+cyclic_n9_0209,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 2, 2, 3, 4, 5, 7, 8, 9))",20,20,1,0,11,0
+cyclic_n9_0210,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 2, 2, 3, 5, 6, 6, 7, 9))",20,20,1,0,19,0
+cyclic_n9_0211,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 2, 2, 3, 5, 6, 7, 8, 9))",20,20,1,0,19,0
+cyclic_n9_0212,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 2, 3, 4, 4, 5, 6, 7, 9))",20,20,1,0,19,0
+cyclic_n9_0213,9,cyclic,excluded,,cyclic_results_9.json,"(20, (1, 2, 3, 4, 5, 6, 7, 8, 9))",20,20,1,0,12,0
+cyclic_n9_0214,9,cyclic,excluded,,cyclic_results_9.json,"(21, (1, 1, 2, 4, 4, 6, 7, 9, 10))",21,21,1,0,13,0
+cyclic_n9_0215,9,cyclic,excluded,,cyclic_results_9.json,"(21, (1, 1, 2, 4, 5, 6, 8, 8, 10))",21,21,1,0,9,0
+cyclic_n9_0216,9,cyclic,excluded,,cyclic_results_9.json,"(21, (1, 1, 2, 4, 5, 6, 8, 9, 10))",21,21,1,0,10,0
+cyclic_n9_0217,9,cyclic,excluded,,cyclic_results_9.json,"(21, (1, 2, 3, 4, 5, 6, 7, 8, 10))",21,21,1,0,11,0
+cyclic_n9_0218,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 1, 2, 3, 5, 6, 8, 9, 10))",22,22,1,0,12,0
+cyclic_n9_0219,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 1, 2, 4, 4, 7, 7, 9, 10))",22,22,1,0,10,0
+cyclic_n9_0220,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 1, 2, 4, 5, 7, 8, 9, 10))",22,22,1,0,22,0
+cyclic_n9_0221,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 1, 3, 3, 5, 7, 8, 9, 10))",22,22,1,0,21,0
+cyclic_n9_0222,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 1, 3, 4, 5, 6, 7, 8, 10))",22,22,1,0,20,0
+cyclic_n9_0223,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 1, 3, 4, 6, 7, 8, 9, 10))",22,22,1,0,19,0
+cyclic_n9_0224,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 1, 3, 5, 6, 6, 8, 9, 10))",22,22,1,0,10,0
+cyclic_n9_0225,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 1, 3, 5, 6, 7, 8, 10, 10))",22,22,1,0,21,0
+cyclic_n9_0226,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 2, 2, 3, 5, 6, 7, 9, 10))",22,22,1,0,24,0
+cyclic_n9_0227,9,cyclic,excluded,,cyclic_results_9.json,"(22, (1, 2, 3, 4, 5, 6, 7, 8, 9))",22,22,1,0,19,0
+cyclic_n9_0228,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 2, 4, 5, 6, 8, 9, 11))",23,23,1,0,12,0
+cyclic_n9_0229,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 2, 4, 5, 7, 7, 10, 10))",23,23,1,0,9,0
+cyclic_n9_0230,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 2, 4, 5, 7, 8, 9, 11))",23,23,1,0,15,0
+cyclic_n9_0231,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 2, 4, 5, 7, 8, 10, 10))",23,23,1,0,11,0
+cyclic_n9_0232,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 2, 4, 6, 7, 9, 9, 11))",23,23,1,0,11,0
+cyclic_n9_0233,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 3, 4, 5, 6, 7, 9, 11))",23,23,1,0,13,0
+cyclic_n9_0234,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 3, 4, 5, 6, 8, 10, 11))",23,23,1,0,13,0
+cyclic_n9_0235,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 3, 4, 6, 7, 9, 9, 11))",23,23,1,0,18,0
+cyclic_n9_0236,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 1, 3, 5, 6, 8, 9, 10, 11))",23,23,1,0,12,0
+cyclic_n9_0237,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 2, 3, 4, 5, 6, 7, 8, 11))",23,23,1,0,30,0
+cyclic_n9_0238,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 2, 3, 4, 5, 6, 7, 9, 10))",23,23,1,0,20,0
+cyclic_n9_0239,9,cyclic,excluded,,cyclic_results_9.json,"(23, (1, 2, 3, 4, 5, 6, 8, 10, 11))",23,23,1,0,11,0
+cyclic_n9_0240,9,cyclic,excluded,,cyclic_results_9.json,"(24, (1, 1, 2, 4, 5, 7, 8, 10, 11))",24,24,1,0,18,0
+cyclic_n9_0241,9,cyclic,excluded,,cyclic_results_9.json,"(24, (1, 1, 2, 4, 6, 7, 9, 10, 11))",24,24,1,0,12,0
+cyclic_n9_0242,9,cyclic,excluded,,cyclic_results_9.json,"(24, (1, 1, 3, 5, 5, 7, 7, 9, 11))",24,24,1,0,13,0
+cyclic_n9_0243,9,cyclic,excluded,,cyclic_results_9.json,"(24, (1, 2, 3, 4, 5, 6, 7, 10, 11))",24,24,1,0,25,0
+cyclic_n9_0244,9,cyclic,excluded,,cyclic_results_9.json,"(24, (1, 2, 3, 4, 5, 7, 8, 9, 10))",24,24,1,0,13,0
+cyclic_n9_0245,9,cyclic,excluded,,cyclic_results_9.json,"(24, (1, 2, 3, 4, 5, 7, 8, 10, 11))",24,24,1,0,22,0
+cyclic_n9_0246,9,cyclic,excluded,,cyclic_results_9.json,"(24, (1, 2, 3, 4, 5, 7, 9, 10, 11))",24,24,1,0,19,0
+cyclic_n9_0247,9,cyclic,excluded,,cyclic_results_9.json,"(25, (1, 1, 2, 4, 6, 7, 9, 10, 12))",25,25,1,0,17,0
+cyclic_n9_0248,9,cyclic,excluded,,cyclic_results_9.json,"(25, (1, 1, 2, 4, 6, 7, 9, 11, 11))",25,25,1,0,14,0
+cyclic_n9_0249,9,cyclic,excluded,,cyclic_results_9.json,"(25, (1, 1, 3, 4, 6, 7, 9, 11, 12))",25,25,1,0,12,0
+cyclic_n9_0250,9,cyclic,excluded,,cyclic_results_9.json,"(25, (1, 2, 3, 4, 5, 6, 9, 11, 12))",25,25,1,0,13,0
+cyclic_n9_0251,9,cyclic,excluded,,cyclic_results_9.json,"(25, (1, 2, 3, 4, 5, 7, 8, 11, 12))",25,25,1,0,15,0
+cyclic_n9_0252,9,cyclic,excluded,,cyclic_results_9.json,"(25, (1, 2, 3, 4, 6, 7, 8, 9, 11))",25,25,1,0,26,0
+cyclic_n9_0253,9,cyclic,excluded,,cyclic_results_9.json,"(26, (1, 2, 3, 4, 5, 8, 9, 10, 11))",26,26,1,0,14,0
+cyclic_n9_0254,9,cyclic,excluded,,cyclic_results_9.json,"(26, (1, 2, 3, 4, 5, 8, 9, 11, 12))",26,26,1,0,13,0
+cyclic_n9_0255,9,cyclic,excluded,,cyclic_results_9.json,"(27, (1, 1, 4, 5, 7, 8, 10, 11, 13))",27,27,1,0,12,0
+cyclic_n9_0256,9,cyclic,excluded,,cyclic_results_9.json,"(27, (1, 2, 3, 4, 5, 6, 10, 11, 13))",27,27,1,0,12,0
+cyclic_n9_0257,9,cyclic,excluded,,cyclic_results_9.json,"(27, (1, 2, 3, 4, 5, 7, 8, 12, 13))",27,27,1,0,12,0
+cyclic_n9_0258,9,cyclic,excluded,,cyclic_results_9.json,"(27, (1, 2, 3, 4, 5, 8, 10, 11, 12))",27,27,1,0,14,0
+cyclic_n9_0259,9,cyclic,excluded,,cyclic_results_9.json,"(27, (1, 2, 4, 5, 7, 8, 10, 11, 13))",27,27,1,0,11,0
+cyclic_n9_0260,9,cyclic,excluded,,cyclic_results_9.json,"(28, (1, 2, 3, 4, 5, 9, 10, 11, 12))",28,28,1,0,13,0
+cyclic_n9_0261,9,cyclic,excluded,,cyclic_results_9.json,"(28, (1, 2, 3, 4, 6, 7, 11, 12, 13))",28,28,1,0,12,0
+cyclic_n9_0262,9,cyclic,excluded,,cyclic_results_9.json,"(28, (1, 2, 3, 5, 6, 7, 9, 11, 13))",28,28,1,0,23,0
+cyclic_n9_0263,9,cyclic,excluded,,cyclic_results_9.json,"(28, (1, 2, 3, 5, 6, 9, 10, 11, 13))",28,28,1,0,22,0
+cyclic_n9_0264,9,cyclic,excluded,,cyclic_results_9.json,"(28, (1, 2, 3, 5, 7, 8, 9, 11, 13))",28,28,1,0,20,0
+cyclic_n9_0265,9,cyclic,excluded,,cyclic_results_9.json,"(28, (1, 2, 3, 6, 7, 10, 11, 12, 13))",28,28,1,0,18,0
+cyclic_n9_0266,9,cyclic,excluded,,cyclic_results_9.json,"(29, (1, 1, 3, 5, 6, 8, 10, 12, 14))",29,29,1,0,28,0
+cyclic_n9_0267,9,cyclic,excluded,,cyclic_results_9.json,"(29, (1, 1, 3, 5, 7, 9, 11, 12, 13))",29,29,1,0,26,0
+cyclic_n9_0268,9,cyclic,excluded,,cyclic_results_9.json,"(29, (1, 1, 4, 5, 7, 9, 11, 12, 14))",29,29,1,0,14,0
+cyclic_n9_0269,9,cyclic,excluded,,cyclic_results_9.json,"(29, (1, 2, 3, 4, 6, 7, 10, 12, 14))",29,29,1,0,15,0
+cyclic_n9_0270,9,cyclic,excluded,,cyclic_results_9.json,"(29, (1, 2, 3, 4, 6, 8, 9, 13, 14))",29,29,1,0,13,0
+cyclic_n9_0271,9,cyclic,excluded,,cyclic_results_9.json,"(29, (1, 2, 3, 4, 7, 8, 9, 12, 14))",29,29,1,0,12,0
+cyclic_n9_0272,9,cyclic,excluded,,cyclic_results_9.json,"(29, (1, 2, 3, 5, 6, 7, 10, 11, 14))",29,29,1,0,13,0
+cyclic_n9_0273,9,cyclic,excluded,,cyclic_results_9.json,"(29, (1, 2, 3, 5, 6, 8, 10, 12, 14))",29,29,1,0,14,0
+cyclic_n9_0274,9,cyclic,excluded,,cyclic_results_9.json,"(30, (1, 2, 3, 4, 7, 8, 11, 13, 14))",30,30,1,0,26,0
+cyclic_n9_0275,9,cyclic,excluded,,cyclic_results_9.json,"(30, (1, 2, 4, 5, 7, 8, 11, 13, 14))",30,30,1,0,32,0
+cyclic_n9_0276,9,cyclic,excluded,,cyclic_results_9.json,"(31, (1, 1, 3, 5, 7, 9, 11, 13, 14))",31,31,1,0,11,0
+cyclic_n9_0277,9,cyclic,excluded,,cyclic_results_9.json,"(31, (1, 2, 3, 4, 7, 8, 12, 13, 14))",31,31,1,0,12,0
+cyclic_n9_0278,9,cyclic,excluded,,cyclic_results_9.json,"(31, (1, 2, 3, 4, 8, 9, 10, 13, 15))",31,31,1,0,16,0
+cyclic_n9_0279,9,cyclic,excluded,,cyclic_results_9.json,"(31, (1, 2, 3, 5, 8, 9, 10, 12, 15))",31,31,1,0,15,0
+cyclic_n9_0280,9,cyclic,excluded,,cyclic_results_9.json,"(31, (1, 2, 3, 7, 8, 9, 12, 13, 14))",31,31,1,0,19,0
+cyclic_n9_0281,9,cyclic,excluded,,cyclic_results_9.json,"(31, (1, 2, 5, 6, 8, 9, 10, 12, 14))",31,31,1,0,13,0
+cyclic_n9_0282,9,cyclic,excluded,,cyclic_results_9.json,"(32, (1, 1, 3, 5, 7, 9, 11, 13, 15))",32,32,1,0,26,0
+cyclic_n9_0283,9,cyclic,excluded,,cyclic_results_9.json,"(32, (1, 2, 3, 5, 7, 9, 11, 13, 15))",32,32,1,0,12,0
+cyclic_n9_0284,9,cyclic,excluded,,cyclic_results_9.json,"(33, (1, 1, 4, 6, 8, 10, 12, 14, 16))",33,33,1,0,21,0
+cyclic_n9_0285,9,cyclic,excluded,,cyclic_results_9.json,"(33, (1, 2, 4, 5, 7, 9, 10, 13, 16))",33,33,1,0,12,0
+cyclic_n9_0286,9,cyclic,excluded,,cyclic_results_9.json,"(34, (1, 2, 3, 4, 8, 9, 13, 14, 15))",34,34,1,0,13,0
+cyclic_n9_0287,9,cyclic,excluded,,cyclic_results_9.json,"(34, (1, 2, 3, 6, 7, 8, 12, 13, 17))",34,34,1,0,21,0
+cyclic_n9_0288,9,cyclic,excluded,,cyclic_results_9.json,"(34, (1, 2, 4, 5, 7, 8, 11, 14, 17))",34,34,1,0,20,0
+cyclic_n9_0289,9,cyclic,excluded,,cyclic_results_9.json,"(34, (1, 3, 5, 7, 9, 11, 13, 15, 17))",34,34,1,0,12,0
+cyclic_n9_0290,9,cyclic,excluded,,cyclic_results_9.json,"(34, (1, 6, 9, 10, 12, 13, 14, 15, 17))",34,34,1,0,10,0
+cyclic_n9_0291,9,cyclic,excluded,,cyclic_results_9.json,"(37, (1, 2, 3, 5, 9, 10, 13, 16, 17))",37,37,1,0,18,0
+noncyclic_n9_0000,9,noncyclic,accepted,n9_cell_037,noncyclic_results_9.json,0,4,2,1,9,0,0
+noncyclic_n9_0001,9,noncyclic,accepted,n9_cell_038,noncyclic_results_9.json,1,4,2,1,9,0,0
+noncyclic_n9_0002,9,noncyclic,accepted,n9_cell_039,noncyclic_results_9.json,2,4,2,1,9,0,0
+noncyclic_n9_0003,9,noncyclic,accepted,n9_cell_040,noncyclic_results_9.json,3,4,2,1,9,0,0
+noncyclic_n9_0004,9,noncyclic,excluded,,noncyclic_results_9.json,4,8,4,1,0,3,0
+noncyclic_n9_0005,9,noncyclic,accepted,n9_cell_041,noncyclic_results_9.json,5,8,4,1,9,0,0
+noncyclic_n9_0006,9,noncyclic,excluded,,noncyclic_results_9.json,6,8,4,1,0,4,0
+noncyclic_n9_0007,9,noncyclic,accepted,n9_cell_042,noncyclic_results_9.json,7,8,4,1,9,0,0
+noncyclic_n9_0008,9,noncyclic,accepted,n9_cell_043,noncyclic_results_9.json,8,8,4,1,9,0,0
+extension_n8_0000,8,extension,accepted,n8_cell_001,extension_results_8.json,0,1,1,1,8,0,0
+extension_n8_0001,8,extension,accepted,n8_cell_002,extension_results_8.json,1,1,1,1,8,0,0
+extension_n8_0002,8,extension,accepted,n8_cell_003,extension_results_8.json,2,1,1,1,8,0,0
+extension_n8_0003,8,extension,accepted,n8_cell_004,extension_results_8.json,3,1,1,1,8,0,0
+extension_n8_0004,8,extension,accepted,n8_cell_005,extension_results_8.json,4,1,1,1,8,0,0
+extension_n8_0005,8,extension,accepted,n8_cell_006,extension_results_8.json,5,1,1,1,8,0,0
+extension_n8_0006,8,extension,accepted,n8_cell_007,extension_results_8.json,6,1,1,1,8,0,0
+extension_n8_0007,8,extension,excluded,,extension_results_8.json,7,2,2,1,0,1,1
+extension_n8_0008,8,extension,excluded,,extension_results_8.json,8,2,2,1,0,1,1
+extension_n8_0009,8,extension,excluded,,extension_results_8.json,9,2,2,1,0,1,1
+extension_n8_0010,8,extension,accepted,n8_cell_008,extension_results_8.json,10,2,2,1,8,0,0
+extension_n8_0011,8,extension,excluded,,extension_results_8.json,11,2,2,1,0,1,1
+extension_n8_0012,8,extension,accepted,n8_cell_009,extension_results_8.json,12,2,2,1,8,0,0
+extension_n8_0013,8,extension,accepted,n8_cell_010,extension_results_8.json,13,2,2,1,8,0,0
+extension_n8_0014,8,extension,excluded,,extension_results_8.json,14,2,2,2,0,2,1
+extension_n8_0015,8,extension,excluded,,extension_results_8.json,15,2,2,2,0,2,1
+extension_n8_0016,8,extension,accepted,n8_cell_011,extension_results_8.json,16,2,2,1,8,0,0
+extension_n8_0017,8,extension,excluded,,extension_results_8.json,17,2,2,2,0,2,1
+extension_n8_0018,8,extension,accepted,n8_cell_012,extension_results_8.json,18,2,2,1,8,0,0
+extension_n8_0019,8,extension,accepted,n8_cell_013,extension_results_8.json,19,2,2,1,8,0,0
+extension_n8_0020,8,extension,accepted,n8_cell_014,extension_results_8.json,20,2,2,1,8,0,0
+extension_n8_0021,8,extension,accepted,n8_cell_015,extension_results_8.json,21,2,2,2,8,0,0
+extension_n8_0022,8,extension,excluded,,extension_results_8.json,22,2,2,3,0,3,1
+extension_n8_0023,8,extension,accepted,n8_cell_016,extension_results_8.json,23,2,2,1,8,0,0
+extension_n8_0024,8,extension,excluded,,extension_results_8.json,24,2,2,3,0,3,1
+extension_n8_0025,8,extension,accepted,n8_cell_017,extension_results_8.json,25,2,2,1,8,0,0
+extension_n8_0026,8,extension,accepted,n8_cell_018,extension_results_8.json,26,2,2,1,8,0,0
+extension_n8_0027,8,extension,accepted,n8_cell_019,extension_results_8.json,27,2,2,2,8,0,0
+extension_n8_0028,8,extension,accepted,n8_cell_020,extension_results_8.json,28,2,2,2,8,0,0
+extension_n8_0029,8,extension,accepted,n8_cell_021,extension_results_8.json,29,2,2,3,8,0,0
+extension_n8_0030,8,extension,accepted,n8_cell_022,extension_results_8.json,30,2,2,3,8,0,0
+extension_n8_0031,8,extension,excluded,,extension_results_8.json,31,2,2,3,0,2,1
+extension_n8_0032,8,extension,accepted,n8_cell_009,extension_results_8.json,32,2,2,1,8,0,0
+extension_n8_0033,8,extension,excluded,,extension_results_8.json,33,2,2,1,0,1,1
+extension_n8_0034,8,extension,excluded,,extension_results_8.json,34,2,2,1,0,1,1
+extension_n8_0035,8,extension,excluded,,extension_results_8.json,35,2,2,1,0,1,1
+extension_n8_0036,8,extension,accepted,n8_cell_023,extension_results_8.json,36,2,2,1,8,0,0
+extension_n8_0037,8,extension,excluded,,extension_results_8.json,37,2,2,1,0,1,1
+extension_n8_0038,8,extension,accepted,n8_cell_024,extension_results_8.json,38,2,2,1,8,0,0
+extension_n8_0039,8,extension,accepted,n8_cell_025,extension_results_8.json,39,2,2,1,8,0,0
+extension_n8_0040,8,extension,accepted,n8_cell_014,extension_results_8.json,40,2,2,1,8,0,0
+extension_n8_0041,8,extension,excluded,,extension_results_8.json,41,2,2,2,0,2,1
+extension_n8_0042,8,extension,excluded,,extension_results_8.json,42,2,2,2,0,2,1
+extension_n8_0043,8,extension,accepted,n8_cell_026,extension_results_8.json,43,2,2,1,8,0,0
+extension_n8_0044,8,extension,excluded,,extension_results_8.json,44,2,2,2,0,2,1
+extension_n8_0045,8,extension,accepted,n8_cell_027,extension_results_8.json,45,2,2,1,8,0,0
+extension_n8_0046,8,extension,accepted,n8_cell_028,extension_results_8.json,46,2,2,1,8,0,0
+extension_n8_0047,8,extension,accepted,n8_cell_029,extension_results_8.json,47,2,2,1,8,0,0
+extension_n8_0048,8,extension,accepted,n8_cell_030,extension_results_8.json,48,2,2,1,8,0,0
+extension_n8_0049,8,extension,accepted,n8_cell_020,extension_results_8.json,49,2,2,2,8,0,0
+extension_n8_0050,8,extension,excluded,,extension_results_8.json,50,2,2,3,0,3,1
+extension_n8_0051,8,extension,accepted,n8_cell_031,extension_results_8.json,51,2,2,1,8,0,0
+extension_n8_0052,8,extension,excluded,,extension_results_8.json,52,2,2,3,0,3,1
+extension_n8_0053,8,extension,accepted,n8_cell_024,extension_results_8.json,53,2,2,1,8,0,0
+extension_n8_0054,8,extension,accepted,n8_cell_013,extension_results_8.json,54,2,2,1,8,0,0
+extension_n8_0055,8,extension,excluded,,extension_results_8.json,55,2,2,1,0,1,1
+extension_n8_0056,8,extension,excluded,,extension_results_8.json,56,2,2,1,0,1,1
+extension_n8_0057,8,extension,excluded,,extension_results_8.json,57,2,2,1,0,1,1
+extension_n8_0058,8,extension,accepted,n8_cell_032,extension_results_8.json,58,2,2,1,8,0,0
+extension_n8_0059,8,extension,excluded,,extension_results_8.json,59,2,2,1,0,1,1
+extension_n8_0060,8,extension,accepted,n8_cell_033,extension_results_8.json,60,2,2,1,8,0,0
+extension_n8_0061,8,extension,accepted,n8_cell_034,extension_results_8.json,61,2,2,1,8,0,0
+extension_n8_0062,8,extension,accepted,n8_cell_029,extension_results_8.json,62,2,2,1,8,0,0
+extension_n8_0063,8,extension,accepted,n8_cell_019,extension_results_8.json,63,2,2,1,8,0,0
+extension_n8_0064,8,extension,excluded,,extension_results_8.json,64,2,2,2,0,2,1
+extension_n8_0065,8,extension,excluded,,extension_results_8.json,65,2,2,3,0,2,1
+extension_n8_0066,8,extension,accepted,n8_cell_035,extension_results_8.json,66,2,2,1,8,0,0
+extension_n8_0067,8,extension,excluded,,extension_results_8.json,67,2,2,2,0,2,1
+extension_n8_0068,8,extension,accepted,n8_cell_033,extension_results_8.json,68,2,2,1,8,0,0
+extension_n8_0069,8,extension,accepted,n8_cell_028,extension_results_8.json,69,2,2,1,8,0,0
+extension_n8_0070,8,extension,accepted,n8_cell_018,extension_results_8.json,70,2,2,1,8,0,0
+extension_n8_0071,8,extension,excluded,,extension_results_8.json,71,2,2,1,0,1,1
+extension_n8_0072,8,extension,excluded,,extension_results_8.json,72,2,2,1,0,1,1
+extension_n8_0073,8,extension,excluded,,extension_results_8.json,73,2,2,1,0,1,1
+extension_n8_0074,8,extension,accepted,n8_cell_036,extension_results_8.json,74,2,2,1,8,0,0
+extension_n8_0075,8,extension,excluded,,extension_results_8.json,75,2,2,1,0,1,1
+extension_n8_0076,8,extension,excluded,,extension_results_8.json,76,3,3,1,0,1,1
+extension_n8_0077,8,extension,excluded,,extension_results_8.json,77,3,3,1,0,2,1
+extension_n8_0078,8,extension,excluded,,extension_results_8.json,78,3,3,1,0,2,1
+extension_n8_0079,8,extension,excluded,,extension_results_8.json,79,3,3,1,0,3,1
+extension_n8_0080,8,extension,excluded,,extension_results_8.json,80,3,3,1,0,4,1
+extension_n8_0081,8,extension,excluded,,extension_results_8.json,81,3,3,1,0,3,1
+extension_n8_0082,8,extension,excluded,,extension_results_8.json,82,3,3,1,0,3,1
+extension_n8_0083,8,extension,excluded,,extension_results_8.json,83,3,3,1,0,4,1
+extension_n8_0084,8,extension,excluded,,extension_results_8.json,84,3,3,1,0,4,1
+extension_n8_0085,8,extension,excluded,,extension_results_8.json,85,3,3,1,0,3,1
+extension_n8_0086,8,extension,excluded,,extension_results_8.json,86,3,3,1,0,3,1
+extension_n8_0087,8,extension,excluded,,extension_results_8.json,87,3,3,1,0,4,1
+extension_n8_0088,8,extension,excluded,,extension_results_8.json,88,3,3,1,0,4,1
+extension_n8_0089,8,extension,excluded,,extension_results_8.json,89,3,3,1,0,4,1
+extension_n8_0090,8,extension,excluded,,extension_results_8.json,90,3,3,1,0,2,1
+extension_n8_0091,8,extension,excluded,,extension_results_8.json,91,3,3,1,0,3,1
+extension_n8_0092,8,extension,excluded,,extension_results_8.json,92,3,3,1,0,3,1
+extension_n8_0093,8,extension,accepted,n8_cell_037,extension_results_8.json,93,3,3,1,8,0,0
+extension_n8_0094,8,extension,excluded,,extension_results_8.json,94,3,3,1,0,1,1
+extension_n8_0095,8,extension,excluded,,extension_results_8.json,95,3,3,1,0,2,1
+extension_n8_0096,8,extension,excluded,,extension_results_8.json,96,3,3,1,0,3,1
+extension_n8_0097,8,extension,excluded,,extension_results_8.json,97,3,3,1,0,2,1
+extension_n8_0098,8,extension,accepted,n8_cell_039,extension_results_8.json,98,3,3,1,8,0,0
+extension_n8_0099,8,extension,accepted,n8_cell_040,extension_results_8.json,99,3,3,1,8,0,0
+extension_n8_0100,8,extension,accepted,n8_cell_041,extension_results_8.json,100,3,3,1,8,0,0
+extension_n8_0101,8,extension,accepted,n8_cell_038,extension_results_8.json,101,3,3,1,8,0,0
+extension_n8_0102,8,extension,excluded,,extension_results_8.json,102,3,3,1,0,2,1
+extension_n8_0103,8,extension,excluded,,extension_results_8.json,103,3,3,1,0,3,1
+extension_n8_0104,8,extension,excluded,,extension_results_8.json,104,3,3,1,0,4,1
+extension_n8_0105,8,extension,excluded,,extension_results_8.json,105,3,3,1,0,4,1
+extension_n8_0106,8,extension,excluded,,extension_results_8.json,106,3,3,3,0,7,1
+extension_n8_0107,8,extension,excluded,,extension_results_8.json,107,3,3,2,0,5,1
+extension_n8_0108,8,extension,excluded,,extension_results_8.json,108,3,3,5,0,4,1
+extension_n8_0109,8,extension,excluded,,extension_results_8.json,109,3,3,9,0,5,1
+extension_n8_0110,8,extension,excluded,,extension_results_8.json,110,3,3,13,0,5,1
+extension_n8_0111,8,extension,excluded,,extension_results_8.json,111,3,3,5,0,4,1
+extension_n8_0112,8,extension,excluded,,extension_results_8.json,112,3,3,5,0,3,1
+extension_n8_0113,8,extension,excluded,,extension_results_8.json,113,3,3,4,0,4,1
+extension_n8_0114,8,extension,excluded,,extension_results_8.json,114,3,3,7,0,4,1
+extension_n8_0115,8,extension,excluded,,extension_results_8.json,115,3,3,8,0,5,1
+extension_n8_0116,8,extension,accepted,n8_cell_042,extension_results_8.json,116,3,3,4,8,0,0
+extension_n8_0117,8,extension,accepted,n8_cell_043,extension_results_8.json,117,3,3,4,8,0,0
+extension_n8_0118,8,extension,accepted,n8_cell_044,extension_results_8.json,118,3,3,4,8,0,0
+extension_n8_0119,8,extension,accepted,n8_cell_045,extension_results_8.json,119,3,3,3,8,0,0
+extension_n8_0120,8,extension,accepted,n8_cell_046,extension_results_8.json,120,3,3,3,8,0,0
+extension_n8_0121,8,extension,excluded,,extension_results_8.json,121,3,3,2,0,2,1
+extension_n8_0122,8,extension,excluded,,extension_results_8.json,122,3,3,3,0,4,1
+extension_n8_0123,8,extension,excluded,,extension_results_8.json,123,3,3,3,0,3,1
+extension_n8_0124,8,extension,accepted,n8_cell_048,extension_results_8.json,124,3,3,2,8,0,0
+extension_n8_0125,8,extension,accepted,n8_cell_049,extension_results_8.json,125,3,3,1,8,0,0
+extension_n8_0126,8,extension,accepted,n8_cell_050,extension_results_8.json,126,3,3,1,8,0,0
+extension_n8_0127,8,extension,accepted,n8_cell_051,extension_results_8.json,127,3,3,1,8,0,0
+extension_n8_0128,8,extension,accepted,n8_cell_047,extension_results_8.json,128,3,3,1,8,0,0
+extension_n8_0129,8,extension,excluded,,extension_results_8.json,129,3,3,1,0,1,1
+extension_n8_0130,8,extension,excluded,,extension_results_8.json,130,3,3,1,0,2,1
+extension_n8_0131,8,extension,excluded,,extension_results_8.json,131,3,3,1,0,2,1
+extension_n8_0132,8,extension,excluded,,extension_results_8.json,132,3,3,1,0,3,1
+extension_n8_0133,8,extension,excluded,,extension_results_8.json,133,3,3,1,0,4,1
+extension_n8_0134,8,extension,excluded,,extension_results_8.json,134,3,3,1,0,3,1
+extension_n8_0135,8,extension,excluded,,extension_results_8.json,135,3,3,1,0,3,1
+extension_n8_0136,8,extension,excluded,,extension_results_8.json,136,3,3,1,0,4,1
+extension_n8_0137,8,extension,excluded,,extension_results_8.json,137,3,3,1,0,4,1
+extension_n8_0138,8,extension,excluded,,extension_results_8.json,138,3,3,1,0,3,1
+extension_n8_0139,8,extension,excluded,,extension_results_8.json,139,3,3,1,0,3,1
+extension_n8_0140,8,extension,excluded,,extension_results_8.json,140,3,3,1,0,4,1
+extension_n8_0141,8,extension,excluded,,extension_results_8.json,141,3,3,1,0,4,1
+extension_n8_0142,8,extension,excluded,,extension_results_8.json,142,3,3,1,0,4,1
+extension_n8_0143,8,extension,excluded,,extension_results_8.json,143,3,3,1,0,3,1
+extension_n8_0144,8,extension,excluded,,extension_results_8.json,144,3,3,1,0,2,1
+extension_n8_0145,8,extension,excluded,,extension_results_8.json,145,3,3,1,0,3,1
+extension_n8_0146,8,extension,excluded,,extension_results_8.json,146,3,3,1,0,3,1
+extension_n8_0147,8,extension,excluded,,extension_results_8.json,147,3,3,1,0,3,1
+extension_n8_0148,8,extension,accepted,n8_cell_045,extension_results_8.json,148,3,3,1,8,0,0
+extension_n8_0149,8,extension,accepted,n8_cell_046,extension_results_8.json,149,3,3,1,8,0,0
+extension_n8_0150,8,extension,accepted,n8_cell_043,extension_results_8.json,150,3,3,1,8,0,0
+extension_n8_0151,8,extension,accepted,n8_cell_052,extension_results_8.json,151,3,3,1,8,0,0
+extension_n8_0152,8,extension,excluded,,extension_results_8.json,152,3,3,1,0,1,1
+extension_n8_0153,8,extension,excluded,,extension_results_8.json,153,3,3,1,0,2,1
+extension_n8_0154,8,extension,excluded,,extension_results_8.json,154,3,3,1,0,3,1
+extension_n8_0155,8,extension,excluded,,extension_results_8.json,155,3,3,1,0,2,1
+extension_n8_0156,8,extension,accepted,n8_cell_054,extension_results_8.json,156,3,3,1,8,0,0
+extension_n8_0157,8,extension,accepted,n8_cell_055,extension_results_8.json,157,3,3,1,8,0,0
+extension_n8_0158,8,extension,accepted,n8_cell_056,extension_results_8.json,158,3,3,1,8,0,0
+extension_n8_0159,8,extension,accepted,n8_cell_057,extension_results_8.json,159,3,3,1,8,0,0
+extension_n8_0160,8,extension,accepted,n8_cell_053,extension_results_8.json,160,3,3,1,8,0,0
+extension_n8_0161,8,extension,excluded,,extension_results_8.json,161,4,4,1,0,1,1
+extension_n8_0162,8,extension,excluded,,extension_results_8.json,162,4,4,1,0,2,1
+extension_n8_0163,8,extension,excluded,,extension_results_8.json,163,4,4,1,0,3,1
+extension_n8_0164,8,extension,excluded,,extension_results_8.json,164,4,4,1,0,2,1
+extension_n8_0165,8,extension,excluded,,extension_results_8.json,165,4,4,1,0,4,1
+extension_n8_0166,8,extension,excluded,,extension_results_8.json,166,4,4,1,0,4,1
+extension_n8_0167,8,extension,excluded,,extension_results_8.json,167,4,4,1,0,1,1
+extension_n8_0168,8,extension,excluded,,extension_results_8.json,168,4,4,1,0,3,1
+extension_n8_0169,8,extension,excluded,,extension_results_8.json,169,4,4,1,0,5,1
+extension_n8_0170,8,extension,excluded,,extension_results_8.json,170,4,4,1,0,3,1
+extension_n8_0171,8,extension,excluded,,extension_results_8.json,171,4,4,1,0,4,1
+extension_n8_0172,8,extension,excluded,,extension_results_8.json,172,4,4,1,0,4,1
+extension_n8_0173,8,extension,excluded,,extension_results_8.json,173,4,4,1,0,2,1
+extension_n8_0174,8,extension,excluded,,extension_results_8.json,174,4,4,1,0,6,1
+extension_n8_0175,8,extension,excluded,,extension_results_8.json,175,4,4,1,0,5,1
+extension_n8_0176,8,extension,excluded,,extension_results_8.json,176,4,4,1,0,1,1
+extension_n8_0177,8,extension,excluded,,extension_results_8.json,177,4,4,1,0,4,1
+extension_n8_0178,8,extension,excluded,,extension_results_8.json,178,4,4,1,0,5,1
+extension_n8_0179,8,extension,excluded,,extension_results_8.json,179,4,4,1,0,2,1
+extension_n8_0180,8,extension,excluded,,extension_results_8.json,180,4,4,1,0,4,1
+extension_n8_0181,8,extension,excluded,,extension_results_8.json,181,4,4,1,0,4,1
+extension_n8_0182,8,extension,excluded,,extension_results_8.json,182,4,4,1,0,3,1
+extension_n8_0183,8,extension,excluded,,extension_results_8.json,183,4,4,1,0,6,1
+extension_n8_0184,8,extension,excluded,,extension_results_8.json,184,4,4,1,0,6,1
+extension_n8_0185,8,extension,excluded,,extension_results_8.json,185,4,4,1,0,2,1
+extension_n8_0186,8,extension,excluded,,extension_results_8.json,186,4,4,1,0,8,1
+extension_n8_0187,8,extension,excluded,,extension_results_8.json,187,4,4,1,0,7,1
+extension_n8_0188,8,extension,excluded,,extension_results_8.json,188,4,4,1,0,4,1
+extension_n8_0189,8,extension,excluded,,extension_results_8.json,189,4,4,1,0,4,1
+extension_n8_0190,8,extension,excluded,,extension_results_8.json,190,4,4,1,0,4,1
+extension_n8_0191,8,extension,excluded,,extension_results_8.json,191,4,4,1,0,6,1
+extension_n8_0192,8,extension,excluded,,extension_results_8.json,192,4,4,1,0,6,1
+extension_n8_0193,8,extension,excluded,,extension_results_8.json,193,4,4,1,0,3,1
+extension_n8_0194,8,extension,excluded,,extension_results_8.json,194,4,4,1,0,4,1
+extension_n8_0195,8,extension,excluded,,extension_results_8.json,195,4,4,1,0,4,1
+extension_n8_0196,8,extension,excluded,,extension_results_8.json,196,4,4,1,0,3,1
+extension_n8_0197,8,extension,accepted,n8_cell_067,extension_results_8.json,197,4,4,1,8,0,0
+extension_n8_0198,8,extension,excluded,,extension_results_8.json,198,4,4,1,0,1,1
+extension_n8_0199,8,extension,excluded,,extension_results_8.json,199,4,4,1,0,1,1
+extension_n8_0200,8,extension,excluded,,extension_results_8.json,200,4,4,1,0,1,1
+extension_n8_0201,8,extension,excluded,,extension_results_8.json,201,4,4,1,0,2,1
+extension_n8_0202,8,extension,excluded,,extension_results_8.json,202,4,4,1,0,2,1
+extension_n8_0203,8,extension,excluded,,extension_results_8.json,203,4,4,1,0,2,1
+extension_n8_0204,8,extension,accepted,n8_cell_065,extension_results_8.json,204,4,4,1,8,0,0
+extension_n8_0205,8,extension,excluded,,extension_results_8.json,205,4,4,1,0,5,1
+extension_n8_0206,8,extension,excluded,,extension_results_8.json,206,4,4,1,0,3,1
+extension_n8_0207,8,extension,accepted,n8_cell_066,extension_results_8.json,207,4,4,1,8,0,0
+extension_n8_0208,8,extension,excluded,,extension_results_8.json,208,4,4,1,0,3,1
+extension_n8_0209,8,extension,excluded,,extension_results_8.json,209,4,4,1,0,2,1
+extension_n8_0210,8,extension,excluded,,extension_results_8.json,210,4,4,1,0,4,1
+extension_n8_0211,8,extension,excluded,,extension_results_8.json,211,4,4,1,0,5,1
+extension_n8_0212,8,extension,excluded,,extension_results_8.json,212,4,4,1,0,3,1
+extension_n8_0213,8,extension,excluded,,extension_results_8.json,213,4,4,1,0,6,1
+extension_n8_0214,8,extension,excluded,,extension_results_8.json,214,4,4,1,0,6,1
+extension_n8_0215,8,extension,excluded,,extension_results_8.json,215,4,4,3,0,3,1
+extension_n8_0216,8,extension,excluded,,extension_results_8.json,216,4,4,2,0,7,1
+extension_n8_0217,8,extension,excluded,,extension_results_8.json,217,4,4,2,0,7,1
+extension_n8_0218,8,extension,excluded,,extension_results_8.json,218,4,4,1,0,4,1
+extension_n8_0219,8,extension,excluded,,extension_results_8.json,219,4,4,1,0,6,1
+extension_n8_0220,8,extension,excluded,,extension_results_8.json,220,4,4,1,0,6,1
+extension_n8_0221,8,extension,excluded,,extension_results_8.json,221,4,4,8,0,4,1
+extension_n8_0222,8,extension,excluded,,extension_results_8.json,222,4,4,22,0,5,1
+extension_n8_0223,8,extension,excluded,,extension_results_8.json,223,4,4,12,0,9,1
+extension_n8_0224,8,extension,excluded,,extension_results_8.json,224,4,4,2,0,2,1
+extension_n8_0225,8,extension,excluded,,extension_results_8.json,225,4,4,12,0,6,1
+extension_n8_0226,8,extension,excluded,,extension_results_8.json,226,4,4,6,0,7,1
+extension_n8_0227,8,extension,excluded,,extension_results_8.json,227,4,4,1,0,3,1
+extension_n8_0228,8,extension,excluded,,extension_results_8.json,228,4,4,5,0,5,1
+extension_n8_0229,8,extension,excluded,,extension_results_8.json,229,4,4,5,0,5,1
+extension_n8_0230,8,extension,excluded,,extension_results_8.json,230,4,4,2,0,4,1
+extension_n8_0231,8,extension,excluded,,extension_results_8.json,231,4,4,4,0,7,1
+extension_n8_0232,8,extension,excluded,,extension_results_8.json,232,4,4,16,0,7,1
+extension_n8_0233,8,extension,excluded,,extension_results_8.json,233,4,4,4,0,4,1
+extension_n8_0234,8,extension,excluded,,extension_results_8.json,234,4,4,4,0,8,1
+extension_n8_0235,8,extension,excluded,,extension_results_8.json,235,4,4,30,0,7,1
+extension_n8_0236,8,extension,accepted,n8_cell_068,extension_results_8.json,236,4,4,3,8,0,0
+extension_n8_0237,8,extension,accepted,n8_cell_069,extension_results_8.json,237,4,4,4,8,0,0
+extension_n8_0238,8,extension,excluded,,extension_results_8.json,238,4,4,4,0,7,1
+extension_n8_0239,8,extension,accepted,n8_cell_070,extension_results_8.json,239,4,4,3,8,0,0
+extension_n8_0240,8,extension,accepted,n8_cell_071,extension_results_8.json,240,4,4,4,8,0,0
+extension_n8_0241,8,extension,excluded,,extension_results_8.json,241,4,4,4,0,7,1
+extension_n8_0242,8,extension,excluded,,extension_results_8.json,242,4,4,1,0,5,1
+extension_n8_0243,8,extension,excluded,,extension_results_8.json,243,4,4,5,0,5,1
+extension_n8_0244,8,extension,excluded,,extension_results_8.json,244,4,4,4,0,4,1
+extension_n8_0245,8,extension,accepted,n8_cell_075,extension_results_8.json,245,4,4,1,8,0,0
+extension_n8_0246,8,extension,accepted,n8_cell_076,extension_results_8.json,246,4,4,3,8,0,0
+extension_n8_0247,8,extension,excluded,,extension_results_8.json,247,4,4,2,0,2,1
+extension_n8_0248,8,extension,excluded,,extension_results_8.json,248,4,4,2,0,2,1
+extension_n8_0249,8,extension,excluded,,extension_results_8.json,249,4,4,4,0,2,1
+extension_n8_0250,8,extension,accepted,n8_cell_072,extension_results_8.json,250,4,4,1,8,0,0
+extension_n8_0251,8,extension,excluded,,extension_results_8.json,251,4,4,3,0,4,1
+extension_n8_0252,8,extension,excluded,,extension_results_8.json,252,4,4,4,0,4,1
+extension_n8_0253,8,extension,accepted,n8_cell_073,extension_results_8.json,253,4,4,1,8,0,0
+extension_n8_0254,8,extension,accepted,n8_cell_062,extension_results_8.json,254,4,4,3,8,0,0
+extension_n8_0255,8,extension,excluded,,extension_results_8.json,255,4,4,2,0,5,1
+extension_n8_0256,8,extension,accepted,n8_cell_074,extension_results_8.json,256,4,4,2,8,0,0
+extension_n8_0257,8,extension,accepted,n8_cell_077,extension_results_8.json,257,4,4,3,8,0,0
+extension_n8_0258,8,extension,accepted,n8_cell_078,extension_results_8.json,258,4,4,3,8,0,0
+extension_n8_0259,8,extension,excluded,,extension_results_8.json,259,4,4,1,0,1,1
+extension_n8_0260,8,extension,excluded,,extension_results_8.json,260,4,4,1,0,2,1
+extension_n8_0261,8,extension,excluded,,extension_results_8.json,261,4,4,1,0,2,1
+extension_n8_0262,8,extension,excluded,,extension_results_8.json,262,4,4,1,0,4,1
+extension_n8_0263,8,extension,excluded,,extension_results_8.json,263,4,4,1,0,1,1
+extension_n8_0264,8,extension,excluded,,extension_results_8.json,264,4,4,1,0,3,1
+extension_n8_0265,8,extension,excluded,,extension_results_8.json,265,4,4,1,0,3,1
+extension_n8_0266,8,extension,excluded,,extension_results_8.json,266,4,4,1,0,4,1
+extension_n8_0267,8,extension,excluded,,extension_results_8.json,267,4,4,1,0,2,1
+extension_n8_0268,8,extension,excluded,,extension_results_8.json,268,4,4,1,0,6,1
+extension_n8_0269,8,extension,excluded,,extension_results_8.json,269,4,4,1,0,1,1
+extension_n8_0270,8,extension,excluded,,extension_results_8.json,270,4,4,1,0,4,1
+extension_n8_0271,8,extension,excluded,,extension_results_8.json,271,4,4,1,0,2,1
+extension_n8_0272,8,extension,excluded,,extension_results_8.json,272,4,4,1,0,4,1
+extension_n8_0273,8,extension,excluded,,extension_results_8.json,273,4,4,1,0,4,1
+extension_n8_0274,8,extension,excluded,,extension_results_8.json,274,4,4,1,0,5,1
+extension_n8_0275,8,extension,excluded,,extension_results_8.json,275,4,4,1,0,2,1
+extension_n8_0276,8,extension,excluded,,extension_results_8.json,276,4,4,1,0,6,1
+extension_n8_0277,8,extension,excluded,,extension_results_8.json,277,4,4,1,0,1,1
+extension_n8_0278,8,extension,excluded,,extension_results_8.json,278,4,4,1,0,3,1
+extension_n8_0279,8,extension,excluded,,extension_results_8.json,279,4,4,1,0,3,1
+extension_n8_0280,8,extension,excluded,,extension_results_8.json,280,4,4,1,0,4,1
+extension_n8_0281,8,extension,excluded,,extension_results_8.json,281,4,4,1,0,3,1
+extension_n8_0282,8,extension,excluded,,extension_results_8.json,282,4,4,1,0,5,1
+extension_n8_0283,8,extension,excluded,,extension_results_8.json,283,4,4,1,0,3,1
+extension_n8_0284,8,extension,excluded,,extension_results_8.json,284,4,4,1,0,6,1
+extension_n8_0285,8,extension,excluded,,extension_results_8.json,285,4,4,1,0,2,1
+extension_n8_0286,8,extension,excluded,,extension_results_8.json,286,4,4,1,0,6,1
+extension_n8_0287,8,extension,excluded,,extension_results_8.json,287,4,4,1,0,3,1
+extension_n8_0288,8,extension,excluded,,extension_results_8.json,288,4,4,1,0,4,1
+extension_n8_0289,8,extension,accepted,n8_cell_069,extension_results_8.json,289,4,4,1,8,0,0
+extension_n8_0290,8,extension,excluded,,extension_results_8.json,290,4,4,1,0,8,1
+extension_n8_0291,8,extension,excluded,,extension_results_8.json,291,4,4,1,0,4,1
+extension_n8_0292,8,extension,excluded,,extension_results_8.json,292,4,4,1,0,6,1
+extension_n8_0293,8,extension,excluded,,extension_results_8.json,293,4,4,1,0,3,1
+extension_n8_0294,8,extension,accepted,n8_cell_092,extension_results_8.json,294,4,4,1,8,0,0
+extension_n8_0295,8,extension,accepted,n8_cell_093,extension_results_8.json,295,4,4,1,8,0,0
+extension_n8_0296,8,extension,excluded,,extension_results_8.json,296,4,4,1,0,2,1
+extension_n8_0297,8,extension,excluded,,extension_results_8.json,297,4,4,1,0,4,1
+extension_n8_0298,8,extension,excluded,,extension_results_8.json,298,4,4,1,0,4,1
+extension_n8_0299,8,extension,excluded,,extension_results_8.json,299,4,4,1,0,4,1
+extension_n8_0300,8,extension,excluded,,extension_results_8.json,300,4,4,1,0,3,1
+extension_n8_0301,8,extension,accepted,n8_cell_096,extension_results_8.json,301,4,4,1,8,0,0
+extension_n8_0302,8,extension,accepted,n8_cell_097,extension_results_8.json,302,4,4,1,8,0,0
+extension_n8_0303,8,extension,excluded,,extension_results_8.json,303,4,4,1,0,1,1
+extension_n8_0304,8,extension,excluded,,extension_results_8.json,304,4,4,1,0,1,1
+extension_n8_0305,8,extension,excluded,,extension_results_8.json,305,4,4,1,0,2,1
+extension_n8_0306,8,extension,excluded,,extension_results_8.json,306,4,4,1,0,2,1
+extension_n8_0307,8,extension,excluded,,extension_results_8.json,307,4,4,1,0,3,1
+extension_n8_0308,8,extension,excluded,,extension_results_8.json,308,4,4,1,0,3,1
+extension_n8_0309,8,extension,accepted,n8_cell_094,extension_results_8.json,309,4,4,1,8,0,0
+extension_n8_0310,8,extension,excluded,,extension_results_8.json,310,4,4,1,0,4,1
+extension_n8_0311,8,extension,accepted,n8_cell_095,extension_results_8.json,311,4,4,1,8,0,0
+extension_n8_0312,8,extension,excluded,,extension_results_8.json,312,4,4,1,0,1,1
+extension_n8_0313,8,extension,excluded,,extension_results_8.json,313,4,4,1,0,2,1
+extension_n8_0314,8,extension,excluded,,extension_results_8.json,314,4,4,1,0,3,1
+extension_n8_0315,8,extension,excluded,,extension_results_8.json,315,4,4,1,0,2,1
+extension_n8_0316,8,extension,excluded,,extension_results_8.json,316,4,4,1,0,4,1
+extension_n8_0317,8,extension,excluded,,extension_results_8.json,317,4,4,1,0,4,1
+extension_n8_0318,8,extension,excluded,,extension_results_8.json,318,4,4,1,0,1,1
+extension_n8_0319,8,extension,excluded,,extension_results_8.json,319,4,4,1,0,3,1
+extension_n8_0320,8,extension,excluded,,extension_results_8.json,320,4,4,1,0,5,1
+extension_n8_0321,8,extension,excluded,,extension_results_8.json,321,4,4,1,0,3,1
+extension_n8_0322,8,extension,excluded,,extension_results_8.json,322,4,4,1,0,4,1
+extension_n8_0323,8,extension,excluded,,extension_results_8.json,323,4,4,1,0,4,1
+extension_n8_0324,8,extension,excluded,,extension_results_8.json,324,4,4,1,0,2,1
+extension_n8_0325,8,extension,excluded,,extension_results_8.json,325,4,4,1,0,6,1
+extension_n8_0326,8,extension,excluded,,extension_results_8.json,326,4,4,1,0,5,1
+extension_n8_0327,8,extension,excluded,,extension_results_8.json,327,4,4,1,0,1,1
+extension_n8_0328,8,extension,excluded,,extension_results_8.json,328,4,4,1,0,4,1
+extension_n8_0329,8,extension,excluded,,extension_results_8.json,329,4,4,1,0,5,1
+extension_n8_0330,8,extension,excluded,,extension_results_8.json,330,4,4,1,0,2,1
+extension_n8_0331,8,extension,excluded,,extension_results_8.json,331,4,4,1,0,4,1
+extension_n8_0332,8,extension,excluded,,extension_results_8.json,332,4,4,1,0,4,1
+extension_n8_0333,8,extension,excluded,,extension_results_8.json,333,4,4,1,0,3,1
+extension_n8_0334,8,extension,excluded,,extension_results_8.json,334,4,4,1,0,5,1
+extension_n8_0335,8,extension,excluded,,extension_results_8.json,335,4,4,1,0,5,1
+extension_n8_0336,8,extension,excluded,,extension_results_8.json,336,4,4,1,0,2,1
+extension_n8_0337,8,extension,excluded,,extension_results_8.json,337,4,4,1,0,7,1
+extension_n8_0338,8,extension,excluded,,extension_results_8.json,338,4,4,1,0,6,1
+extension_n8_0339,8,extension,excluded,,extension_results_8.json,339,4,4,1,0,1,1
+extension_n8_0340,8,extension,excluded,,extension_results_8.json,340,4,4,1,0,5,1
+extension_n8_0341,8,extension,excluded,,extension_results_8.json,341,4,4,1,0,4,1
+extension_n8_0342,8,extension,accepted,n8_cell_068,extension_results_8.json,342,4,4,1,8,0,0
+extension_n8_0343,8,extension,excluded,,extension_results_8.json,343,4,4,1,0,4,1
+extension_n8_0344,8,extension,excluded,,extension_results_8.json,344,4,4,1,0,4,1
+extension_n8_0345,8,extension,excluded,,extension_results_8.json,345,4,4,1,0,2,1
+extension_n8_0346,8,extension,accepted,n8_cell_071,extension_results_8.json,346,4,4,2,8,0,0
+extension_n8_0347,8,extension,excluded,,extension_results_8.json,347,4,4,1,0,5,1
+extension_n8_0348,8,extension,excluded,,extension_results_8.json,348,4,4,1,0,3,1
+extension_n8_0349,8,extension,excluded,,extension_results_8.json,349,4,4,1,0,7,1
+extension_n8_0350,8,extension,excluded,,extension_results_8.json,350,4,4,1,0,6,1
+extension_n8_0351,8,extension,accepted,n8_cell_092,extension_results_8.json,351,4,4,1,8,0,0
+extension_n8_0352,8,extension,excluded,,extension_results_8.json,352,4,4,1,0,3,1
+extension_n8_0353,8,extension,accepted,n8_cell_085,extension_results_8.json,353,4,4,1,8,0,0
+extension_n8_0354,8,extension,accepted,n8_cell_086,extension_results_8.json,354,4,4,1,8,0,0
+extension_n8_0355,8,extension,excluded,,extension_results_8.json,355,4,4,1,0,8,1
+extension_n8_0356,8,extension,excluded,,extension_results_8.json,356,4,4,1,0,3,1
+extension_n8_0357,8,extension,excluded,,extension_results_8.json,357,4,4,1,0,4,1
+extension_n8_0358,8,extension,excluded,,extension_results_8.json,358,4,4,1,0,4,1
+extension_n8_0359,8,extension,excluded,,extension_results_8.json,359,4,4,1,0,3,1
+extension_n8_0360,8,extension,accepted,n8_cell_090,extension_results_8.json,360,4,4,1,8,0,0
+extension_n8_0361,8,extension,accepted,n8_cell_091,extension_results_8.json,361,4,4,1,8,0,0
+extension_n8_0362,8,extension,excluded,,extension_results_8.json,362,4,4,1,0,1,1
+extension_n8_0363,8,extension,excluded,,extension_results_8.json,363,4,4,1,0,1,1
+extension_n8_0364,8,extension,excluded,,extension_results_8.json,364,4,4,1,0,1,1
+extension_n8_0365,8,extension,excluded,,extension_results_8.json,365,4,4,1,0,2,1
+extension_n8_0366,8,extension,excluded,,extension_results_8.json,366,4,4,1,0,2,1
+extension_n8_0367,8,extension,excluded,,extension_results_8.json,367,4,4,1,0,2,1
+extension_n8_0368,8,extension,accepted,n8_cell_087,extension_results_8.json,368,4,4,1,8,0,0
+extension_n8_0369,8,extension,excluded,,extension_results_8.json,369,4,4,1,0,3,1
+extension_n8_0370,8,extension,excluded,,extension_results_8.json,370,4,4,1,0,3,1
+extension_n8_0371,8,extension,accepted,n8_cell_088,extension_results_8.json,371,4,4,1,8,0,0
+extension_n8_0372,8,extension,accepted,n8_cell_064,extension_results_8.json,372,4,4,1,8,0,0
+extension_n8_0373,8,extension,excluded,,extension_results_8.json,373,4,4,1,0,4,1
+extension_n8_0374,8,extension,accepted,n8_cell_089,extension_results_8.json,374,4,4,1,8,0,0
+extension_n8_0375,8,extension,excluded,,extension_results_8.json,375,4,4,1,0,2,1
+extension_n8_0376,8,extension,excluded,,extension_results_8.json,376,4,4,1,0,1,1
+extension_n8_0377,8,extension,excluded,,extension_results_8.json,377,4,4,1,0,2,1
+extension_n8_0378,8,extension,excluded,,extension_results_8.json,378,4,4,1,0,3,1
+extension_n8_0379,8,extension,excluded,,extension_results_8.json,379,4,4,1,0,3,1
+extension_n8_0380,8,extension,excluded,,extension_results_8.json,380,4,4,1,0,2,1
+extension_n8_0381,8,extension,excluded,,extension_results_8.json,381,4,4,1,0,4,1
+extension_n8_0382,8,extension,excluded,,extension_results_8.json,382,4,4,1,0,4,1
+extension_n8_0383,8,extension,excluded,,extension_results_8.json,383,4,4,1,0,4,1
+extension_n8_0384,8,extension,excluded,,extension_results_8.json,384,4,4,1,0,1,1
+extension_n8_0385,8,extension,excluded,,extension_results_8.json,385,4,4,1,0,3,1
+extension_n8_0386,8,extension,excluded,,extension_results_8.json,386,4,4,1,0,4,1
+extension_n8_0387,8,extension,excluded,,extension_results_8.json,387,4,4,1,0,4,1
+extension_n8_0388,8,extension,excluded,,extension_results_8.json,388,4,4,1,0,3,1
+extension_n8_0389,8,extension,excluded,,extension_results_8.json,389,4,4,1,0,4,1
+extension_n8_0390,8,extension,excluded,,extension_results_8.json,390,4,4,1,0,4,1
+extension_n8_0391,8,extension,excluded,,extension_results_8.json,391,4,4,1,0,4,1
+extension_n8_0392,8,extension,excluded,,extension_results_8.json,392,4,4,1,0,2,1
+extension_n8_0393,8,extension,excluded,,extension_results_8.json,393,4,4,1,0,4,1
+extension_n8_0394,8,extension,excluded,,extension_results_8.json,394,4,4,1,0,5,1
+extension_n8_0395,8,extension,excluded,,extension_results_8.json,395,4,4,1,0,5,1
+extension_n8_0396,8,extension,excluded,,extension_results_8.json,396,4,4,1,0,1,1
+extension_n8_0397,8,extension,excluded,,extension_results_8.json,397,4,4,1,0,4,1
+extension_n8_0398,8,extension,excluded,,extension_results_8.json,398,4,4,1,0,5,1
+extension_n8_0399,8,extension,excluded,,extension_results_8.json,399,4,4,1,0,5,1
+extension_n8_0400,8,extension,excluded,,extension_results_8.json,400,4,4,1,0,2,1
+extension_n8_0401,8,extension,accepted,n8_cell_070,extension_results_8.json,401,4,4,2,8,0,0
+extension_n8_0402,8,extension,excluded,,extension_results_8.json,402,4,4,1,0,4,1
+extension_n8_0403,8,extension,excluded,,extension_results_8.json,403,4,4,1,0,4,1
+extension_n8_0404,8,extension,excluded,,extension_results_8.json,404,4,4,1,0,3,1
+extension_n8_0405,8,extension,excluded,,extension_results_8.json,405,4,4,2,0,4,1
+extension_n8_0406,8,extension,excluded,,extension_results_8.json,406,4,4,1,0,6,1
+extension_n8_0407,8,extension,excluded,,extension_results_8.json,407,4,4,1,0,5,1
+extension_n8_0408,8,extension,excluded,,extension_results_8.json,408,4,4,1,0,2,1
+extension_n8_0409,8,extension,excluded,,extension_results_8.json,409,4,4,2,0,4,1
+extension_n8_0410,8,extension,excluded,,extension_results_8.json,410,4,4,1,0,7,1
+extension_n8_0411,8,extension,excluded,,extension_results_8.json,411,4,4,1,0,8,1
+extension_n8_0412,8,extension,accepted,n8_cell_085,extension_results_8.json,412,4,4,1,8,0,0
+extension_n8_0413,8,extension,accepted,n8_cell_069,extension_results_8.json,413,4,4,1,8,0,0
+extension_n8_0414,8,extension,excluded,,extension_results_8.json,414,4,4,1,0,4,1
+extension_n8_0415,8,extension,excluded,,extension_results_8.json,415,4,4,1,0,2,1
+extension_n8_0416,8,extension,accepted,n8_cell_079,extension_results_8.json,416,4,4,1,8,0,0
+extension_n8_0417,8,extension,accepted,n8_cell_071,extension_results_8.json,417,4,4,1,8,0,0
+extension_n8_0418,8,extension,excluded,,extension_results_8.json,418,4,4,1,0,7,1
+extension_n8_0419,8,extension,excluded,,extension_results_8.json,419,4,4,1,0,3,1
+extension_n8_0420,8,extension,excluded,,extension_results_8.json,420,4,4,1,0,4,1
+extension_n8_0421,8,extension,excluded,,extension_results_8.json,421,4,4,1,0,3,1
+extension_n8_0422,8,extension,accepted,n8_cell_083,extension_results_8.json,422,4,4,1,8,0,0
+extension_n8_0423,8,extension,accepted,n8_cell_084,extension_results_8.json,423,4,4,1,8,0,0
+extension_n8_0424,8,extension,excluded,,extension_results_8.json,424,4,4,1,0,1,1
+extension_n8_0425,8,extension,excluded,,extension_results_8.json,425,4,4,1,0,1,1
+extension_n8_0426,8,extension,excluded,,extension_results_8.json,426,4,4,1,0,1,1
+extension_n8_0427,8,extension,excluded,,extension_results_8.json,427,4,4,1,0,1,1
+extension_n8_0428,8,extension,accepted,n8_cell_080,extension_results_8.json,428,4,4,1,8,0,0
+extension_n8_0429,8,extension,excluded,,extension_results_8.json,429,4,4,1,0,2,1
+extension_n8_0430,8,extension,excluded,,extension_results_8.json,430,4,4,1,0,2,1
+extension_n8_0431,8,extension,excluded,,extension_results_8.json,431,4,4,1,0,2,1
+extension_n8_0432,8,extension,accepted,n8_cell_081,extension_results_8.json,432,4,4,1,8,0,0
+extension_n8_0433,8,extension,accepted,n8_cell_061,extension_results_8.json,433,4,4,1,8,0,0
+extension_n8_0434,8,extension,excluded,,extension_results_8.json,434,4,4,1,0,3,1
+extension_n8_0435,8,extension,excluded,,extension_results_8.json,435,4,4,1,0,3,1
+extension_n8_0436,8,extension,accepted,n8_cell_082,extension_results_8.json,436,4,4,1,8,0,0
+extension_n8_0437,8,extension,accepted,n8_cell_077,extension_results_8.json,437,4,4,1,8,0,0
+extension_n8_0438,8,extension,excluded,,extension_results_8.json,438,4,4,1,0,3,1
+extension_n8_0439,8,extension,excluded,,extension_results_8.json,439,5,5,1,0,3,1
+extension_n8_0440,8,extension,excluded,,extension_results_8.json,440,5,5,1,0,4,1
+extension_n8_0441,8,extension,excluded,,extension_results_8.json,441,5,5,1,0,4,1
+extension_n8_0442,8,extension,excluded,,extension_results_8.json,442,5,5,1,0,5,1
+extension_n8_0443,8,extension,excluded,,extension_results_8.json,443,5,5,1,0,6,1
+extension_n8_0444,8,extension,excluded,,extension_results_8.json,444,5,5,1,0,5,1
+extension_n8_0445,8,extension,excluded,,extension_results_8.json,445,5,5,1,0,3,1
+extension_n8_0446,8,extension,excluded,,extension_results_8.json,446,5,5,1,0,4,1
+extension_n8_0447,8,extension,excluded,,extension_results_8.json,447,5,5,1,0,4,1
+extension_n8_0448,8,extension,excluded,,extension_results_8.json,448,5,5,1,0,3,1
+extension_n8_0449,8,extension,excluded,,extension_results_8.json,449,5,5,1,0,4,1
+extension_n8_0450,8,extension,excluded,,extension_results_8.json,450,5,5,1,0,5,1
+extension_n8_0451,8,extension,excluded,,extension_results_8.json,451,5,5,1,0,5,1
+extension_n8_0452,8,extension,excluded,,extension_results_8.json,452,5,5,1,0,6,1
+extension_n8_0453,8,extension,excluded,,extension_results_8.json,453,5,5,1,0,7,1
+extension_n8_0454,8,extension,excluded,,extension_results_8.json,454,5,5,1,0,6,1
+extension_n8_0455,8,extension,excluded,,extension_results_8.json,455,5,5,1,0,5,1
+extension_n8_0456,8,extension,excluded,,extension_results_8.json,456,5,5,1,0,6,1
+extension_n8_0457,8,extension,excluded,,extension_results_8.json,457,5,5,1,0,6,1
+extension_n8_0458,8,extension,excluded,,extension_results_8.json,458,5,5,1,0,5,1
+extension_n8_0459,8,extension,excluded,,extension_results_8.json,459,5,5,1,0,4,1
+extension_n8_0460,8,extension,excluded,,extension_results_8.json,460,5,5,1,0,6,1
+extension_n8_0461,8,extension,excluded,,extension_results_8.json,461,5,5,1,0,6,1
+extension_n8_0462,8,extension,excluded,,extension_results_8.json,462,5,5,1,0,6,1
+extension_n8_0463,8,extension,excluded,,extension_results_8.json,463,5,5,1,0,7,1
+extension_n8_0464,8,extension,excluded,,extension_results_8.json,464,5,5,1,0,6,1
+extension_n8_0465,8,extension,excluded,,extension_results_8.json,465,5,5,1,0,4,1
+extension_n8_0466,8,extension,excluded,,extension_results_8.json,466,5,5,1,0,5,1
+extension_n8_0467,8,extension,excluded,,extension_results_8.json,467,5,5,1,0,5,1
+extension_n8_0468,8,extension,excluded,,extension_results_8.json,468,5,5,1,0,4,1
+extension_n8_0469,8,extension,excluded,,extension_results_8.json,469,5,5,1,0,4,1
+extension_n8_0470,8,extension,excluded,,extension_results_8.json,470,5,5,1,0,5,1
+extension_n8_0471,8,extension,excluded,,extension_results_8.json,471,5,5,1,0,5,1
+extension_n8_0472,8,extension,excluded,,extension_results_8.json,472,5,5,1,0,5,1
+extension_n8_0473,8,extension,excluded,,extension_results_8.json,473,5,5,1,0,6,1
+extension_n8_0474,8,extension,excluded,,extension_results_8.json,474,5,5,1,0,5,1
+extension_n8_0475,8,extension,excluded,,extension_results_8.json,475,5,5,1,0,5,1
+extension_n8_0476,8,extension,excluded,,extension_results_8.json,476,5,5,1,0,6,1
+extension_n8_0477,8,extension,excluded,,extension_results_8.json,477,5,5,1,0,6,1
+extension_n8_0478,8,extension,excluded,,extension_results_8.json,478,5,5,1,0,4,1
+extension_n8_0479,8,extension,excluded,,extension_results_8.json,479,5,5,1,0,7,1
+extension_n8_0480,8,extension,excluded,,extension_results_8.json,480,5,5,1,0,6,1
+extension_n8_0481,8,extension,excluded,,extension_results_8.json,481,5,5,1,0,6,1
+extension_n8_0482,8,extension,excluded,,extension_results_8.json,482,5,5,1,0,7,1
+extension_n8_0483,8,extension,excluded,,extension_results_8.json,483,5,5,1,0,8,1
+extension_n8_0484,8,extension,excluded,,extension_results_8.json,484,5,5,1,0,7,1
+extension_n8_0485,8,extension,excluded,,extension_results_8.json,485,5,5,1,0,5,1
+extension_n8_0486,8,extension,excluded,,extension_results_8.json,486,5,5,1,0,6,1
+extension_n8_0487,8,extension,excluded,,extension_results_8.json,487,5,5,1,0,6,1
+extension_n8_0488,8,extension,excluded,,extension_results_8.json,488,5,5,1,0,5,1
+extension_n8_0489,8,extension,excluded,,extension_results_8.json,489,5,5,1,0,6,1
+extension_n8_0490,8,extension,excluded,,extension_results_8.json,490,5,5,1,0,6,1
+extension_n8_0491,8,extension,excluded,,extension_results_8.json,491,5,5,1,0,6,1
+extension_n8_0492,8,extension,excluded,,extension_results_8.json,492,5,5,1,0,5,1
+extension_n8_0493,8,extension,excluded,,extension_results_8.json,493,5,5,1,0,6,1
+extension_n8_0494,8,extension,excluded,,extension_results_8.json,494,5,5,1,0,5,1
+extension_n8_0495,8,extension,excluded,,extension_results_8.json,495,5,5,1,0,4,1
+extension_n8_0496,8,extension,excluded,,extension_results_8.json,496,5,5,1,0,8,1
+extension_n8_0497,8,extension,excluded,,extension_results_8.json,497,5,5,1,0,8,1
+extension_n8_0498,8,extension,excluded,,extension_results_8.json,498,5,5,1,0,5,1
+extension_n8_0499,8,extension,excluded,,extension_results_8.json,499,5,5,1,0,4,1
+extension_n8_0500,8,extension,excluded,,extension_results_8.json,500,5,5,1,0,5,1
+extension_n8_0501,8,extension,excluded,,extension_results_8.json,501,5,5,1,0,5,1
+extension_n8_0502,8,extension,excluded,,extension_results_8.json,502,5,5,1,0,5,1
+extension_n8_0503,8,extension,excluded,,extension_results_8.json,503,5,5,1,0,6,1
+extension_n8_0504,8,extension,excluded,,extension_results_8.json,504,5,5,1,0,6,1
+extension_n8_0505,8,extension,excluded,,extension_results_8.json,505,5,5,1,0,4,1
+extension_n8_0506,8,extension,excluded,,extension_results_8.json,506,5,5,1,0,5,1
+extension_n8_0507,8,extension,excluded,,extension_results_8.json,507,5,5,1,0,5,1
+extension_n8_0508,8,extension,excluded,,extension_results_8.json,508,5,5,1,0,5,1
+extension_n8_0509,8,extension,excluded,,extension_results_8.json,509,5,5,1,0,5,1
+extension_n8_0510,8,extension,excluded,,extension_results_8.json,510,5,5,1,0,6,1
+extension_n8_0511,8,extension,excluded,,extension_results_8.json,511,5,5,1,0,13,1
+extension_n8_0512,8,extension,excluded,,extension_results_8.json,512,5,5,1,0,6,1
+extension_n8_0513,8,extension,excluded,,extension_results_8.json,513,5,5,1,0,7,1
+extension_n8_0514,8,extension,excluded,,extension_results_8.json,514,5,5,1,0,6,1
+extension_n8_0515,8,extension,excluded,,extension_results_8.json,515,5,5,1,0,5,1
+extension_n8_0516,8,extension,excluded,,extension_results_8.json,516,5,5,1,0,6,1
+extension_n8_0517,8,extension,excluded,,extension_results_8.json,517,5,5,1,0,6,1
+extension_n8_0518,8,extension,excluded,,extension_results_8.json,518,5,5,1,0,6,1
+extension_n8_0519,8,extension,excluded,,extension_results_8.json,519,5,5,1,0,6,1
+extension_n8_0520,8,extension,excluded,,extension_results_8.json,520,5,5,1,0,9,1
+extension_n8_0521,8,extension,excluded,,extension_results_8.json,521,5,5,1,0,6,1
+extension_n8_0522,8,extension,excluded,,extension_results_8.json,522,5,5,1,0,6,1
+extension_n8_0523,8,extension,excluded,,extension_results_8.json,523,5,5,1,0,7,1
+extension_n8_0524,8,extension,excluded,,extension_results_8.json,524,5,5,1,0,5,1
+extension_n8_0525,8,extension,excluded,,extension_results_8.json,525,5,5,1,0,5,1
+extension_n8_0526,8,extension,excluded,,extension_results_8.json,526,5,5,1,0,5,1
+extension_n8_0527,8,extension,excluded,,extension_results_8.json,527,5,5,1,0,8,1
+extension_n8_0528,8,extension,excluded,,extension_results_8.json,528,5,5,1,0,4,1
+extension_n8_0529,8,extension,excluded,,extension_results_8.json,529,5,5,1,0,10,1
+extension_n8_0530,8,extension,excluded,,extension_results_8.json,530,5,5,1,0,8,1
+extension_n8_0531,8,extension,excluded,,extension_results_8.json,531,5,5,1,0,4,1
+extension_n8_0532,8,extension,excluded,,extension_results_8.json,532,5,5,1,0,5,1
+extension_n8_0533,8,extension,excluded,,extension_results_8.json,533,5,5,1,0,4,1
+extension_n8_0534,8,extension,excluded,,extension_results_8.json,534,5,5,1,0,5,1
+extension_n8_0535,8,extension,excluded,,extension_results_8.json,535,5,5,1,0,6,1
+extension_n8_0536,8,extension,excluded,,extension_results_8.json,536,5,5,1,0,10,1
+extension_n8_0537,8,extension,excluded,,extension_results_8.json,537,5,5,1,0,9,1
+extension_n8_0538,8,extension,excluded,,extension_results_8.json,538,5,5,1,0,12,1
+extension_n8_0539,8,extension,excluded,,extension_results_8.json,539,5,5,1,0,4,1
+extension_n8_0540,8,extension,excluded,,extension_results_8.json,540,5,5,1,0,3,1
+extension_n8_0541,8,extension,excluded,,extension_results_8.json,541,5,5,1,0,4,1
+extension_n8_0542,8,extension,excluded,,extension_results_8.json,542,5,5,1,0,2,1
+extension_n8_0543,8,extension,excluded,,extension_results_8.json,543,5,5,1,0,1,1
+extension_n8_0544,8,extension,excluded,,extension_results_8.json,544,5,5,1,0,4,1
+extension_n8_0545,8,extension,excluded,,extension_results_8.json,545,5,5,1,0,4,1
+extension_n8_0546,8,extension,excluded,,extension_results_8.json,546,5,5,1,0,6,1
+extension_n8_0547,8,extension,excluded,,extension_results_8.json,547,5,5,1,0,2,1
+extension_n8_0548,8,extension,excluded,,extension_results_8.json,548,5,5,1,0,4,1
+extension_n8_0549,8,extension,excluded,,extension_results_8.json,549,5,5,1,0,5,1
+extension_n8_0550,8,extension,excluded,,extension_results_8.json,550,5,5,1,0,5,1
+extension_n8_0551,8,extension,excluded,,extension_results_8.json,551,5,5,1,0,3,1
+extension_n8_0552,8,extension,excluded,,extension_results_8.json,552,5,5,1,0,4,1
+extension_n8_0553,8,extension,excluded,,extension_results_8.json,553,5,5,1,0,4,1
+extension_n8_0554,8,extension,excluded,,extension_results_8.json,554,5,5,1,0,5,1
+extension_n8_0555,8,extension,excluded,,extension_results_8.json,555,5,5,1,0,3,1
+extension_n8_0556,8,extension,excluded,,extension_results_8.json,556,5,5,1,0,3,1
+extension_n8_0557,8,extension,accepted,n8_cell_104,extension_results_8.json,557,5,5,1,8,0,0
+extension_n8_0558,8,extension,accepted,n8_cell_105,extension_results_8.json,558,5,5,1,8,0,0
+extension_n8_0559,8,extension,accepted,n8_cell_106,extension_results_8.json,559,5,5,1,8,0,0
+extension_n8_0560,8,extension,excluded,,extension_results_8.json,560,5,5,1,0,3,1
+extension_n8_0561,8,extension,excluded,,extension_results_8.json,561,5,5,1,0,4,1
+extension_n8_0562,8,extension,excluded,,extension_results_8.json,562,5,5,1,0,4,1
+extension_n8_0563,8,extension,excluded,,extension_results_8.json,563,5,5,1,0,3,1
+extension_n8_0564,8,extension,excluded,,extension_results_8.json,564,5,5,1,0,4,1
+extension_n8_0565,8,extension,excluded,,extension_results_8.json,565,5,5,1,0,5,1
+extension_n8_0566,8,extension,excluded,,extension_results_8.json,566,5,5,1,0,5,1
+extension_n8_0567,8,extension,excluded,,extension_results_8.json,567,5,5,1,0,4,1
+extension_n8_0568,8,extension,excluded,,extension_results_8.json,568,5,5,1,0,4,1
+extension_n8_0569,8,extension,excluded,,extension_results_8.json,569,5,5,1,0,4,1
+extension_n8_0570,8,extension,excluded,,extension_results_8.json,570,5,5,1,0,4,1
+extension_n8_0571,8,extension,excluded,,extension_results_8.json,571,5,5,1,0,4,1
+extension_n8_0572,8,extension,accepted,n8_cell_101,extension_results_8.json,572,5,5,1,8,0,0
+extension_n8_0573,8,extension,accepted,n8_cell_102,extension_results_8.json,573,5,5,1,8,0,0
+extension_n8_0574,8,extension,excluded,,extension_results_8.json,574,5,5,1,0,9,1
+extension_n8_0575,8,extension,excluded,,extension_results_8.json,575,5,5,1,0,3,1
+extension_n8_0576,8,extension,accepted,n8_cell_103,extension_results_8.json,576,5,5,1,8,0,0
+extension_n8_0577,8,extension,excluded,,extension_results_8.json,577,5,5,1,0,3,1
+extension_n8_0578,8,extension,excluded,,extension_results_8.json,578,5,5,1,0,4,1
+extension_n8_0579,8,extension,excluded,,extension_results_8.json,579,5,5,1,0,2,1
+extension_n8_0580,8,extension,excluded,,extension_results_8.json,580,5,5,1,0,1,1
+extension_n8_0581,8,extension,excluded,,extension_results_8.json,581,5,5,1,0,2,1
+extension_n8_0582,8,extension,excluded,,extension_results_8.json,582,5,5,1,0,3,1
+extension_n8_0583,8,extension,excluded,,extension_results_8.json,583,5,5,1,0,3,1
+extension_n8_0584,8,extension,accepted,n8_cell_098,extension_results_8.json,584,5,5,1,8,0,0
+extension_n8_0585,8,extension,accepted,n8_cell_099,extension_results_8.json,585,5,5,1,8,0,0
+extension_n8_0586,8,extension,accepted,n8_cell_100,extension_results_8.json,586,5,5,1,8,0,0
+extension_n8_0587,8,extension,excluded,,extension_results_8.json,587,5,5,1,0,2,1
+extension_n8_0588,8,extension,excluded,,extension_results_8.json,588,5,5,1,0,3,1
+extension_n8_0589,8,extension,excluded,,extension_results_8.json,589,5,5,1,0,4,1
+extension_n8_0590,8,extension,excluded,,extension_results_8.json,590,5,5,1,0,4,1
+extension_n8_0591,8,extension,excluded,,extension_results_8.json,591,5,5,1,0,7,1
+extension_n8_0592,8,extension,excluded,,extension_results_8.json,592,4,2,1,0,1,1
+extension_n8_0593,8,extension,excluded,,extension_results_8.json,593,4,2,1,0,1,1
+extension_n8_0594,8,extension,excluded,,extension_results_8.json,594,4,2,1,0,1,1
+extension_n8_0595,8,extension,excluded,,extension_results_8.json,595,4,2,1,0,1,1
+extension_n8_0596,8,extension,excluded,,extension_results_8.json,596,4,2,1,0,1,1
+extension_n8_0597,8,extension,excluded,,extension_results_8.json,597,4,2,1,0,1,1
+extension_n8_0598,8,extension,accepted,n8_cell_058,extension_results_8.json,598,4,2,1,8,0,0
+extension_n8_0599,8,extension,excluded,,extension_results_8.json,599,4,2,1,0,1,1
+extension_n8_0600,8,extension,excluded,,extension_results_8.json,600,4,2,1,0,1,1
+extension_n8_0601,8,extension,excluded,,extension_results_8.json,601,4,2,1,0,1,1
+extension_n8_0602,8,extension,excluded,,extension_results_8.json,602,4,2,1,0,1,1
+extension_n8_0603,8,extension,excluded,,extension_results_8.json,603,4,2,1,0,1,1
+extension_n8_0604,8,extension,accepted,n8_cell_059,extension_results_8.json,604,4,2,1,8,0,0
+extension_n8_0605,8,extension,accepted,n8_cell_060,extension_results_8.json,605,4,2,1,8,0,0
+extension_n8_0606,8,extension,excluded,,extension_results_8.json,606,4,2,2,0,2,1
+extension_n8_0607,8,extension,excluded,,extension_results_8.json,607,4,2,1,0,1,1
+extension_n8_0608,8,extension,excluded,,extension_results_8.json,608,4,2,2,0,2,1
+extension_n8_0609,8,extension,excluded,,extension_results_8.json,609,4,2,2,0,2,1
+extension_n8_0610,8,extension,accepted,n8_cell_061,extension_results_8.json,610,4,2,1,8,0,0
+extension_n8_0611,8,extension,excluded,,extension_results_8.json,611,4,2,1,0,1,1
+extension_n8_0612,8,extension,excluded,,extension_results_8.json,612,4,2,2,0,2,1
+extension_n8_0613,8,extension,excluded,,extension_results_8.json,613,4,2,2,0,2,1
+extension_n8_0614,8,extension,excluded,,extension_results_8.json,614,4,2,1,0,1,1
+extension_n8_0615,8,extension,excluded,,extension_results_8.json,615,4,2,1,0,1,1
+extension_n8_0616,8,extension,excluded,,extension_results_8.json,616,4,2,1,0,1,1
+extension_n8_0617,8,extension,excluded,,extension_results_8.json,617,4,2,1,0,1,1
+extension_n8_0618,8,extension,excluded,,extension_results_8.json,618,4,2,2,0,2,1
+extension_n8_0619,8,extension,excluded,,extension_results_8.json,619,4,2,2,0,2,1
+extension_n8_0620,8,extension,excluded,,extension_results_8.json,620,4,2,1,0,1,1
+extension_n8_0621,8,extension,excluded,,extension_results_8.json,621,4,2,2,0,2,1
+extension_n8_0622,8,extension,excluded,,extension_results_8.json,622,4,2,2,0,6,1
+extension_n8_0623,8,extension,accepted,n8_cell_062,extension_results_8.json,623,4,2,1,8,0,0
+extension_n8_0624,8,extension,excluded,,extension_results_8.json,624,4,2,1,0,1,1
+extension_n8_0625,8,extension,excluded,,extension_results_8.json,625,4,2,2,0,2,1
+extension_n8_0626,8,extension,excluded,,extension_results_8.json,626,4,2,2,0,3,1
+extension_n8_0627,8,extension,accepted,n8_cell_058,extension_results_8.json,627,4,2,1,8,0,0
+extension_n8_0628,8,extension,accepted,n8_cell_061,extension_results_8.json,628,4,2,1,8,0,0
+extension_n8_0629,8,extension,accepted,n8_cell_062,extension_results_8.json,629,4,2,1,8,0,0
+extension_n8_0630,8,extension,accepted,n8_cell_063,extension_results_8.json,630,4,2,1,8,0,0
+extension_n8_0631,8,extension,accepted,n8_cell_064,extension_results_8.json,631,4,2,1,8,0,0
+extension_n8_0632,8,extension,excluded,,extension_results_8.json,632,4,2,2,0,3,1
+extension_n8_0633,8,extension,excluded,,extension_results_8.json,633,4,2,1,0,5,1
+extension_n8_0634,8,extension,excluded,,extension_results_8.json,634,4,2,1,0,1,1
+extension_n8_0635,8,extension,excluded,,extension_results_8.json,635,4,2,1,0,1,1
+extension_n8_0636,8,extension,excluded,,extension_results_8.json,636,4,2,1,0,1,1
+extension_n8_0637,8,extension,excluded,,extension_results_8.json,637,4,2,1,0,1,1
+extension_n8_0638,8,extension,excluded,,extension_results_8.json,638,4,2,2,0,2,1
+extension_n8_0639,8,extension,excluded,,extension_results_8.json,639,4,2,2,0,2,1
+extension_n8_0640,8,extension,excluded,,extension_results_8.json,640,4,2,1,0,1,1
+extension_n8_0641,8,extension,excluded,,extension_results_8.json,641,4,2,2,0,2,1
+extension_n8_0642,8,extension,excluded,,extension_results_8.json,642,4,2,2,0,3,1
+extension_n8_0643,8,extension,excluded,,extension_results_8.json,643,4,2,1,0,5,1
+extension_n8_0644,8,extension,excluded,,extension_results_8.json,644,4,2,1,0,1,1
+extension_n8_0645,8,extension,excluded,,extension_results_8.json,645,4,2,1,0,5,1
+extension_n8_0646,8,extension,excluded,,extension_results_8.json,646,4,2,2,0,3,1
+trivial_n8,8,trivial,accepted,,,,1,1,0,8,0,0
+trivial_n9,9,trivial,accepted,n9_cell_044,,,1,1,0,9,0,0
